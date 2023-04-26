@@ -11,6 +11,8 @@
   Uruchomienie testów automatycznych:
   - aby uruchomić testy automatyczne należy pobrać aplikację ADF-Hydra, otworzyć ją i uruchomić, wpisując w terminalu:
   node app.js
+  - aplikacja uruchamia się na:
+  localhost:3000
   - następnie w nowym oknie otworzyć testy automatyczne umieszczone w tym folderze i w terminalu wpisać:
   npx mocha --no-timeouts 'test/automaticTestsAdf-Hydra.js'
   - aby testy uruchomiły się poprawnie należy wcześniej pobrać i zainstalować chromedriver na swoim komputerze
@@ -26,6 +28,8 @@
   Uruchomienie testów wydajnościowych:
   - aby uruchomić te testy należy również w pierwszej kolejności pobrać i uruchomić aplikację ADF-Hydra, wpisując w terminalu otwartej aplikacji polecenie:
   node app.js,
+  - aplikacja uruchamia się na:
+  localhost:3000,
   - następnie uruchomić testy w Jmeter
   
   Otwarcie raporów z wynikami testów:
