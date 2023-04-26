@@ -1,0 +1,941 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1682193561582,44,(GET) Logowanie,200,OK,Thread Group 1-1,text,true,,1403,125,1,1,http://localhost:3000/logowanie,38,0,25
+1682193561702,6,(GET) Logowanie,200,OK,Thread Group 1-2,text,true,,1403,125,2,2,http://localhost:3000/logowanie,6,0,1
+1682193561948,264,(GET) Logowanie,200,OK,Thread Group 1-3,text,true,,1403,125,4,4,http://localhost:3000/logowanie,264,0,0
+1682193562191,35,(GET) Logowanie,200,OK,Thread Group 1-4,text,true,,1403,125,4,4,http://localhost:3000/logowanie,35,0,1
+1682193562447,8,(GET) Logowanie,200,OK,Thread Group 1-5,text,true,,1403,125,5,5,http://localhost:3000/logowanie,8,0,2
+1682193562664,297,(GET) Logowanie,200,OK,Thread Group 1-6,text,true,,1403,125,6,6,http://localhost:3000/logowanie,297,0,1
+1682193562967,100,(GET) Logowanie,200,OK,Thread Group 1-7,text,true,,1403,125,7,7,http://localhost:3000/logowanie,100,0,1
+1682193563196,8,(GET) Logowanie,200,OK,Thread Group 1-8,text,true,,1403,125,8,8,http://localhost:3000/logowanie,8,0,2
+1682193563460,269,(GET) Logowanie,200,OK,Thread Group 1-9,text,true,,1403,125,10,10,http://localhost:3000/logowanie,269,0,1
+1682193561709,2146,(POST) Logowanie,200,OK,Thread Group 1-2,text,true,,50032,424,10,10,http://localhost:3000/strona_glowna,758,0,0
+1682193561709,758,(POST) Logowanie-0,302,Found,Thread Group 1-2,text,true,,266,295,10,10,http://localhost:3000/logowanie,758,0,0
+1682193562469,1386,(POST) Logowanie-1,200,OK,Thread Group 1-2,text,true,,49766,129,10,10,http://localhost:3000/strona_glowna,1386,0,0
+1682193561701,2152,Logowanie,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-2,,true,,51435,549,10,10,null,764,3,1
+1682193563726,136,(GET) Logowanie,200,OK,Thread Group 1-10,text,true,,1403,125,10,10,http://localhost:3000/logowanie,136,0,1
+1682193563963,10,(GET) Logowanie,200,OK,Thread Group 1-11,text,true,,1403,125,11,11,http://localhost:3000/logowanie,10,0,2
+1682193561629,2698,(POST) Logowanie,200,OK,Thread Group 1-1,text,true,,50032,424,12,12,http://localhost:3000/strona_glowna,1041,0,0
+1682193561629,1042,(POST) Logowanie-0,302,Found,Thread Group 1-1,text,true,,266,295,12,12,http://localhost:3000/logowanie,1041,0,0
+1682193562671,1656,(POST) Logowanie-1,200,OK,Thread Group 1-1,text,true,,49766,129,12,12,http://localhost:3000/strona_glowna,1656,0,0
+1682193561407,2742,Logowanie,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,,true,,51435,549,12,12,null,1079,168,25
+1682193562227,2212,(POST) Logowanie,200,OK,Thread Group 1-4,text,true,,50032,424,12,12,http://localhost:3000/strona_glowna,906,0,0
+1682193562227,906,(POST) Logowanie-0,302,Found,Thread Group 1-4,text,true,,266,295,12,12,http://localhost:3000/logowanie,906,0,0
+1682193563133,1306,(POST) Logowanie-1,200,OK,Thread Group 1-4,text,true,,49766,129,12,12,http://localhost:3000/strona_glowna,1305,0,0
+1682193562190,2247,Logowanie,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-4,,true,,51435,549,12,12,null,941,2,1
+1682193562213,2339,(POST) Logowanie,200,OK,Thread Group 1-3,text,true,,50032,424,13,13,http://localhost:3000/strona_glowna,914,0,0
+1682193562213,914,(POST) Logowanie-0,302,Found,Thread Group 1-3,text,true,,266,295,13,13,http://localhost:3000/logowanie,914,0,0
+1682193563128,1424,(POST) Logowanie-1,200,OK,Thread Group 1-3,text,true,,49766,129,13,13,http://localhost:3000/strona_glowna,1423,0,0
+1682193561947,2603,Logowanie,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-3,,true,,51435,549,13,13,null,1178,3,0
+1682193564197,361,(GET) Logowanie,200,OK,Thread Group 1-12,text,true,,1403,125,13,13,http://localhost:3000/logowanie,361,0,1
+1682193562457,2221,(POST) Logowanie,200,OK,Thread Group 1-5,text,true,,50032,424,13,13,http://localhost:3000/strona_glowna,861,0,0
+1682193562457,861,(POST) Logowanie-0,302,Found,Thread Group 1-5,text,true,,266,295,13,13,http://localhost:3000/logowanie,861,0,0
+1682193563318,1360,(POST) Logowanie-1,200,OK,Thread Group 1-5,text,true,,49766,129,13,13,http://localhost:3000/strona_glowna,1359,0,0
+1682193562445,2229,Logowanie,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-5,,true,,51435,549,13,13,null,869,4,2
+1682193564450,234,(GET) Logowanie,200,OK,Thread Group 1-13,text,true,,1403,125,13,13,http://localhost:3000/logowanie,234,0,1
+1682193564724,5,(GET) Logowanie,200,OK,Thread Group 1-14,text,true,,1403,125,14,14,http://localhost:3000/logowanie,5,0,1
+1682193562962,2184,(POST) Logowanie,200,OK,Thread Group 1-6,text,true,,50032,424,15,15,http://localhost:3000/strona_glowna,871,0,0
+1682193562962,872,(POST) Logowanie-0,302,Found,Thread Group 1-6,text,true,,266,295,15,15,http://localhost:3000/logowanie,871,0,0
+1682193563834,1312,(POST) Logowanie-1,200,OK,Thread Group 1-6,text,true,,49766,129,15,15,http://localhost:3000/strona_glowna,1312,0,0
+1682193562663,2481,Logowanie,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-6,,true,,51435,549,15,15,null,1168,3,1
+1682193563068,2088,(POST) Logowanie,200,OK,Thread Group 1-7,text,true,,50032,424,15,15,http://localhost:3000/strona_glowna,829,0,0
+1682193563068,829,(POST) Logowanie-0,302,Found,Thread Group 1-7,text,true,,266,295,15,15,http://localhost:3000/logowanie,829,0,0
+1682193563898,1258,(POST) Logowanie-1,200,OK,Thread Group 1-7,text,true,,49766,129,15,15,http://localhost:3000/strona_glowna,1258,0,0
+1682193562966,2188,Logowanie,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-7,,true,,51435,549,15,15,null,929,3,1
+1682193563857,1409,(GET) Strona-główna,304,Not Modified,Thread Group 1-2,,true,,180,182,16,16,http://localhost:3000/strona_glowna,0,0,0
+1682193563206,2174,(POST) Logowanie,200,OK,Thread Group 1-8,text,true,,50032,424,16,16,http://localhost:3000/strona_glowna,788,0,0
+1682193563206,788,(POST) Logowanie-0,302,Found,Thread Group 1-8,text,true,,266,295,16,16,http://localhost:3000/logowanie,788,0,0
+1682193563995,1385,(POST) Logowanie-1,200,OK,Thread Group 1-8,text,true,,49766,129,16,16,http://localhost:3000/strona_glowna,1385,0,0
+1682193563194,2182,Logowanie,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-8,,true,,51435,549,16,16,null,796,5,2
+1682193564947,443,(GET) Logowanie,200,OK,Thread Group 1-15,text,true,,1403,125,16,16,http://localhost:3000/logowanie,443,0,1
+1682193565203,302,(GET) Logowanie,200,OK,Thread Group 1-16,text,true,,1403,125,17,17,http://localhost:3000/logowanie,302,0,1
+1682193565441,75,(GET) Logowanie,200,OK,Thread Group 1-17,text,true,,1403,125,17,17,http://localhost:3000/logowanie,75,0,2
+1682193564328,1246,(GET) Strona-główna,304,Not Modified,Thread Group 1-1,,true,,180,182,17,17,http://localhost:3000/strona_glowna,0,0,0
+1682193564553,1034,(GET) Strona-główna,304,Not Modified,Thread Group 1-3,,true,,180,182,17,17,http://localhost:3000/strona_glowna,0,0,0
+1682193565700,9,(GET) Logowanie,200,OK,Thread Group 1-18,text,true,,1403,125,18,18,http://localhost:3000/logowanie,8,0,2
+1682193564678,1457,(GET) Strona-główna,304,Not Modified,Thread Group 1-5,,true,,180,182,19,19,http://localhost:3000/strona_glowna,0,0,0
+1682193564440,1916,(GET) Strona-główna,304,Not Modified,Thread Group 1-4,,true,,180,182,20,20,http://localhost:3000/strona_glowna,0,0,0
+1682193565934,536,(GET) Logowanie,200,OK,Thread Group 1-19,text,true,,1403,125,20,20,http://localhost:3000/logowanie,536,0,1
+1682193563730,2773,(POST) Logowanie,200,OK,Thread Group 1-9,text,true,,50032,424,20,20,http://localhost:3000/strona_glowna,1008,0,0
+1682193563730,1008,(POST) Logowanie-0,302,Found,Thread Group 1-9,text,true,,266,295,20,20,http://localhost:3000/logowanie,1008,0,0
+1682193564738,1765,(POST) Logowanie-1,200,OK,Thread Group 1-9,text,true,,49766,129,20,20,http://localhost:3000/strona_glowna,1765,0,0
+1682193563459,3042,Logowanie,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-9,,true,,51435,549,20,20,null,1277,3,1
+1682193563863,2652,(POST) Logowanie,200,OK,Thread Group 1-10,text,true,,50032,424,20,20,http://localhost:3000/strona_glowna,880,0,0
+1682193563863,880,(POST) Logowanie-0,302,Found,Thread Group 1-10,text,true,,266,295,20,20,http://localhost:3000/logowanie,880,0,0
+1682193564743,1772,(POST) Logowanie-1,200,OK,Thread Group 1-10,text,true,,49766,129,20,20,http://localhost:3000/strona_glowna,1771,0,0
+1682193563725,2788,Logowanie,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-10,,true,,51435,549,20,20,null,1016,3,1
+1682193565268,1253,(GET) Klienci,200,OK,Thread Group 1-2,text,true,,21586,137,20,20,http://localhost:3000/strona_glowna/klienci,1253,0,0
+1682193566179,346,(GET) Logowanie,200,OK,Thread Group 1-20,text,true,,1403,125,20,20,http://localhost:3000/logowanie,346,0,1
+1682193563974,2689,(POST) Logowanie,200,OK,Thread Group 1-11,text,true,,50032,424,20,20,http://localhost:3000/strona_glowna,975,0,0
+1682193563974,975,(POST) Logowanie-0,302,Found,Thread Group 1-11,text,true,,266,295,20,20,http://localhost:3000/logowanie,975,0,0
+1682193564949,1714,(POST) Logowanie-1,200,OK,Thread Group 1-11,text,true,,49766,129,20,20,http://localhost:3000/strona_glowna,1714,0,0
+1682193563962,2699,Logowanie,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-11,,true,,51435,549,20,20,null,985,3,2
+1682193565147,1535,(GET) Strona-główna,304,Not Modified,Thread Group 1-6,,true,,180,182,20,20,http://localhost:3000/strona_glowna,0,0,0
+1682193565158,1543,(GET) Strona-główna,304,Not Modified,Thread Group 1-7,,true,,180,182,20,20,http://localhost:3000/strona_glowna,0,0,0
+1682193565381,1337,(GET) Strona-główna,304,Not Modified,Thread Group 1-8,,true,,180,182,20,20,http://localhost:3000/strona_glowna,0,0,0
+1682193565575,1502,(GET) Klienci,200,OK,Thread Group 1-1,text,true,,21586,137,20,20,http://localhost:3000/strona_glowna/klienci,1502,0,0
+1682193565588,1526,(GET) Klienci,200,OK,Thread Group 1-3,text,true,,21586,137,20,20,http://localhost:3000/strona_glowna/klienci,1526,0,0
+1682193564561,2563,(POST) Logowanie,200,OK,Thread Group 1-12,text,true,,50032,424,20,20,http://localhost:3000/strona_glowna,847,0,0
+1682193564561,848,(POST) Logowanie-0,302,Found,Thread Group 1-12,text,true,,266,295,20,20,http://localhost:3000/logowanie,847,0,0
+1682193565409,1715,(POST) Logowanie-1,200,OK,Thread Group 1-12,text,true,,49766,129,20,20,http://localhost:3000/strona_glowna,1715,0,0
+1682193564195,2924,Logowanie,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-12,,true,,51435,549,20,20,null,1208,6,1
+1682193566135,1214,(GET) Klienci,200,OK,Thread Group 1-5,text,true,,21586,137,20,20,http://localhost:3000/strona_glowna/klienci,1214,0,0
+1682193566521,834,(GET) Dodaj-klienta,200,OK,Thread Group 1-2,text,true,,5628,143,20,20,http://localhost:3000/strona_glowna/dodaj_klienta,834,0,0
+1682193564685,2683,(POST) Logowanie,200,OK,Thread Group 1-13,text,true,,50032,424,20,20,http://localhost:3000/strona_glowna,904,0,0
+1682193564685,904,(POST) Logowanie-0,302,Found,Thread Group 1-13,text,true,,266,295,20,20,http://localhost:3000/logowanie,904,0,0
+1682193565590,1778,(POST) Logowanie-1,200,OK,Thread Group 1-13,text,true,,49766,129,20,20,http://localhost:3000/strona_glowna,1778,0,0
+1682193564449,2917,Logowanie,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-13,,true,,51435,549,20,20,null,1138,3,1
+1682193566357,1502,(GET) Klienci,200,OK,Thread Group 1-4,text,true,,21586,137,20,20,http://localhost:3000/strona_glowna/klienci,1501,0,0
+1682193564730,3160,(POST) Logowanie,200,OK,Thread Group 1-14,text,true,,50032,424,20,20,http://localhost:3000/strona_glowna,1097,0,0
+1682193564730,1097,(POST) Logowanie-0,302,Found,Thread Group 1-14,text,true,,266,295,20,20,http://localhost:3000/logowanie,1097,0,0
+1682193565828,2062,(POST) Logowanie-1,200,OK,Thread Group 1-14,text,true,,49766,129,20,20,http://localhost:3000/strona_glowna,2062,0,0
+1682193564723,3165,Logowanie,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-14,,true,,51435,549,20,20,null,1102,3,1
+1682193566718,1415,(GET) Klienci,200,OK,Thread Group 1-8,text,true,,21586,137,20,20,http://localhost:3000/strona_glowna/klienci,1415,0,0
+1682193566682,1479,(GET) Klienci,200,OK,Thread Group 1-6,text,true,,21586,137,20,20,http://localhost:3000/strona_glowna/klienci,1478,0,0
+1682193566701,1471,(GET) Klienci,200,OK,Thread Group 1-7,text,true,,21586,137,20,20,http://localhost:3000/strona_glowna/klienci,1471,0,0
+1682193567077,1105,(GET) Dodaj-klienta,200,OK,Thread Group 1-1,text,true,,5628,143,20,20,http://localhost:3000/strona_glowna/dodaj_klienta,1105,0,0
+1682193567114,1073,(GET) Dodaj-klienta,200,OK,Thread Group 1-3,text,true,,5628,143,20,20,http://localhost:3000/strona_glowna/dodaj_klienta,1073,0,0
+1682193567350,988,(GET) Dodaj-klienta,200,OK,Thread Group 1-5,text,true,,5628,143,20,20,http://localhost:3000/strona_glowna/dodaj_klienta,988,0,0
+1682193566503,1868,(GET) Strona-główna,304,Not Modified,Thread Group 1-9,,true,,180,182,20,20,http://localhost:3000/strona_glowna,0,0,0
+1682193565391,2998,(POST) Logowanie,200,OK,Thread Group 1-15,text,true,,50032,424,20,20,http://localhost:3000/strona_glowna,1090,0,0
+1682193565391,1090,(POST) Logowanie-0,302,Found,Thread Group 1-15,text,true,,266,295,20,20,http://localhost:3000/logowanie,1090,0,0
+1682193566481,1908,(POST) Logowanie-1,200,OK,Thread Group 1-15,text,true,,49766,129,20,20,http://localhost:3000/strona_glowna,1908,0,0
+1682193564946,3441,Logowanie,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-15,,true,,51435,549,20,20,null,1533,3,1
+1682193565518,2881,(POST) Logowanie,200,OK,Thread Group 1-17,text,true,,50032,424,20,20,http://localhost:3000/strona_glowna,1128,0,0
+1682193565518,1128,(POST) Logowanie-0,302,Found,Thread Group 1-17,text,true,,266,295,20,20,http://localhost:3000/logowanie,1128,0,0
+1682193566646,1753,(POST) Logowanie-1,200,OK,Thread Group 1-17,text,true,,49766,129,20,20,http://localhost:3000/strona_glowna,1753,0,0
+1682193565440,2956,Logowanie,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-17,,true,,51435,549,20,20,null,1203,5,2
+1682193566516,1889,(GET) Strona-główna,304,Not Modified,Thread Group 1-10,,true,,180,182,20,20,http://localhost:3000/strona_glowna,0,0,0
+1682193566664,1888,(GET) Strona-główna,304,Not Modified,Thread Group 1-11,,true,,180,182,20,20,http://localhost:3000/strona_glowna,0,0,0
+1682193567859,901,(GET) Dodaj-klienta,200,OK,Thread Group 1-4,text,true,,5628,143,20,20,http://localhost:3000/strona_glowna/dodaj_klienta,901,0,0
+1682193565711,3361,(POST) Logowanie,200,OK,Thread Group 1-18,text,true,,50032,424,20,20,http://localhost:3000/strona_glowna,1192,0,0
+1682193565711,1192,(POST) Logowanie-0,302,Found,Thread Group 1-18,text,true,,266,295,20,20,http://localhost:3000/logowanie,1192,0,0
+1682193566902,2170,(POST) Logowanie-1,200,OK,Thread Group 1-18,text,true,,49766,129,20,20,http://localhost:3000/strona_glowna,2169,0,0
+1682193565698,3370,Logowanie,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-18,,true,,51435,549,20,20,null,1200,5,2
+1682193565506,3574,(POST) Logowanie,200,OK,Thread Group 1-16,text,true,,50032,424,20,20,http://localhost:3000/strona_glowna,1395,0,0
+1682193565506,1396,(POST) Logowanie-0,302,Found,Thread Group 1-16,text,true,,266,295,20,20,http://localhost:3000/logowanie,1395,0,0
+1682193566901,2179,(POST) Logowanie-1,200,OK,Thread Group 1-16,text,true,,49766,129,20,20,http://localhost:3000/strona_glowna,2179,0,0
+1682193565202,3876,Logowanie,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-16,,true,,51435,549,20,20,null,1697,4,1
+1682193567125,1962,(GET) Strona-główna,304,Not Modified,Thread Group 1-12,,true,,180,182,20,20,http://localhost:3000/strona_glowna,0,0,0
+1682193568134,957,(GET) Dodaj-klienta,200,OK,Thread Group 1-8,text,true,,5628,143,20,20,http://localhost:3000/strona_glowna/dodaj_klienta,957,0,0
+1682193568174,924,(GET) Dodaj-klienta,200,OK,Thread Group 1-7,text,true,,5628,143,20,20,http://localhost:3000/strona_glowna/dodaj_klienta,924,0,0
+1682193568163,938,(GET) Dodaj-klienta,200,OK,Thread Group 1-6,text,true,,5628,143,20,20,http://localhost:3000/strona_glowna/dodaj_klienta,938,0,0
+1682193567368,1997,(GET) Strona-główna,304,Not Modified,Thread Group 1-13,,true,,180,182,20,20,http://localhost:3000/strona_glowna,0,0,0
+1682193566470,2913,(POST) Logowanie,200,OK,Thread Group 1-19,text,true,,50032,424,20,20,http://localhost:3000/strona_glowna,858,0,0
+1682193566470,858,(POST) Logowanie-0,302,Found,Thread Group 1-19,text,true,,266,295,20,20,http://localhost:3000/logowanie,858,0,0
+1682193567327,2056,(POST) Logowanie-1,200,OK,Thread Group 1-19,text,true,,49766,129,20,20,http://localhost:3000/strona_glowna,2056,0,0
+1682193565933,3449,Logowanie,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-19,,true,,51435,549,20,20,null,1394,3,1
+1682193566525,3011,(POST) Logowanie,200,OK,Thread Group 1-20,text,true,,50032,424,20,20,http://localhost:3000/strona_glowna,1016,0,0
+1682193566525,1016,(POST) Logowanie-0,302,Found,Thread Group 1-20,text,true,,266,295,20,20,http://localhost:3000/logowanie,1016,0,0
+1682193567542,1994,(POST) Logowanie-1,200,OK,Thread Group 1-20,text,true,,49766,129,20,20,http://localhost:3000/strona_glowna,1993,0,0
+1682193566178,3357,Logowanie,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-20,,true,,51435,549,20,20,null,1362,3,1
+1682193567890,1800,(GET) Strona-główna,304,Not Modified,Thread Group 1-14,,true,,180,182,20,20,http://localhost:3000/strona_glowna,0,0,0
+1682193568405,1297,(GET) Klienci,200,OK,Thread Group 1-10,text,true,,27906,137,20,20,http://localhost:3000/strona_glowna/klienci,1296,0,0
+1682193568372,1381,(GET) Klienci,200,OK,Thread Group 1-9,text,true,,27906,137,20,20,http://localhost:3000/strona_glowna/klienci,1381,0,0
+1682193568553,1322,(GET) Klienci,200,OK,Thread Group 1-11,text,true,,29486,137,20,20,http://localhost:3000/strona_glowna/klienci,1322,0,0
+1682193568400,1600,(GET) Strona-główna,304,Not Modified,Thread Group 1-17,,true,,180,182,20,20,http://localhost:3000/strona_glowna,0,0,0
+1682193568389,1660,(GET) Strona-główna,304,Not Modified,Thread Group 1-15,,true,,180,182,20,20,http://localhost:3000/strona_glowna,0,0,0
+1682193569088,1214,(GET) Klienci,200,OK,Thread Group 1-12,text,true,,34226,137,20,20,http://localhost:3000/strona_glowna/klienci,1214,0,0
+1682193569703,630,(GET) Dodaj-klienta,200,OK,Thread Group 1-10,text,true,,5628,143,20,20,http://localhost:3000/strona_glowna/dodaj_klienta,630,0,0
+1682193569366,1078,(GET) Klienci,200,OK,Thread Group 1-13,text,true,,34226,137,20,20,http://localhost:3000/strona_glowna/klienci,1077,0,0
+1682193569755,703,(GET) Dodaj-klienta,200,OK,Thread Group 1-9,text,true,,5628,143,20,20,http://localhost:3000/strona_glowna/dodaj_klienta,703,0,0
+1682193569877,624,(GET) Dodaj-klienta,200,OK,Thread Group 1-11,text,true,,5628,143,20,20,http://localhost:3000/strona_glowna/dodaj_klienta,624,0,0
+1682193569073,1553,(GET) Strona-główna,304,Not Modified,Thread Group 1-18,,true,,180,182,20,20,http://localhost:3000/strona_glowna,0,0,0
+1682193569081,1564,(GET) Strona-główna,304,Not Modified,Thread Group 1-16,,true,,180,182,20,20,http://localhost:3000/strona_glowna,0,0,0
+1682193569691,984,(GET) Klienci,200,OK,Thread Group 1-14,text,true,,34226,137,20,20,http://localhost:3000/strona_glowna/klienci,984,0,0
+1682193569385,1379,(GET) Strona-główna,304,Not Modified,Thread Group 1-19,,true,,180,182,20,20,http://localhost:3000/strona_glowna,0,0,0
+1682193569537,1311,(GET) Strona-główna,304,Not Modified,Thread Group 1-20,,true,,180,182,20,20,http://localhost:3000/strona_glowna,0,0,0
+1682193570303,645,(GET) Dodaj-klienta,200,OK,Thread Group 1-12,text,true,,5628,143,20,20,http://localhost:3000/strona_glowna/dodaj_klienta,645,0,0
+1682193570008,952,(GET) Klienci,200,OK,Thread Group 1-17,text,true,,35806,137,20,20,http://localhost:3000/strona_glowna/klienci,952,0,0
+1682193570051,937,(GET) Klienci,200,OK,Thread Group 1-15,text,true,,35806,137,20,20,http://localhost:3000/strona_glowna/klienci,937,0,0
+1682193567355,3736,(POST) Dodaj-klienta,200,OK,Thread Group 1-2,text,true,,9070,780,20,20,http://localhost:3000/strona_glowna/klienci/64443ca0e8d7561b245964eb,2115,0,0
+1682193567355,2116,(POST) Dodaj-klienta-0,302,Found,Thread Group 1-2,text,true,,332,618,20,20,http://localhost:3000/strona_glowna/dodaj_klienta,2115,0,0
+1682193569471,1620,(POST) Dodaj-klienta-1,200,OK,Thread Group 1-2,text,true,,8738,162,20,20,http://localhost:3000/strona_glowna/klienci/64443ca0e8d7561b245964eb,1620,0,0
+1682193570445,717,(GET) Dodaj-klienta,200,OK,Thread Group 1-13,text,true,,5628,143,20,20,http://localhost:3000/strona_glowna/dodaj_klienta,717,0,0
+1682193570677,654,(GET) Dodaj-klienta,200,OK,Thread Group 1-14,text,true,,5628,143,20,20,http://localhost:3000/strona_glowna/dodaj_klienta,654,0,0
+1682193568183,3273,(POST) Dodaj-klienta,200,OK,Thread Group 1-1,text,true,,12597,780,20,20,http://localhost:3000/strona_glowna/klienci/64443ca0e8d7561b2459650c,1649,0,0
+1682193568183,1649,(POST) Dodaj-klienta-0,302,Found,Thread Group 1-1,text,true,,332,618,20,20,http://localhost:3000/strona_glowna/dodaj_klienta,1649,0,0
+1682193569832,1624,(POST) Dodaj-klienta-1,200,OK,Thread Group 1-1,text,true,,12265,162,20,20,http://localhost:3000/strona_glowna/klienci/64443ca0e8d7561b2459650c,1623,0,0
+1682193568188,3327,(POST) Dodaj-klienta,200,OK,Thread Group 1-3,text,true,,12597,780,20,20,http://localhost:3000/strona_glowna/klienci/64443ca0e8d7561b2459650c,1713,0,0
+1682193568188,1713,(POST) Dodaj-klienta-0,302,Found,Thread Group 1-3,text,true,,332,618,20,20,http://localhost:3000/strona_glowna/dodaj_klienta,1713,0,0
+1682193569901,1614,(POST) Dodaj-klienta-1,200,OK,Thread Group 1-3,text,true,,12265,162,20,20,http://localhost:3000/strona_glowna/klienci/64443ca0e8d7561b2459650c,1613,0,0
+1682193570962,647,(GET) Dodaj-klienta,200,OK,Thread Group 1-17,text,true,,5628,143,20,20,http://localhost:3000/strona_glowna/dodaj_klienta,647,0,0
+1682193570629,1015,(GET) Klienci,200,OK,Thread Group 1-18,text,true,,40546,137,20,20,http://localhost:3000/strona_glowna/klienci,1015,0,0
+1682193570646,1009,(GET) Klienci,200,OK,Thread Group 1-16,text,true,,40546,137,20,20,http://localhost:3000/strona_glowna/klienci,1009,0,0
+1682193570989,674,(GET) Dodaj-klienta,200,OK,Thread Group 1-15,text,true,,5628,143,20,20,http://localhost:3000/strona_glowna/dodaj_klienta,674,0,0
+1682193568340,3375,(POST) Dodaj-klienta,200,OK,Thread Group 1-5,text,true,,23175,780,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516,1777,0,0
+1682193568340,1777,(POST) Dodaj-klienta-0,302,Found,Thread Group 1-5,text,true,,332,618,20,20,http://localhost:3000/strona_glowna/dodaj_klienta,1777,0,0
+1682193570118,1597,(POST) Dodaj-klienta-1,200,OK,Thread Group 1-5,text,true,,22843,162,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516,1597,0,0
+1682193570765,980,(GET) Klienci,200,OK,Thread Group 1-19,text,true,,40546,137,20,20,http://localhost:3000/strona_glowna/klienci,980,0,0
+1682193570849,994,(GET) Klienci,200,OK,Thread Group 1-20,text,true,,42126,137,20,20,http://localhost:3000/strona_glowna/klienci,994,0,0
+1682193568761,3239,(POST) Dodaj-klienta,200,OK,Thread Group 1-4,text,true,,23175,780,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516,1664,0,0
+1682193568761,1664,(POST) Dodaj-klienta-0,302,Found,Thread Group 1-4,text,true,,332,618,20,20,http://localhost:3000/strona_glowna/dodaj_klienta,1664,0,0
+1682193570425,1575,(POST) Dodaj-klienta-1,200,OK,Thread Group 1-4,text,true,,22843,162,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516,1575,0,0
+1682193569092,3056,(POST) Dodaj-klienta,200,OK,Thread Group 1-8,text,true,,23175,780,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516,1416,0,0
+1682193569092,1417,(POST) Dodaj-klienta-0,302,Found,Thread Group 1-8,text,true,,332,618,20,20,http://localhost:3000/strona_glowna/dodaj_klienta,1416,0,0
+1682193570509,1639,(POST) Dodaj-klienta-1,200,OK,Thread Group 1-8,text,true,,22843,162,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516,1638,0,0
+1682193569098,3114,(POST) Dodaj-klienta,200,OK,Thread Group 1-7,text,true,,23175,780,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516,1487,0,0
+1682193569098,1487,(POST) Dodaj-klienta-0,302,Found,Thread Group 1-7,text,true,,332,618,20,20,http://localhost:3000/strona_glowna/dodaj_klienta,1487,0,0
+1682193570586,1626,(POST) Dodaj-klienta-1,200,OK,Thread Group 1-7,text,true,,22843,162,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516,1625,0,0
+1682193569102,3189,(POST) Dodaj-klienta,200,OK,Thread Group 1-6,text,true,,23175,780,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516,1552,0,0
+1682193569102,1552,(POST) Dodaj-klienta-0,302,Found,Thread Group 1-6,text,true,,332,618,20,20,http://localhost:3000/strona_glowna/dodaj_klienta,1552,0,0
+1682193570654,1637,(POST) Dodaj-klienta-1,200,OK,Thread Group 1-6,text,true,,22843,162,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516,1637,0,0
+1682193571657,683,(GET) Dodaj-klienta,200,OK,Thread Group 1-16,text,true,,5628,143,20,20,http://localhost:3000/strona_glowna/dodaj_klienta,682,0,0
+1682193571646,704,(GET) Dodaj-klienta,200,OK,Thread Group 1-18,text,true,,5628,143,20,20,http://localhost:3000/strona_glowna/dodaj_klienta,704,0,0
+1682193571747,675,(GET) Dodaj-klienta,200,OK,Thread Group 1-19,text,true,,5628,143,20,20,http://localhost:3000/strona_glowna/dodaj_klienta,675,0,0
+1682193571845,652,(GET) Dodaj-klienta,200,OK,Thread Group 1-20,text,true,,5628,143,20,20,http://localhost:3000/strona_glowna/dodaj_klienta,652,0,0
+1682193571099,1610,(GET) Otwórz-klienta,304,Not Modified,Thread Group 1-2,,true,,180,215,20,20,http://localhost:3000/strona_glowna/klienci/64443ca0e8d7561b245964eb,0,0,0
+1682193571460,1623,(GET) Otwórz-klienta,304,Not Modified,Thread Group 1-1,,true,,180,215,20,20,http://localhost:3000/strona_glowna/klienci/64443ca0e8d7561b2459650c,0,0,0
+1682193571518,1593,(GET) Otwórz-klienta,304,Not Modified,Thread Group 1-3,,true,,180,215,20,20,http://localhost:3000/strona_glowna/klienci/64443ca0e8d7561b2459650c,0,0,0
+1682193570335,2917,(POST) Dodaj-klienta,200,OK,Thread Group 1-10,text,true,,12597,780,20,20,http://localhost:3000/strona_glowna/klienci/64443ca2e8d7561b24596585,1254,0,0
+1682193570335,1254,(POST) Dodaj-klienta-0,302,Found,Thread Group 1-10,text,true,,332,618,20,20,http://localhost:3000/strona_glowna/dodaj_klienta,1254,0,0
+1682193571590,1662,(POST) Dodaj-klienta-1,200,OK,Thread Group 1-10,text,true,,12265,162,20,20,http://localhost:3000/strona_glowna/klienci/64443ca2e8d7561b24596585,1662,0,0
+1682193571719,1605,(GET) Otwórz-klienta,304,Not Modified,Thread Group 1-5,,true,,180,215,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516,0,0,0
+1682193570503,2914,(POST) Dodaj-klienta,200,OK,Thread Group 1-11,text,true,,12597,780,20,20,http://localhost:3000/strona_glowna/klienci/64443ca2e8d7561b24596585,1297,0,0
+1682193570503,1297,(POST) Dodaj-klienta-0,302,Found,Thread Group 1-11,text,true,,332,618,20,20,http://localhost:3000/strona_glowna/dodaj_klienta,1297,0,0
+1682193571801,1616,(POST) Dodaj-klienta-1,200,OK,Thread Group 1-11,text,true,,12265,162,20,20,http://localhost:3000/strona_glowna/klienci/64443ca2e8d7561b24596585,1616,0,0
+1682193570460,3027,(POST) Dodaj-klienta,200,OK,Thread Group 1-9,text,true,,9070,780,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b24596595,1392,0,0
+1682193570460,1392,(POST) Dodaj-klienta-0,302,Found,Thread Group 1-9,text,true,,332,618,20,20,http://localhost:3000/strona_glowna/dodaj_klienta,1392,0,0
+1682193571853,1634,(POST) Dodaj-klienta-1,200,OK,Thread Group 1-9,text,true,,8738,162,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b24596595,1633,0,0
+1682193572005,1577,(GET) Otwórz-klienta,304,Not Modified,Thread Group 1-4,,true,,180,215,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516,0,0,0
+1682193572711,969,(GET) Edytuj-dane-klienta,200,OK,Thread Group 1-2,text,true,,2975,177,20,20,http://localhost:3000/strona_glowna/klienci/64443ca0e8d7561b245964eb/edytuj_klienta,969,0,0
+1682193572151,1612,(GET) Otwórz-klienta,304,Not Modified,Thread Group 1-8,,true,,180,215,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516,0,0,0
+1682193572216,1621,(GET) Otwórz-klienta,304,Not Modified,Thread Group 1-7,,true,,180,215,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516,0,0,0
+1682193570949,2913,(POST) Dodaj-klienta,200,OK,Thread Group 1-12,text,true,,9070,780,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965a3,1275,0,0
+1682193570949,1275,(POST) Dodaj-klienta-0,302,Found,Thread Group 1-12,text,true,,332,618,20,20,http://localhost:3000/strona_glowna/dodaj_klienta,1275,0,0
+1682193572226,1636,(POST) Dodaj-klienta-1,200,OK,Thread Group 1-12,text,true,,8738,162,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965a3,1636,0,0
+1682193572295,1621,(GET) Otwórz-klienta,304,Not Modified,Thread Group 1-6,,true,,180,215,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516,0,0,0
+1682193571164,2905,(POST) Dodaj-klienta,200,OK,Thread Group 1-13,text,true,,19649,780,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965ba,1266,0,0
+1682193571164,1266,(POST) Dodaj-klienta-0,302,Found,Thread Group 1-13,text,true,,332,618,20,20,http://localhost:3000/strona_glowna/dodaj_klienta,1266,0,0
+1682193572431,1638,(POST) Dodaj-klienta-1,200,OK,Thread Group 1-13,text,true,,19317,162,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965ba,1638,0,0
+1682193573084,997,(GET) Edytuj-dane-klienta,200,OK,Thread Group 1-1,text,true,,2975,177,20,20,http://localhost:3000/strona_glowna/klienci/64443ca0e8d7561b2459650c/edytuj_klienta,997,0,0
+1682193573112,995,(GET) Edytuj-dane-klienta,200,OK,Thread Group 1-3,text,true,,2975,177,20,20,http://localhost:3000/strona_glowna/klienci/64443ca0e8d7561b2459650c/edytuj_klienta,995,0,0
+1682193571332,2927,(POST) Dodaj-klienta,200,OK,Thread Group 1-14,text,true,,19649,780,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965ba,1269,0,0
+1682193571332,1270,(POST) Dodaj-klienta-0,302,Found,Thread Group 1-14,text,true,,332,618,20,20,http://localhost:3000/strona_glowna/dodaj_klienta,1269,0,0
+1682193572603,1656,(POST) Dodaj-klienta-1,200,OK,Thread Group 1-14,text,true,,19317,162,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965ba,1655,0,0
+1682193573325,946,(GET) Edytuj-dane-klienta,200,OK,Thread Group 1-5,text,true,,2975,177,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516/edytuj_klienta,946,0,0
+1682193571666,2872,(POST) Dodaj-klienta,200,OK,Thread Group 1-15,text,true,,19649,780,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965ba,1282,0,0
+1682193571666,1282,(POST) Dodaj-klienta-0,302,Found,Thread Group 1-15,text,true,,332,618,20,20,http://localhost:3000/strona_glowna/dodaj_klienta,1282,0,0
+1682193572949,1589,(POST) Dodaj-klienta-1,200,OK,Thread Group 1-15,text,true,,19317,162,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965ba,1588,0,0
+1682193571611,2981,(POST) Dodaj-klienta,200,OK,Thread Group 1-17,text,true,,19649,780,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965ba,1296,0,0
+1682193571611,1296,(POST) Dodaj-klienta-0,302,Found,Thread Group 1-17,text,true,,332,618,20,20,http://localhost:3000/strona_glowna/dodaj_klienta,1296,0,0
+1682193572908,1684,(POST) Dodaj-klienta-1,200,OK,Thread Group 1-17,text,true,,19317,162,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965ba,1683,0,0
+1682193573583,1019,(GET) Edytuj-dane-klienta,200,OK,Thread Group 1-4,text,true,,2975,177,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516/edytuj_klienta,1019,0,0
+1682193573763,1021,(GET) Edytuj-dane-klienta,200,OK,Thread Group 1-8,text,true,,2975,177,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516/edytuj_klienta,1020,0,0
+1682193573838,970,(GET) Edytuj-dane-klienta,200,OK,Thread Group 1-7,text,true,,2975,177,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516/edytuj_klienta,970,0,0
+1682193573917,995,(GET) Edytuj-dane-klienta,200,OK,Thread Group 1-6,text,true,,2975,177,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516/edytuj_klienta,995,0,0
+1682193573255,1674,(GET) Otwórz-klienta,304,Not Modified,Thread Group 1-10,,true,,180,215,20,20,http://localhost:3000/strona_glowna/klienci/64443ca2e8d7561b24596585,0,0,0
+1682193573420,1584,(GET) Otwórz-klienta,304,Not Modified,Thread Group 1-11,,true,,180,215,20,20,http://localhost:3000/strona_glowna/klienci/64443ca2e8d7561b24596585,0,0,0
+1682193573489,1629,(GET) Otwórz-klienta,304,Not Modified,Thread Group 1-9,,true,,180,215,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b24596595,0,0,0
+1682193572341,2930,(POST) Dodaj-klienta,200,OK,Thread Group 1-16,text,true,,19649,780,20,20,http://localhost:3000/strona_glowna/klienci/64443ca4e8d7561b245965f4,1283,0,0
+1682193572341,1283,(POST) Dodaj-klienta-0,302,Found,Thread Group 1-16,text,true,,332,618,20,20,http://localhost:3000/strona_glowna/dodaj_klienta,1283,0,0
+1682193573625,1646,(POST) Dodaj-klienta-1,200,OK,Thread Group 1-16,text,true,,19317,162,20,20,http://localhost:3000/strona_glowna/klienci/64443ca4e8d7561b245965f4,1646,0,0
+1682193572352,2942,(POST) Dodaj-klienta,200,OK,Thread Group 1-18,text,true,,19649,780,20,20,http://localhost:3000/strona_glowna/klienci/64443ca4e8d7561b245965f4,1338,0,0
+1682193572352,1339,(POST) Dodaj-klienta-0,302,Found,Thread Group 1-18,text,true,,332,618,20,20,http://localhost:3000/strona_glowna/dodaj_klienta,1338,0,0
+1682193573692,1602,(POST) Dodaj-klienta-1,200,OK,Thread Group 1-18,text,true,,19317,162,20,20,http://localhost:3000/strona_glowna/klienci/64443ca4e8d7561b245965f4,1602,0,0
+1682193572499,2915,(POST) Dodaj-klienta,200,OK,Thread Group 1-20,text,true,,19649,780,20,20,http://localhost:3000/strona_glowna/klienci/64443ca4e8d7561b245965f4,1291,0,0
+1682193572499,1291,(POST) Dodaj-klienta-0,302,Found,Thread Group 1-20,text,true,,332,618,20,20,http://localhost:3000/strona_glowna/dodaj_klienta,1291,0,0
+1682193573791,1623,(POST) Dodaj-klienta-1,200,OK,Thread Group 1-20,text,true,,19317,162,20,20,http://localhost:3000/strona_glowna/klienci/64443ca4e8d7561b245965f4,1623,0,0
+1682193572423,3009,(POST) Dodaj-klienta,200,OK,Thread Group 1-19,text,true,,19649,780,20,20,http://localhost:3000/strona_glowna/klienci/64443ca4e8d7561b245965f4,1327,0,0
+1682193572423,1327,(POST) Dodaj-klienta-0,302,Found,Thread Group 1-19,text,true,,332,618,20,20,http://localhost:3000/strona_glowna/dodaj_klienta,1327,0,0
+1682193573750,1682,(POST) Dodaj-klienta-1,200,OK,Thread Group 1-19,text,true,,19317,162,20,20,http://localhost:3000/strona_glowna/klienci/64443ca4e8d7561b245965f4,1682,0,0
+1682193573863,1584,(GET) Otwórz-klienta,304,Not Modified,Thread Group 1-12,,true,,180,215,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965a3,0,0,0
+1682193574071,1660,(GET) Otwórz-klienta,304,Not Modified,Thread Group 1-13,,true,,180,215,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965ba,0,0,0
+1682193574930,985,(GET) Edytuj-dane-klienta,200,OK,Thread Group 1-10,text,true,,2975,177,20,20,http://localhost:3000/strona_glowna/klienci/64443ca2e8d7561b24596585/edytuj_klienta,985,0,0
+1682193575004,927,(GET) Edytuj-dane-klienta,200,OK,Thread Group 1-11,text,true,,2975,177,20,20,http://localhost:3000/strona_glowna/klienci/64443ca2e8d7561b24596585/edytuj_klienta,927,0,0
+1682193574261,1687,(GET) Otwórz-klienta,304,Not Modified,Thread Group 1-14,,true,,180,215,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965ba,0,0,0
+1682193575119,955,(GET) Edytuj-dane-klienta,200,OK,Thread Group 1-9,text,true,,2975,177,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b24596595/edytuj_klienta,954,0,0
+1682193574540,1572,(GET) Otwórz-klienta,304,Not Modified,Thread Group 1-15,,true,,180,215,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965ba,0,0,0
+1682193574594,1667,(GET) Otwórz-klienta,304,Not Modified,Thread Group 1-17,,true,,180,215,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965ba,0,0,0
+1682193573681,2617,(POST) Edytuj-dane-klienta,200,OK,Thread Group 1-2,text,true,,9094,638,20,20,http://localhost:3000/strona_glowna/klienci/64443ca0e8d7561b245964eb,952,0,0
+1682193573681,952,(POST) Edytuj-dane-klienta-0,302,Found,Thread Group 1-2,text,true,,332,423,20,20,http://localhost:3000/strona_glowna/klienci/64443ca0e8d7561b245964eb/edytuj_klienta,952,0,0
+1682193574633,1665,(POST) Edytuj-dane-klienta-1,200,OK,Thread Group 1-2,text,true,,8762,215,20,20,http://localhost:3000/strona_glowna/klienci/64443ca0e8d7561b245964eb,1665,0,0
+1682193575448,1019,(GET) Edytuj-dane-klienta,200,OK,Thread Group 1-12,text,true,,2975,177,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965a3/edytuj_klienta,1019,0,0
+1682193574083,2558,(POST) Edytuj-dane-klienta,200,OK,Thread Group 1-1,text,true,,12621,638,20,20,http://localhost:3000/strona_glowna/klienci/64443ca0e8d7561b2459650c,987,0,0
+1682193574083,987,(POST) Edytuj-dane-klienta-0,302,Found,Thread Group 1-1,text,true,,332,423,20,20,http://localhost:3000/strona_glowna/klienci/64443ca0e8d7561b2459650c/edytuj_klienta,987,0,0
+1682193575070,1571,(POST) Edytuj-dane-klienta-1,200,OK,Thread Group 1-1,text,true,,12289,215,20,20,http://localhost:3000/strona_glowna/klienci/64443ca0e8d7561b2459650c,1571,0,0
+1682193575732,934,(GET) Edytuj-dane-klienta,200,OK,Thread Group 1-13,text,true,,2975,177,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965ba/edytuj_klienta,934,0,0
+1682193574109,2661,(POST) Edytuj-dane-klienta,200,OK,Thread Group 1-3,text,true,,12621,638,20,20,http://localhost:3000/strona_glowna/klienci/64443ca0e8d7561b2459650c,1015,0,0
+1682193574109,1015,(POST) Edytuj-dane-klienta-0,302,Found,Thread Group 1-3,text,true,,332,423,20,20,http://localhost:3000/strona_glowna/klienci/64443ca0e8d7561b2459650c/edytuj_klienta,1015,0,0
+1682193575124,1646,(POST) Edytuj-dane-klienta-1,200,OK,Thread Group 1-3,text,true,,12289,215,20,20,http://localhost:3000/strona_glowna/klienci/64443ca0e8d7561b2459650c,1646,0,0
+1682193574272,2535,(POST) Edytuj-dane-klienta,200,OK,Thread Group 1-5,text,true,,23199,638,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516,959,0,0
+1682193574272,959,(POST) Edytuj-dane-klienta-0,302,Found,Thread Group 1-5,text,true,,332,423,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516/edytuj_klienta,959,0,0
+1682193575231,1576,(POST) Edytuj-dane-klienta-1,200,OK,Thread Group 1-5,text,true,,22867,215,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516,1576,0,0
+1682193575273,1660,(GET) Otwórz-klienta,304,Not Modified,Thread Group 1-16,,true,,180,215,20,20,http://localhost:3000/strona_glowna/klienci/64443ca4e8d7561b245965f4,0,0,0
+1682193575949,999,(GET) Edytuj-dane-klienta,200,OK,Thread Group 1-14,text,true,,2975,177,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965ba/edytuj_klienta,999,0,0
+1682193575295,1673,(GET) Otwórz-klienta,304,Not Modified,Thread Group 1-18,,true,,180,215,20,20,http://localhost:3000/strona_glowna/klienci/64443ca4e8d7561b245965f4,0,0,0
+1682193576299,694,(GET) Dodaj-usługę,200,OK,Thread Group 1-2,text,true,,4679,175,20,20,http://localhost:3000/strona_glowna/klienci/64443ca0e8d7561b245964eb/dodaj_usluge,694,0,0
+1682193576113,975,(GET) Edytuj-dane-klienta,200,OK,Thread Group 1-15,text,true,,2975,177,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965ba/edytuj_klienta,975,0,0
+1682193575417,1687,(GET) Otwórz-klienta,304,Not Modified,Thread Group 1-20,,true,,180,215,20,20,http://localhost:3000/strona_glowna/klienci/64443ca4e8d7561b245965f4,0,0,0
+1682193575436,1690,(GET) Otwórz-klienta,304,Not Modified,Thread Group 1-19,,true,,180,215,20,20,http://localhost:3000/strona_glowna/klienci/64443ca4e8d7561b245965f4,0,0,0
+1682193576262,921,(GET) Edytuj-dane-klienta,200,OK,Thread Group 1-17,text,true,,2975,177,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965ba/edytuj_klienta,920,0,0
+1682193574603,2682,(POST) Edytuj-dane-klienta,200,OK,Thread Group 1-4,text,true,,23199,638,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516,1022,0,0
+1682193574603,1022,(POST) Edytuj-dane-klienta-0,302,Found,Thread Group 1-4,text,true,,332,423,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516/edytuj_klienta,1022,0,0
+1682193575626,1659,(POST) Edytuj-dane-klienta-1,200,OK,Thread Group 1-4,text,true,,22867,215,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516,1659,0,0
+1682193576642,656,(GET) Dodaj-usługę,200,OK,Thread Group 1-1,text,true,,4679,175,20,20,http://localhost:3000/strona_glowna/klienci/64443ca0e8d7561b2459650c/dodaj_usluge,656,0,0
+1682193574809,2541,(POST) Edytuj-dane-klienta,200,OK,Thread Group 1-7,text,true,,23199,638,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516,951,0,0
+1682193574809,951,(POST) Edytuj-dane-klienta-0,302,Found,Thread Group 1-7,text,true,,332,423,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516/edytuj_klienta,951,0,0
+1682193575761,1589,(POST) Edytuj-dane-klienta-1,200,OK,Thread Group 1-7,text,true,,22867,215,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516,1589,0,0
+1682193576772,644,(GET) Dodaj-usługę,200,OK,Thread Group 1-3,text,true,,4679,175,20,20,http://localhost:3000/strona_glowna/klienci/64443ca0e8d7561b2459650c/dodaj_usluge,643,0,0
+1682193574785,2677,(POST) Edytuj-dane-klienta,200,OK,Thread Group 1-8,text,true,,23199,638,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516,988,0,0
+1682193574785,988,(POST) Edytuj-dane-klienta-0,302,Found,Thread Group 1-8,text,true,,332,423,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516/edytuj_klienta,988,0,0
+1682193575774,1688,(POST) Edytuj-dane-klienta-1,200,OK,Thread Group 1-8,text,true,,22867,215,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516,1688,0,0
+1682193574913,2586,(POST) Edytuj-dane-klienta,200,OK,Thread Group 1-6,text,true,,23199,638,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516,970,0,0
+1682193574913,970,(POST) Edytuj-dane-klienta-0,302,Found,Thread Group 1-6,text,true,,332,423,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516/edytuj_klienta,970,0,0
+1682193575883,1616,(POST) Edytuj-dane-klienta-1,200,OK,Thread Group 1-6,text,true,,22867,215,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516,1616,0,0
+1682193576809,1035,(GET) Dodaj-usługę,200,OK,Thread Group 1-5,text,true,,4679,175,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516/dodaj_usluge,1035,0,0
+1682193576969,1296,(GET) Edytuj-dane-klienta,200,OK,Thread Group 1-18,text,true,,2975,177,20,20,http://localhost:3000/strona_glowna/klienci/64443ca4e8d7561b245965f4/edytuj_klienta,1296,0,0
+1682193577351,920,(GET) Dodaj-usługę,200,OK,Thread Group 1-7,text,true,,4679,175,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516/dodaj_usluge,920,0,0
+1682193577286,1001,(GET) Dodaj-usługę,200,OK,Thread Group 1-4,text,true,,4679,175,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516/dodaj_usluge,1001,0,0
+1682193576934,1356,(GET) Edytuj-dane-klienta,200,OK,Thread Group 1-16,text,true,,2975,177,20,20,http://localhost:3000/strona_glowna/klienci/64443ca4e8d7561b245965f4/edytuj_klienta,1356,0,0
+1682193577463,1110,(GET) Dodaj-usługę,200,OK,Thread Group 1-8,text,true,,4679,175,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516/dodaj_usluge,1110,0,0
+1682193577105,1472,(GET) Edytuj-dane-klienta,200,OK,Thread Group 1-20,text,true,,2975,177,20,20,http://localhost:3000/strona_glowna/klienci/64443ca4e8d7561b245965f4/edytuj_klienta,1472,0,0
+1682193577127,1465,(GET) Edytuj-dane-klienta,200,OK,Thread Group 1-19,text,true,,2975,177,20,20,http://localhost:3000/strona_glowna/klienci/64443ca4e8d7561b245965f4/edytuj_klienta,1465,0,0
+1682193577500,1096,(GET) Dodaj-usługę,200,OK,Thread Group 1-6,text,true,,4679,175,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516/dodaj_usluge,1096,0,0
+1682193575916,3091,(POST) Edytuj-dane-klienta,200,OK,Thread Group 1-10,text,true,,12621,638,20,20,http://localhost:3000/strona_glowna/klienci/64443ca2e8d7561b24596585,928,0,0
+1682193575916,928,(POST) Edytuj-dane-klienta-0,302,Found,Thread Group 1-10,text,true,,332,423,20,20,http://localhost:3000/strona_glowna/klienci/64443ca2e8d7561b24596585/edytuj_klienta,928,0,0
+1682193576845,2162,(POST) Edytuj-dane-klienta-1,200,OK,Thread Group 1-10,text,true,,12289,215,20,20,http://localhost:3000/strona_glowna/klienci/64443ca2e8d7561b24596585,2161,0,0
+1682193575932,3268,(POST) Edytuj-dane-klienta,200,OK,Thread Group 1-11,text,true,,12621,638,20,20,http://localhost:3000/strona_glowna/klienci/64443ca2e8d7561b24596585,1005,0,0
+1682193575932,1005,(POST) Edytuj-dane-klienta-0,302,Found,Thread Group 1-11,text,true,,332,423,20,20,http://localhost:3000/strona_glowna/klienci/64443ca2e8d7561b24596585/edytuj_klienta,1005,0,0
+1682193576938,2262,(POST) Edytuj-dane-klienta-1,200,OK,Thread Group 1-11,text,true,,12289,215,20,20,http://localhost:3000/strona_glowna/klienci/64443ca2e8d7561b24596585,2262,0,0
+1682193576075,3138,(POST) Edytuj-dane-klienta,200,OK,Thread Group 1-9,text,true,,9094,638,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b24596595,925,0,0
+1682193576075,925,(POST) Edytuj-dane-klienta-0,302,Found,Thread Group 1-9,text,true,,332,423,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b24596595/edytuj_klienta,925,0,0
+1682193577001,2212,(POST) Edytuj-dane-klienta-1,200,OK,Thread Group 1-9,text,true,,8762,215,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b24596595,2212,0,0
+1682193576468,3544,(POST) Edytuj-dane-klienta,200,OK,Thread Group 1-12,text,true,,9094,638,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965a3,1037,0,0
+1682193576468,1037,(POST) Edytuj-dane-klienta-0,302,Found,Thread Group 1-12,text,true,,332,423,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965a3/edytuj_klienta,1037,0,0
+1682193577505,2507,(POST) Edytuj-dane-klienta-1,200,OK,Thread Group 1-12,text,true,,8762,215,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965a3,2506,0,0
+1682193579008,1051,(GET) Dodaj-usługę,200,OK,Thread Group 1-10,text,true,,4679,175,20,20,http://localhost:3000/strona_glowna/klienci/64443ca2e8d7561b24596585/dodaj_usluge,1051,0,0
+1682193579201,1016,(GET) Dodaj-usługę,200,OK,Thread Group 1-11,text,true,,4679,175,20,20,http://localhost:3000/strona_glowna/klienci/64443ca2e8d7561b24596585/dodaj_usluge,1016,0,0
+1682193576667,3567,(POST) Edytuj-dane-klienta,200,OK,Thread Group 1-13,text,true,,19673,638,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965ba,1194,0,0
+1682193576667,1194,(POST) Edytuj-dane-klienta-0,302,Found,Thread Group 1-13,text,true,,332,423,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965ba/edytuj_klienta,1194,0,0
+1682193577862,2372,(POST) Edytuj-dane-klienta-1,200,OK,Thread Group 1-13,text,true,,19341,215,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965ba,2372,0,0
+1682193579215,1042,(GET) Dodaj-usługę,200,OK,Thread Group 1-9,text,true,,4679,175,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b24596595/dodaj_usluge,1042,0,0
+1682193576949,3681,(POST) Edytuj-dane-klienta,200,OK,Thread Group 1-14,text,true,,19673,638,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965ba,1331,0,0
+1682193576949,1331,(POST) Edytuj-dane-klienta-0,302,Found,Thread Group 1-14,text,true,,332,423,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965ba/edytuj_klienta,1331,0,0
+1682193578280,2350,(POST) Edytuj-dane-klienta-1,200,OK,Thread Group 1-14,text,true,,19341,215,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965ba,2350,0,0
+1682193576994,3654,(POST) Dodaj-usługę-1,200,OK,Thread Group 1-2,text,true,,12621,782,20,20,http://localhost:3000/strona_glowna/klienci/64443ca0e8d7561b245964eb,1282,0,0
+1682193576994,1282,(POST) Dodaj-usługę-1-0,302,Found,Thread Group 1-2,text,true,,332,567,20,20,http://localhost:3000/strona_glowna/klienci/64443ca0e8d7561b245964eb/dodaj_usluge,1282,0,0
+1682193578276,2372,(POST) Dodaj-usługę-1-1,200,OK,Thread Group 1-2,text,true,,12289,215,20,20,http://localhost:3000/strona_glowna/klienci/64443ca0e8d7561b245964eb,2372,0,0
+1682193577184,3654,(POST) Edytuj-dane-klienta,200,OK,Thread Group 1-17,text,true,,19673,638,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965ba,1399,0,0
+1682193577184,1399,(POST) Edytuj-dane-klienta-0,302,Found,Thread Group 1-17,text,true,,332,423,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965ba/edytuj_klienta,1399,0,0
+1682193578583,2255,(POST) Edytuj-dane-klienta-1,200,OK,Thread Group 1-17,text,true,,19341,215,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965ba,2255,0,0
+1682193577089,3760,(POST) Edytuj-dane-klienta,200,OK,Thread Group 1-15,text,true,,19673,638,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965ba,1492,0,0
+1682193577089,1492,(POST) Edytuj-dane-klienta-0,302,Found,Thread Group 1-15,text,true,,332,423,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965ba/edytuj_klienta,1492,0,0
+1682193578581,2268,(POST) Edytuj-dane-klienta-1,200,OK,Thread Group 1-15,text,true,,19341,215,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965ba,2268,0,0
+1682193580012,849,(GET) Dodaj-usługę,200,OK,Thread Group 1-12,text,true,,4679,175,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965a3/dodaj_usluge,849,0,0
+1682193577300,3736,(POST) Dodaj-usługę-1,200,OK,Thread Group 1-1,text,true,,19673,782,20,20,http://localhost:3000/strona_glowna/klienci/64443ca0e8d7561b2459650c,1477,0,0
+1682193577300,1477,(POST) Dodaj-usługę-1-0,302,Found,Thread Group 1-1,text,true,,332,567,20,20,http://localhost:3000/strona_glowna/klienci/64443ca0e8d7561b2459650c/dodaj_usluge,1477,0,0
+1682193578778,2258,(POST) Dodaj-usługę-1-1,200,OK,Thread Group 1-1,text,true,,19341,215,20,20,http://localhost:3000/strona_glowna/klienci/64443ca0e8d7561b2459650c,2258,0,0
+1682193580236,828,(GET) Dodaj-usługę,200,OK,Thread Group 1-13,text,true,,4679,175,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965ba/dodaj_usluge,828,0,0
+1682193577417,3934,(POST) Dodaj-usługę-1,200,OK,Thread Group 1-3,text,true,,19673,782,20,20,http://localhost:3000/strona_glowna/klienci/64443ca0e8d7561b2459650c,1563,0,0
+1682193577417,1564,(POST) Dodaj-usługę-1-0,302,Found,Thread Group 1-3,text,true,,332,567,20,20,http://localhost:3000/strona_glowna/klienci/64443ca0e8d7561b2459650c/dodaj_usluge,1563,0,0
+1682193578981,2370,(POST) Dodaj-usługę-1-1,200,OK,Thread Group 1-3,text,true,,19341,215,20,20,http://localhost:3000/strona_glowna/klienci/64443ca0e8d7561b2459650c,2370,0,0
+1682193577846,3524,(POST) Dodaj-usługę-1,200,OK,Thread Group 1-5,text,true,,40831,782,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516,1143,0,0
+1682193577846,1143,(POST) Dodaj-usługę-1-0,302,Found,Thread Group 1-5,text,true,,332,567,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516/dodaj_usluge,1143,0,0
+1682193578991,2379,(POST) Dodaj-usługę-1-1,200,OK,Thread Group 1-5,text,true,,40499,215,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516,2378,0,0
+1682193580631,948,(GET) Dodaj-usługę,200,OK,Thread Group 1-14,text,true,,4679,175,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965ba/dodaj_usluge,948,0,0
+1682193580839,924,(GET) Dodaj-usługę,200,OK,Thread Group 1-17,text,true,,4679,175,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965ba/dodaj_usluge,924,0,0
+1682193580850,921,(GET) Dodaj-usługę,200,OK,Thread Group 1-15,text,true,,4679,175,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965ba/dodaj_usluge,921,0,0
+1682193578272,3704,(POST) Dodaj-usługę-1,200,OK,Thread Group 1-7,text,true,,40831,782,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516,1440,0,0
+1682193578272,1440,(POST) Dodaj-usługę-1-0,302,Found,Thread Group 1-7,text,true,,332,567,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516/dodaj_usluge,1440,0,0
+1682193579712,2264,(POST) Dodaj-usługę-1-1,200,OK,Thread Group 1-7,text,true,,40499,215,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516,2264,0,0
+1682193578291,3707,(POST) Edytuj-dane-klienta,200,OK,Thread Group 1-16,text,true,,19673,638,20,20,http://localhost:3000/strona_glowna/klienci/64443ca4e8d7561b245965f4,1415,0,0
+1682193578291,1415,(POST) Edytuj-dane-klienta-0,302,Found,Thread Group 1-16,text,true,,332,423,20,20,http://localhost:3000/strona_glowna/klienci/64443ca4e8d7561b245965f4/edytuj_klienta,1415,0,0
+1682193579707,2291,(POST) Edytuj-dane-klienta-1,200,OK,Thread Group 1-16,text,true,,19341,215,20,20,http://localhost:3000/strona_glowna/klienci/64443ca4e8d7561b245965f4,2291,0,0
+1682193578266,3752,(POST) Edytuj-dane-klienta,200,OK,Thread Group 1-18,text,true,,19673,638,20,20,http://localhost:3000/strona_glowna/klienci/64443ca4e8d7561b245965f4,1443,0,0
+1682193578266,1443,(POST) Edytuj-dane-klienta-0,302,Found,Thread Group 1-18,text,true,,332,423,20,20,http://localhost:3000/strona_glowna/klienci/64443ca4e8d7561b245965f4/edytuj_klienta,1443,0,0
+1682193579710,2308,(POST) Edytuj-dane-klienta-1,200,OK,Thread Group 1-18,text,true,,19341,215,20,20,http://localhost:3000/strona_glowna/klienci/64443ca4e8d7561b245965f4,2308,0,0
+1682193578287,3751,(POST) Dodaj-usługę-1,200,OK,Thread Group 1-4,text,true,,40831,782,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516,1429,0,0
+1682193578287,1429,(POST) Dodaj-usługę-1-0,302,Found,Thread Group 1-4,text,true,,332,567,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516/dodaj_usluge,1429,0,0
+1682193579716,2322,(POST) Dodaj-usługę-1-1,200,OK,Thread Group 1-4,text,true,,40499,215,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516,2322,0,0
+1682193578578,3538,(POST) Edytuj-dane-klienta,200,OK,Thread Group 1-20,text,true,,19673,638,20,20,http://localhost:3000/strona_glowna/klienci/64443ca4e8d7561b245965f4,1446,0,0
+1682193578578,1446,(POST) Edytuj-dane-klienta-0,302,Found,Thread Group 1-20,text,true,,332,423,20,20,http://localhost:3000/strona_glowna/klienci/64443ca4e8d7561b245965f4/edytuj_klienta,1446,0,0
+1682193580024,2092,(POST) Edytuj-dane-klienta-1,200,OK,Thread Group 1-20,text,true,,19341,215,20,20,http://localhost:3000/strona_glowna/klienci/64443ca4e8d7561b245965f4,2091,0,0
+1682193578596,3538,(POST) Dodaj-usługę-1,200,OK,Thread Group 1-6,text,true,,40831,782,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516,1441,0,0
+1682193578596,1441,(POST) Dodaj-usługę-1-0,302,Found,Thread Group 1-6,text,true,,332,567,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516/dodaj_usluge,1441,0,0
+1682193580037,2097,(POST) Dodaj-usługę-1-1,200,OK,Thread Group 1-6,text,true,,40499,215,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516,2097,0,0
+1682193578574,3583,(POST) Dodaj-usługę-1,200,OK,Thread Group 1-8,text,true,,40831,782,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516,1456,0,0
+1682193578574,1457,(POST) Dodaj-usługę-1-0,302,Found,Thread Group 1-8,text,true,,332,567,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516/dodaj_usluge,1456,0,0
+1682193580032,2125,(POST) Dodaj-usługę-1-1,200,OK,Thread Group 1-8,text,true,,40499,215,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516,2125,0,0
+1682193578592,3619,(POST) Edytuj-dane-klienta,200,OK,Thread Group 1-19,text,true,,19673,638,20,20,http://localhost:3000/strona_glowna/klienci/64443ca4e8d7561b245965f4,1428,0,0
+1682193578592,1428,(POST) Edytuj-dane-klienta-0,302,Found,Thread Group 1-19,text,true,,332,423,20,20,http://localhost:3000/strona_glowna/klienci/64443ca4e8d7561b245965f4/edytuj_klienta,1428,0,0
+1682193580021,2190,(POST) Edytuj-dane-klienta-1,200,OK,Thread Group 1-19,text,true,,19341,215,20,20,http://localhost:3000/strona_glowna/klienci/64443ca4e8d7561b245965f4,2190,0,0
+1682193581999,707,(GET) Dodaj-usługę,200,OK,Thread Group 1-16,text,true,,4679,175,20,20,http://localhost:3000/strona_glowna/klienci/64443ca4e8d7561b245965f4/dodaj_usluge,707,0,0
+1682193582018,698,(GET) Dodaj-usługę,200,OK,Thread Group 1-18,text,true,,4679,175,20,20,http://localhost:3000/strona_glowna/klienci/64443ca4e8d7561b245965f4/dodaj_usluge,698,0,0
+1682193582116,688,(GET) Dodaj-usługę,200,OK,Thread Group 1-20,text,true,,4679,175,20,20,http://localhost:3000/strona_glowna/klienci/64443ca4e8d7561b245965f4/dodaj_usluge,688,0,0
+1682193582211,655,(GET) Dodaj-usługę,200,OK,Thread Group 1-19,text,true,,4679,175,20,20,http://localhost:3000/strona_glowna/klienci/64443ca4e8d7561b245965f4/dodaj_usluge,655,0,0
+1682193580060,3101,(POST) Dodaj-usługę-1,200,OK,Thread Group 1-10,text,true,,19673,782,20,20,http://localhost:3000/strona_glowna/klienci/64443ca2e8d7561b24596585,1322,0,0
+1682193580060,1322,(POST) Dodaj-usługę-1-0,302,Found,Thread Group 1-10,text,true,,332,567,20,20,http://localhost:3000/strona_glowna/klienci/64443ca2e8d7561b24596585/dodaj_usluge,1322,0,0
+1682193581382,1779,(POST) Dodaj-usługę-1-1,200,OK,Thread Group 1-10,text,true,,19341,215,20,20,http://localhost:3000/strona_glowna/klienci/64443ca2e8d7561b24596585,1779,0,0
+1682193580218,3022,(POST) Dodaj-usługę-1,200,OK,Thread Group 1-11,text,true,,19673,782,20,20,http://localhost:3000/strona_glowna/klienci/64443ca2e8d7561b24596585,1339,0,0
+1682193580218,1339,(POST) Dodaj-usługę-1-0,302,Found,Thread Group 1-11,text,true,,332,567,20,20,http://localhost:3000/strona_glowna/klienci/64443ca2e8d7561b24596585/dodaj_usluge,1339,0,0
+1682193581556,1684,(POST) Dodaj-usługę-1-1,200,OK,Thread Group 1-11,text,true,,19341,215,20,20,http://localhost:3000/strona_glowna/klienci/64443ca2e8d7561b24596585,1684,0,0
+1682193580259,3023,(POST) Dodaj-usługę-1,200,OK,Thread Group 1-9,text,true,,12621,782,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b24596595,1310,0,0
+1682193580259,1310,(POST) Dodaj-usługę-1-0,302,Found,Thread Group 1-9,text,true,,332,567,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b24596595/dodaj_usluge,1310,0,0
+1682193581568,1714,(POST) Dodaj-usługę-1-1,200,OK,Thread Group 1-9,text,true,,12289,215,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b24596595,1713,0,0
+1682193580650,2980,(POST) Dodaj-usługę-2,200,OK,Thread Group 1-2,text,true,,16163,790,20,20,http://localhost:3000/strona_glowna/klienci/64443ca0e8d7561b245964eb,1301,0,0
+1682193580650,1302,(POST) Dodaj-usługę-2-0,302,Found,Thread Group 1-2,text,true,,332,575,20,20,http://localhost:3000/strona_glowna/klienci/64443ca0e8d7561b245964eb/dodaj_usluge,1301,0,0
+1682193581951,1679,(POST) Dodaj-usługę-2-1,200,OK,Thread Group 1-2,text,true,,15831,215,20,20,http://localhost:3000/strona_glowna/klienci/64443ca0e8d7561b245964eb,1679,0,0
+1682193580861,2952,(POST) Dodaj-usługę-1,200,OK,Thread Group 1-12,text,true,,12621,782,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965a3,1336,0,0
+1682193580861,1336,(POST) Dodaj-usługę-1-0,302,Found,Thread Group 1-12,text,true,,332,567,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965a3/dodaj_usluge,1336,0,0
+1682193582196,1617,(POST) Dodaj-usługę-1-1,200,OK,Thread Group 1-12,text,true,,12289,215,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965a3,1617,0,0
+1682193581038,2827,(POST) Dodaj-usługę-2,200,OK,Thread Group 1-1,text,true,,26757,790,20,20,http://localhost:3000/strona_glowna/klienci/64443ca0e8d7561b2459650c,1256,0,0
+1682193581038,1256,(POST) Dodaj-usługę-2-0,302,Found,Thread Group 1-1,text,true,,332,575,20,20,http://localhost:3000/strona_glowna/klienci/64443ca0e8d7561b2459650c/dodaj_usluge,1256,0,0
+1682193582293,1572,(POST) Dodaj-usługę-2-1,200,OK,Thread Group 1-1,text,true,,26425,215,20,20,http://localhost:3000/strona_glowna/klienci/64443ca0e8d7561b2459650c,1572,0,0
+1682193581065,2830,(POST) Dodaj-usługę-1,200,OK,Thread Group 1-13,text,true,,33777,782,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965ba,1207,0,0
+1682193581065,1207,(POST) Dodaj-usługę-1-0,302,Found,Thread Group 1-13,text,true,,332,567,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965ba/dodaj_usluge,1207,0,0
+1682193582271,1624,(POST) Dodaj-usługę-1-1,200,OK,Thread Group 1-13,text,true,,33445,215,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965ba,1624,0,0
+1682193581372,2634,(POST) Dodaj-usługę-2,200,OK,Thread Group 1-5,text,true,,58551,790,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516,1061,0,0
+1682193581372,1061,(POST) Dodaj-usługę-2-0,302,Found,Thread Group 1-5,text,true,,332,575,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516/dodaj_usluge,1061,0,0
+1682193582432,1574,(POST) Dodaj-usługę-2-1,200,OK,Thread Group 1-5,text,true,,58219,215,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516,1574,0,0
+1682193581353,2662,(POST) Dodaj-usługę-2,200,OK,Thread Group 1-3,text,true,,26757,790,20,20,http://localhost:3000/strona_glowna/klienci/64443ca0e8d7561b2459650c,1101,0,0
+1682193581353,1101,(POST) Dodaj-usługę-2-0,302,Found,Thread Group 1-3,text,true,,332,575,20,20,http://localhost:3000/strona_glowna/klienci/64443ca0e8d7561b2459650c/dodaj_usluge,1101,0,0
+1682193582454,1561,(POST) Dodaj-usługę-2-1,200,OK,Thread Group 1-3,text,true,,26425,215,20,20,http://localhost:3000/strona_glowna/klienci/64443ca0e8d7561b2459650c,1561,0,0
+1682193581579,2623,(POST) Dodaj-usługę-1,200,OK,Thread Group 1-14,text,true,,33777,782,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965ba,1065,0,0
+1682193581579,1065,(POST) Dodaj-usługę-1-0,302,Found,Thread Group 1-14,text,true,,332,567,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965ba/dodaj_usluge,1065,0,0
+1682193582644,1558,(POST) Dodaj-usługę-1-1,200,OK,Thread Group 1-14,text,true,,33445,215,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965ba,1558,0,0
+1682193581771,2647,(POST) Dodaj-usługę-1,200,OK,Thread Group 1-15,text,true,,33777,782,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965ba,1068,0,0
+1682193581771,1068,(POST) Dodaj-usługę-1-0,302,Found,Thread Group 1-15,text,true,,332,567,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965ba/dodaj_usluge,1068,0,0
+1682193582839,1579,(POST) Dodaj-usługę-1-1,200,OK,Thread Group 1-15,text,true,,33445,215,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965ba,1578,0,0
+1682193581763,2717,(POST) Dodaj-usługę-1,200,OK,Thread Group 1-17,text,true,,33777,782,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965ba,1090,0,0
+1682193581763,1090,(POST) Dodaj-usługę-1-0,302,Found,Thread Group 1-17,text,true,,332,567,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965ba/dodaj_usluge,1090,0,0
+1682193582854,1626,(POST) Dodaj-usługę-1-1,200,OK,Thread Group 1-17,text,true,,33445,215,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965ba,1626,0,0
+1682193583632,926,(GET) Dodaj-powiązaną-usługę (do task-0),200,OK,Thread Group 1-2,text,true,,4739,210,20,20,http://localhost:3000/strona_glowna/klienci/64443ca0e8d7561b245964eb/64443ca0e8d7561b24596508/dodaj_powiazana_usluge,926,0,0
+1682193581977,2622,(POST) Dodaj-usługę-2,200,OK,Thread Group 1-7,text,true,,58551,790,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516,1026,0,0
+1682193581977,1026,(POST) Dodaj-usługę-2-0,302,Found,Thread Group 1-7,text,true,,332,575,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516/dodaj_usluge,1026,0,0
+1682193583003,1596,(POST) Dodaj-usługę-2-1,200,OK,Thread Group 1-7,text,true,,58219,215,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516,1596,0,0
+1682193582039,2583,(POST) Dodaj-usługę-2,200,OK,Thread Group 1-4,text,true,,58551,790,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516,958,0,0
+1682193582039,958,(POST) Dodaj-usługę-2-0,302,Found,Thread Group 1-4,text,true,,332,575,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516/dodaj_usluge,958,0,0
+1682193582997,1625,(POST) Dodaj-usługę-2-1,200,OK,Thread Group 1-4,text,true,,58219,215,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516,1624,0,0
+1682193582136,2497,(POST) Dodaj-usługę-2,200,OK,Thread Group 1-6,text,true,,58551,790,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516,938,0,0
+1682193582136,938,(POST) Dodaj-usługę-2-0,302,Found,Thread Group 1-6,text,true,,332,575,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516/dodaj_usluge,938,0,0
+1682193583074,1559,(POST) Dodaj-usługę-2-1,200,OK,Thread Group 1-6,text,true,,58219,215,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516,1559,0,0
+1682193582158,2575,(POST) Dodaj-usługę-2,200,OK,Thread Group 1-8,text,true,,58551,790,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516,975,0,0
+1682193582158,976,(POST) Dodaj-usługę-2-0,302,Found,Thread Group 1-8,text,true,,332,575,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516/dodaj_usluge,975,0,0
+1682193583134,1599,(POST) Dodaj-usługę-2-1,200,OK,Thread Group 1-8,text,true,,58219,215,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516,1599,0,0
+1682193583867,1018,(GET) Dodaj-powiązaną-usługę (do task-0),200,OK,Thread Group 1-1,text,true,,4739,210,20,20,http://localhost:3000/strona_glowna/klienci/64443ca0e8d7561b2459650c/64443ca1e8d7561b24596525/dodaj_powiazana_usluge,1018,0,0
+1682193584007,921,(GET) Dodaj-powiązaną-usługę (do task-0),200,OK,Thread Group 1-5,text,true,,4739,210,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516/64443ca1e8d7561b24596538/dodaj_powiazana_usluge,921,0,0
+1682193584016,934,(GET) Dodaj-powiązaną-usługę (do task-0),200,OK,Thread Group 1-3,text,true,,4739,210,20,20,http://localhost:3000/strona_glowna/klienci/64443ca0e8d7561b2459650c/64443ca1e8d7561b24596525/dodaj_powiazana_usluge,934,0,0
+1682193582717,2596,(POST) Dodaj-usługę-1,200,OK,Thread Group 1-18,text,true,,33777,782,20,20,http://localhost:3000/strona_glowna/klienci/64443ca4e8d7561b245965f4,978,0,0
+1682193582717,978,(POST) Dodaj-usługę-1-0,302,Found,Thread Group 1-18,text,true,,332,567,20,20,http://localhost:3000/strona_glowna/klienci/64443ca4e8d7561b245965f4/dodaj_usluge,978,0,0
+1682193583695,1618,(POST) Dodaj-usługę-1-1,200,OK,Thread Group 1-18,text,true,,33445,215,20,20,http://localhost:3000/strona_glowna/klienci/64443ca4e8d7561b245965f4,1618,0,0
+1682193582707,2647,(POST) Dodaj-usługę-1,200,OK,Thread Group 1-16,text,true,,33777,782,20,20,http://localhost:3000/strona_glowna/klienci/64443ca4e8d7561b245965f4,993,0,0
+1682193582707,994,(POST) Dodaj-usługę-1-0,302,Found,Thread Group 1-16,text,true,,332,567,20,20,http://localhost:3000/strona_glowna/klienci/64443ca4e8d7561b245965f4/dodaj_usluge,993,0,0
+1682193583701,1653,(POST) Dodaj-usługę-1-1,200,OK,Thread Group 1-16,text,true,,33445,215,20,20,http://localhost:3000/strona_glowna/klienci/64443ca4e8d7561b245965f4,1653,0,0
+1682193582805,2592,(POST) Dodaj-usługę-1,200,OK,Thread Group 1-20,text,true,,33777,782,20,20,http://localhost:3000/strona_glowna/klienci/64443ca4e8d7561b245965f4,950,0,0
+1682193582805,950,(POST) Dodaj-usługę-1-0,302,Found,Thread Group 1-20,text,true,,332,567,20,20,http://localhost:3000/strona_glowna/klienci/64443ca4e8d7561b245965f4/dodaj_usluge,950,0,0
+1682193583756,1641,(POST) Dodaj-usługę-1-1,200,OK,Thread Group 1-20,text,true,,33445,215,20,20,http://localhost:3000/strona_glowna/klienci/64443ca4e8d7561b245965f4,1641,0,0
+1682193582867,2565,(POST) Dodaj-usługę-1,200,OK,Thread Group 1-19,text,true,,33777,782,20,20,http://localhost:3000/strona_glowna/klienci/64443ca4e8d7561b245965f4,979,0,0
+1682193582867,979,(POST) Dodaj-usługę-1-0,302,Found,Thread Group 1-19,text,true,,332,567,20,20,http://localhost:3000/strona_glowna/klienci/64443ca4e8d7561b245965f4/dodaj_usluge,979,0,0
+1682193583846,1586,(POST) Dodaj-usługę-1-1,200,OK,Thread Group 1-19,text,true,,33445,215,20,20,http://localhost:3000/strona_glowna/klienci/64443ca4e8d7561b245965f4,1586,0,0
+1682193584600,957,(GET) Dodaj-powiązaną-usługę (do task-0),200,OK,Thread Group 1-7,text,true,,4739,210,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516/64443ca1e8d7561b24596538/dodaj_powiazana_usluge,957,0,0
+1682193584623,984,(GET) Dodaj-powiązaną-usługę (do task-0),200,OK,Thread Group 1-4,text,true,,4739,210,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516/64443ca1e8d7561b24596538/dodaj_powiazana_usluge,984,0,0
+1682193584634,996,(GET) Dodaj-powiązaną-usługę (do task-0),200,OK,Thread Group 1-6,text,true,,4739,210,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516/64443ca1e8d7561b24596538/dodaj_powiazana_usluge,996,0,0
+1682193584735,992,(GET) Dodaj-powiązaną-usługę (do task-0),200,OK,Thread Group 1-8,text,true,,4739,210,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516/64443ca1e8d7561b24596538/dodaj_powiazana_usluge,992,0,0
+1682193583162,2575,(POST) Dodaj-usługę-2,200,OK,Thread Group 1-10,text,true,,26757,790,20,20,http://localhost:3000/strona_glowna/klienci/64443ca2e8d7561b24596585,952,0,0
+1682193583162,952,(POST) Dodaj-usługę-2-0,302,Found,Thread Group 1-10,text,true,,332,575,20,20,http://localhost:3000/strona_glowna/klienci/64443ca2e8d7561b24596585/dodaj_usluge,952,0,0
+1682193584114,1623,(POST) Dodaj-usługę-2-1,200,OK,Thread Group 1-10,text,true,,26425,215,20,20,http://localhost:3000/strona_glowna/klienci/64443ca2e8d7561b24596585,1623,0,0
+1682193583242,2544,(POST) Dodaj-usługę-2,200,OK,Thread Group 1-11,text,true,,26757,790,20,20,http://localhost:3000/strona_glowna/klienci/64443ca2e8d7561b24596585,932,0,0
+1682193583242,933,(POST) Dodaj-usługę-2-0,302,Found,Thread Group 1-11,text,true,,332,575,20,20,http://localhost:3000/strona_glowna/klienci/64443ca2e8d7561b24596585/dodaj_usluge,932,0,0
+1682193584175,1611,(POST) Dodaj-usługę-2-1,200,OK,Thread Group 1-11,text,true,,26425,215,20,20,http://localhost:3000/strona_glowna/klienci/64443ca2e8d7561b24596585,1611,0,0
+1682193583282,2613,(POST) Dodaj-usługę-2,200,OK,Thread Group 1-9,text,true,,16163,790,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b24596595,964,0,0
+1682193583282,964,(POST) Dodaj-usługę-2-0,302,Found,Thread Group 1-9,text,true,,332,575,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b24596595/dodaj_usluge,964,0,0
+1682193584246,1649,(POST) Dodaj-usługę-2-1,200,OK,Thread Group 1-9,text,true,,15831,215,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b24596595,1649,0,0
+1682193583815,2498,(POST) Dodaj-usługę-2,200,OK,Thread Group 1-12,text,true,,16163,790,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965a3,939,0,0
+1682193583815,939,(POST) Dodaj-usługę-2-0,302,Found,Thread Group 1-12,text,true,,332,575,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965a3/dodaj_usluge,939,0,0
+1682193584754,1559,(POST) Dodaj-usługę-2-1,200,OK,Thread Group 1-12,text,true,,15831,215,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965a3,1559,0,0
+1682193583898,2586,(POST) Dodaj-usługę-2,200,OK,Thread Group 1-13,text,true,,47951,790,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965ba,967,0,0
+1682193583898,967,(POST) Dodaj-usługę-2-0,302,Found,Thread Group 1-13,text,true,,332,575,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965ba/dodaj_usluge,967,0,0
+1682193584865,1619,(POST) Dodaj-usługę-2-1,200,OK,Thread Group 1-13,text,true,,47619,215,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965ba,1619,0,0
+1682193585739,961,(GET) Dodaj-powiązaną-usługę (do task-0),200,OK,Thread Group 1-10,text,true,,4739,210,20,20,http://localhost:3000/strona_glowna/klienci/64443ca2e8d7561b24596585/64443ca3e8d7561b2459659b/dodaj_powiazana_usluge,961,0,0
+1682193584204,2536,(POST) Dodaj-usługę-2,200,OK,Thread Group 1-14,text,true,,47951,790,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965ba,907,0,0
+1682193584204,907,(POST) Dodaj-usługę-2-0,302,Found,Thread Group 1-14,text,true,,332,575,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965ba/dodaj_usluge,907,0,0
+1682193585112,1628,(POST) Dodaj-usługę-2-1,200,OK,Thread Group 1-14,text,true,,47619,215,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965ba,1628,0,0
+1682193585787,960,(GET) Dodaj-powiązaną-usługę (do task-0),200,OK,Thread Group 1-11,text,true,,4739,210,20,20,http://localhost:3000/strona_glowna/klienci/64443ca2e8d7561b24596585/64443ca3e8d7561b2459659b/dodaj_powiazana_usluge,960,0,0
+1682193585896,968,(GET) Dodaj-powiązaną-usługę (do task-0),200,OK,Thread Group 1-9,text,true,,4739,210,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b24596595/64443ca3e8d7561b245965ad/dodaj_powiazana_usluge,968,0,0
+1682193584419,2583,(POST) Dodaj-usługę-2,200,OK,Thread Group 1-15,text,true,,47951,790,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965ba,981,0,0
+1682193584419,982,(POST) Dodaj-usługę-2-0,302,Found,Thread Group 1-15,text,true,,332,575,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965ba/dodaj_usluge,981,0,0
+1682193585401,1601,(POST) Dodaj-usługę-2-1,200,OK,Thread Group 1-15,text,true,,47619,215,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965ba,1600,0,0
+1682193584482,2584,(POST) Dodaj-usługę-2,200,OK,Thread Group 1-17,text,true,,47951,790,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965ba,941,0,0
+1682193584482,941,(POST) Dodaj-usługę-2-0,302,Found,Thread Group 1-17,text,true,,332,575,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965ba/dodaj_usluge,941,0,0
+1682193585423,1643,(POST) Dodaj-usługę-2-1,200,OK,Thread Group 1-17,text,true,,47619,215,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965ba,1643,0,0
+1682193586314,938,(GET) Dodaj-powiązaną-usługę (do task-0),200,OK,Thread Group 1-12,text,true,,4739,210,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965a3/64443ca3e8d7561b245965c9/dodaj_powiazana_usluge,938,0,0
+1682193584558,2856,(POST) Dodaj-powiązaną-usługę (do task-0),200,OK,Thread Group 1-2,text,true,,19954,821,20,20,http://localhost:3000/strona_glowna/klienci/64443ca0e8d7561b245964eb,1292,0,0
+1682193584558,1292,(POST) Dodaj-powiązaną-usługę (do task-0)-0,302,Found,Thread Group 1-2,text,true,,332,606,20,20,http://localhost:3000/strona_glowna/klienci/64443ca0e8d7561b245964eb/64443ca0e8d7561b24596508/dodaj_powiazana_usluge,1292,0,0
+1682193585850,1564,(POST) Dodaj-powiązaną-usługę (do task-0)-1,200,OK,Thread Group 1-2,text,true,,19622,215,20,20,http://localhost:3000/strona_glowna/klienci/64443ca0e8d7561b245964eb,1564,0,0
+1682193586487,966,(GET) Dodaj-powiązaną-usługę (do task-0),200,OK,Thread Group 1-13,text,true,,4739,210,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965ba/64443ca4e8d7561b245965d7/dodaj_powiazana_usluge,966,0,0
+1682193586741,992,(GET) Dodaj-powiązaną-usługę (do task-0),200,OK,Thread Group 1-14,text,true,,4739,210,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965ba/64443ca4e8d7561b245965d7/dodaj_powiazana_usluge,992,0,0
+1682193584885,2970,(POST) Dodaj-powiązaną-usługę (do task-0),200,OK,Thread Group 1-1,text,true,,34082,821,20,20,http://localhost:3000/strona_glowna/klienci/64443ca0e8d7561b2459650c,1320,0,0
+1682193584885,1320,(POST) Dodaj-powiązaną-usługę (do task-0)-0,302,Found,Thread Group 1-1,text,true,,332,606,20,20,http://localhost:3000/strona_glowna/klienci/64443ca0e8d7561b2459650c/64443ca1e8d7561b24596525/dodaj_powiazana_usluge,1320,0,0
+1682193586205,1650,(POST) Dodaj-powiązaną-usługę (do task-0)-1,200,OK,Thread Group 1-1,text,true,,33750,215,20,20,http://localhost:3000/strona_glowna/klienci/64443ca0e8d7561b2459650c,1650,0,0
+1682193584950,2946,(POST) Dodaj-powiązaną-usługę (do task-0),200,OK,Thread Group 1-3,text,true,,34082,821,20,20,http://localhost:3000/strona_glowna/klienci/64443ca0e8d7561b2459650c,1301,0,0
+1682193584950,1301,(POST) Dodaj-powiązaną-usługę (do task-0)-0,302,Found,Thread Group 1-3,text,true,,332,606,20,20,http://localhost:3000/strona_glowna/klienci/64443ca0e8d7561b2459650c/64443ca1e8d7561b24596525/dodaj_powiazana_usluge,1301,0,0
+1682193586251,1645,(POST) Dodaj-powiązaną-usługę (do task-0)-1,200,OK,Thread Group 1-3,text,true,,33750,215,20,20,http://localhost:3000/strona_glowna/klienci/64443ca0e8d7561b2459650c,1645,0,0
+1682193585315,2623,(POST) Dodaj-usługę-2,200,OK,Thread Group 1-18,text,true,,47951,790,20,20,http://localhost:3000/strona_glowna/klienci/64443ca4e8d7561b245965f4,955,0,0
+1682193585315,955,(POST) Dodaj-usługę-2-0,302,Found,Thread Group 1-18,text,true,,332,575,20,20,http://localhost:3000/strona_glowna/klienci/64443ca4e8d7561b245965f4/dodaj_usluge,955,0,0
+1682193586270,1668,(POST) Dodaj-usługę-2-1,200,OK,Thread Group 1-18,text,true,,47619,215,20,20,http://localhost:3000/strona_glowna/klienci/64443ca4e8d7561b245965f4,1668,0,0
+1682193584929,3031,(POST) Dodaj-powiązaną-usługę (do task-0),200,OK,Thread Group 1-5,text,true,,76484,821,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516,1329,0,0
+1682193584929,1329,(POST) Dodaj-powiązaną-usługę (do task-0)-0,302,Found,Thread Group 1-5,text,true,,332,606,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516/64443ca1e8d7561b24596538/dodaj_powiazana_usluge,1329,0,0
+1682193586259,1701,(POST) Dodaj-powiązaną-usługę (do task-0)-1,200,OK,Thread Group 1-5,text,true,,76152,215,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516,1701,0,0
+1682193587003,967,(GET) Dodaj-powiązaną-usługę (do task-0),200,OK,Thread Group 1-15,text,true,,4739,210,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965ba/64443ca4e8d7561b245965d7/dodaj_powiazana_usluge,967,0,0
+1682193585433,2565,(POST) Dodaj-usługę-2,200,OK,Thread Group 1-19,text,true,,47951,790,20,20,http://localhost:3000/strona_glowna/klienci/64443ca4e8d7561b245965f4,1000,0,0
+1682193585433,1001,(POST) Dodaj-usługę-2-0,302,Found,Thread Group 1-19,text,true,,332,575,20,20,http://localhost:3000/strona_glowna/klienci/64443ca4e8d7561b245965f4/dodaj_usluge,1000,0,0
+1682193586434,1564,(POST) Dodaj-usługę-2-1,200,OK,Thread Group 1-19,text,true,,47619,215,20,20,http://localhost:3000/strona_glowna/klienci/64443ca4e8d7561b245965f4,1564,0,0
+1682193585355,2673,(POST) Dodaj-usługę-2,200,OK,Thread Group 1-16,text,true,,47951,790,20,20,http://localhost:3000/strona_glowna/klienci/64443ca4e8d7561b245965f4,963,0,0
+1682193585355,964,(POST) Dodaj-usługę-2-0,302,Found,Thread Group 1-16,text,true,,332,575,20,20,http://localhost:3000/strona_glowna/klienci/64443ca4e8d7561b245965f4/dodaj_usluge,963,0,0
+1682193586319,1709,(POST) Dodaj-usługę-2-1,200,OK,Thread Group 1-16,text,true,,47619,215,20,20,http://localhost:3000/strona_glowna/klienci/64443ca4e8d7561b245965f4,1709,0,0
+1682193585398,2644,(POST) Dodaj-usługę-2,200,OK,Thread Group 1-20,text,true,,47951,790,20,20,http://localhost:3000/strona_glowna/klienci/64443ca4e8d7561b245965f4,977,0,0
+1682193585398,977,(POST) Dodaj-usługę-2-0,302,Found,Thread Group 1-20,text,true,,332,575,20,20,http://localhost:3000/strona_glowna/klienci/64443ca4e8d7561b245965f4/dodaj_usluge,977,0,0
+1682193586376,1666,(POST) Dodaj-usługę-2-1,200,OK,Thread Group 1-20,text,true,,47619,215,20,20,http://localhost:3000/strona_glowna/klienci/64443ca4e8d7561b245965f4,1666,0,0
+1682193587068,1008,(GET) Dodaj-powiązaną-usługę (do task-0),200,OK,Thread Group 1-17,text,true,,4739,210,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965ba/64443ca4e8d7561b245965d7/dodaj_powiazana_usluge,1008,0,0
+1682193585631,2838,(POST) Dodaj-powiązaną-usługę (do task-0),200,OK,Thread Group 1-6,text,true,,76484,821,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516,1263,0,0
+1682193585631,1263,(POST) Dodaj-powiązaną-usługę (do task-0)-0,302,Found,Thread Group 1-6,text,true,,332,606,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516/64443ca1e8d7561b24596538/dodaj_powiazana_usluge,1263,0,0
+1682193586895,1574,(POST) Dodaj-powiązaną-usługę (do task-0)-1,200,OK,Thread Group 1-6,text,true,,76152,215,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516,1574,0,0
+1682193585558,2959,(POST) Dodaj-powiązaną-usługę (do task-0),200,OK,Thread Group 1-7,text,true,,76484,821,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516,1319,0,0
+1682193585558,1319,(POST) Dodaj-powiązaną-usługę (do task-0)-0,302,Found,Thread Group 1-7,text,true,,332,606,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516/64443ca1e8d7561b24596538/dodaj_powiazana_usluge,1319,0,0
+1682193586877,1640,(POST) Dodaj-powiązaną-usługę (do task-0)-1,200,OK,Thread Group 1-7,text,true,,76152,215,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516,1639,0,0
+1682193585609,2938,(POST) Dodaj-powiązaną-usługę (do task-0),200,OK,Thread Group 1-4,text,true,,76484,821,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516,1232,0,0
+1682193585609,1232,(POST) Dodaj-powiązaną-usługę (do task-0)-0,302,Found,Thread Group 1-4,text,true,,332,606,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516/64443ca1e8d7561b24596538/dodaj_powiazana_usluge,1232,0,0
+1682193586841,1706,(POST) Dodaj-powiązaną-usługę (do task-0)-1,200,OK,Thread Group 1-4,text,true,,76152,215,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516,1705,0,0
+1682193585728,2971,(POST) Dodaj-powiązaną-usługę (do task-0),200,OK,Thread Group 1-8,text,true,,76484,821,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516,1299,0,0
+1682193585728,1299,(POST) Dodaj-powiązaną-usługę (do task-0)-0,302,Found,Thread Group 1-8,text,true,,332,606,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516/64443ca1e8d7561b24596538/dodaj_powiazana_usluge,1299,0,0
+1682193587028,1671,(POST) Dodaj-powiązaną-usługę (do task-0)-1,200,OK,Thread Group 1-8,text,true,,76152,215,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516,1671,0,0
+1682193587416,1366,(GET) Edytuj-usługę (do task-0),200,OK,Thread Group 1-2,text,true,,4347,201,20,20,http://localhost:3000/strona_glowna/klienci/64443ca0e8d7561b245964eb/64443ca0e8d7561b24596508/edytuj_usluge,1366,0,0
+1682193587940,962,(GET) Dodaj-powiązaną-usługę (do task-0),200,OK,Thread Group 1-18,text,true,,4739,210,20,20,http://localhost:3000/strona_glowna/klienci/64443ca4e8d7561b245965f4/64443ca5e8d7561b24596629/dodaj_powiazana_usluge,962,0,0
+1682193587999,939,(GET) Dodaj-powiązaną-usługę (do task-0),200,OK,Thread Group 1-19,text,true,,4739,210,20,20,http://localhost:3000/strona_glowna/klienci/64443ca4e8d7561b245965f4/64443ca5e8d7561b24596629/dodaj_powiazana_usluge,939,0,0
+1682193588029,930,(GET) Dodaj-powiązaną-usługę (do task-0),200,OK,Thread Group 1-16,text,true,,4739,210,20,20,http://localhost:3000/strona_glowna/klienci/64443ca4e8d7561b245965f4/64443ca5e8d7561b24596629/dodaj_powiazana_usluge,930,0,0
+1682193588044,968,(GET) Dodaj-powiązaną-usługę (do task-0),200,OK,Thread Group 1-20,text,true,,4739,210,20,20,http://localhost:3000/strona_glowna/klienci/64443ca4e8d7561b245965f4/64443ca5e8d7561b24596629/dodaj_powiazana_usluge,968,0,0
+1682193587858,1263,(GET) Edytuj-usługę (do task-0),200,OK,Thread Group 1-1,text,true,,4347,201,20,20,http://localhost:3000/strona_glowna/klienci/64443ca0e8d7561b2459650c/64443ca1e8d7561b24596525/edytuj_usluge,1263,0,0
+1682193587898,1278,(GET) Edytuj-usługę (do task-0),200,OK,Thread Group 1-3,text,true,,4347,201,20,20,http://localhost:3000/strona_glowna/klienci/64443ca0e8d7561b2459650c/64443ca1e8d7561b24596525/edytuj_usluge,1278,0,0
+1682193587961,1296,(GET) Edytuj-usługę (do task-0),200,OK,Thread Group 1-5,text,true,,4347,201,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516/64443ca1e8d7561b24596538/edytuj_usluge,1296,0,0
+1682193586701,3029,(POST) Dodaj-powiązaną-usługę (do task-0),200,OK,Thread Group 1-10,text,true,,34082,821,20,20,http://localhost:3000/strona_glowna/klienci/64443ca2e8d7561b24596585,1345,0,0
+1682193586701,1345,(POST) Dodaj-powiązaną-usługę (do task-0)-0,302,Found,Thread Group 1-10,text,true,,332,606,20,20,http://localhost:3000/strona_glowna/klienci/64443ca2e8d7561b24596585/64443ca3e8d7561b2459659b/dodaj_powiazana_usluge,1345,0,0
+1682193588046,1684,(POST) Dodaj-powiązaną-usługę (do task-0)-1,200,OK,Thread Group 1-10,text,true,,33750,215,20,20,http://localhost:3000/strona_glowna/klienci/64443ca2e8d7561b24596585,1684,0,0
+1682193586748,2999,(POST) Dodaj-powiązaną-usługę (do task-0),200,OK,Thread Group 1-11,text,true,,34082,821,20,20,http://localhost:3000/strona_glowna/klienci/64443ca2e8d7561b24596585,1307,0,0
+1682193586748,1307,(POST) Dodaj-powiązaną-usługę (do task-0)-0,302,Found,Thread Group 1-11,text,true,,332,606,20,20,http://localhost:3000/strona_glowna/klienci/64443ca2e8d7561b24596585/64443ca3e8d7561b2459659b/dodaj_powiazana_usluge,1307,0,0
+1682193588055,1692,(POST) Dodaj-powiązaną-usługę (do task-0)-1,200,OK,Thread Group 1-11,text,true,,33750,215,20,20,http://localhost:3000/strona_glowna/klienci/64443ca2e8d7561b24596585,1692,0,0
+1682193588472,1298,(GET) Edytuj-usługę (do task-0),200,OK,Thread Group 1-6,text,true,,4347,201,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516/64443ca1e8d7561b24596538/edytuj_usluge,1298,0,0
+1682193588519,1290,(GET) Edytuj-usługę (do task-0),200,OK,Thread Group 1-7,text,true,,4347,201,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516/64443ca1e8d7561b24596538/edytuj_usluge,1290,0,0
+1682193586865,3037,(POST) Dodaj-powiązaną-usługę (do task-0),200,OK,Thread Group 1-9,text,true,,19954,821,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b24596595,1334,0,0
+1682193586865,1334,(POST) Dodaj-powiązaną-usługę (do task-0)-0,302,Found,Thread Group 1-9,text,true,,332,606,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b24596595/64443ca3e8d7561b245965ad/dodaj_powiazana_usluge,1334,0,0
+1682193588199,1703,(POST) Dodaj-powiązaną-usługę (do task-0)-1,200,OK,Thread Group 1-9,text,true,,19622,215,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b24596595,1703,0,0
+1682193588569,1354,(GET) Edytuj-usługę (do task-0),200,OK,Thread Group 1-4,text,true,,4345,201,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516/64443ca1e8d7561b24596538/edytuj_usluge,1354,0,0
+1682193588701,1273,(GET) Edytuj-usługę (do task-0),200,OK,Thread Group 1-8,text,true,,4345,201,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516/64443ca1e8d7561b24596538/edytuj_usluge,1273,0,0
+1682193587253,3000,(POST) Dodaj-powiązaną-usługę (do task-0),200,OK,Thread Group 1-12,text,true,,19954,821,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965a3,1327,0,0
+1682193587253,1328,(POST) Dodaj-powiązaną-usługę (do task-0)-0,302,Found,Thread Group 1-12,text,true,,332,606,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965a3/64443ca3e8d7561b245965c9/dodaj_powiazana_usluge,1327,0,0
+1682193588581,1672,(POST) Dodaj-powiązaną-usługę (do task-0)-1,200,OK,Thread Group 1-12,text,true,,19622,215,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965a3,1672,0,0
+1682193587454,2933,(POST) Dodaj-powiązaną-usługę (do task-0),200,OK,Thread Group 1-13,text,true,,62348,821,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965ba,1335,0,0
+1682193587454,1335,(POST) Dodaj-powiązaną-usługę (do task-0)-0,302,Found,Thread Group 1-13,text,true,,332,606,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965ba/64443ca4e8d7561b245965d7/dodaj_powiazana_usluge,1335,0,0
+1682193588789,1598,(POST) Dodaj-powiązaną-usługę (do task-0)-1,200,OK,Thread Group 1-13,text,true,,62016,215,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965ba,1598,0,0
+1682193587733,3071,(POST) Dodaj-powiązaną-usługę (do task-0),200,OK,Thread Group 1-14,text,true,,62348,821,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965ba,1395,0,0
+1682193587733,1395,(POST) Dodaj-powiązaną-usługę (do task-0)-0,302,Found,Thread Group 1-14,text,true,,332,606,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965ba/64443ca4e8d7561b245965d7/dodaj_powiazana_usluge,1395,0,0
+1682193589128,1676,(POST) Dodaj-powiązaną-usługę (do task-0)-1,200,OK,Thread Group 1-14,text,true,,62016,215,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965ba,1676,0,0
+1682193587972,2883,(POST) Dodaj-powiązaną-usługę (do task-0),200,OK,Thread Group 1-15,text,true,,62348,821,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965ba,1275,0,0
+1682193587972,1275,(POST) Dodaj-powiązaną-usługę (do task-0)-0,302,Found,Thread Group 1-15,text,true,,332,606,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965ba/64443ca4e8d7561b245965d7/dodaj_powiazana_usluge,1275,0,0
+1682193589247,1608,(POST) Dodaj-powiązaną-usługę (do task-0)-1,200,OK,Thread Group 1-15,text,true,,62016,215,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965ba,1608,0,0
+1682193588077,2903,(POST) Dodaj-powiązaną-usługę (do task-0),200,OK,Thread Group 1-17,text,true,,62348,821,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965ba,1325,0,0
+1682193588077,1325,(POST) Dodaj-powiązaną-usługę (do task-0)-0,302,Found,Thread Group 1-17,text,true,,332,606,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965ba/64443ca4e8d7561b245965d7/dodaj_powiazana_usluge,1325,0,0
+1682193589402,1578,(POST) Dodaj-powiązaną-usługę (do task-0)-1,200,OK,Thread Group 1-17,text,true,,62016,215,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965ba,1578,0,0
+1682193588782,2225,(POST) Edytuj-usługę (do task-0),200,OK,Thread Group 1-2,text,true,,19966,794,20,20,http://localhost:3000/strona_glowna/klienci/64443ca0e8d7561b245964eb,635,0,0
+1682193588782,635,(POST) Edytuj-usługę (do task-0)-0,302,Found,Thread Group 1-2,text,true,,332,579,20,20,http://localhost:3000/strona_glowna/klienci/64443ca0e8d7561b245964eb/64443ca0e8d7561b24596508/edytuj_usluge,635,0,0
+1682193589417,1590,(POST) Edytuj-usługę (do task-0)-1,200,OK,Thread Group 1-2,text,true,,19634,215,20,20,http://localhost:3000/strona_glowna/klienci/64443ca0e8d7561b245964eb,1590,0,0
+1682193589750,1282,(GET) Edytuj-usługę (do task-0),200,OK,Thread Group 1-11,text,true,,4347,201,20,20,http://localhost:3000/strona_glowna/klienci/64443ca2e8d7561b24596585/64443ca3e8d7561b2459659b/edytuj_usluge,1282,0,0
+1682193589732,1310,(GET) Edytuj-usługę (do task-0),200,OK,Thread Group 1-10,text,true,,4347,201,20,20,http://localhost:3000/strona_glowna/klienci/64443ca2e8d7561b24596585/64443ca3e8d7561b2459659b/edytuj_usluge,1310,0,0
+1682193589903,1276,(GET) Edytuj-usługę (do task-0),200,OK,Thread Group 1-9,text,true,,4347,201,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b24596595/64443ca3e8d7561b245965ad/edytuj_usluge,1276,0,0
+1682193589122,2301,(POST) Edytuj-usługę (do task-0),200,OK,Thread Group 1-1,text,true,,34094,794,20,20,http://localhost:3000/strona_glowna/klienci/64443ca0e8d7561b2459650c,634,0,0
+1682193589122,634,(POST) Edytuj-usługę (do task-0)-0,302,Found,Thread Group 1-1,text,true,,332,579,20,20,http://localhost:3000/strona_glowna/klienci/64443ca0e8d7561b2459650c/64443ca1e8d7561b24596525/edytuj_usluge,634,0,0
+1682193589756,1667,(POST) Edytuj-usługę (do task-0)-1,200,OK,Thread Group 1-1,text,true,,33762,215,20,20,http://localhost:3000/strona_glowna/klienci/64443ca0e8d7561b2459650c,1667,0,0
+1682193589177,2262,(POST) Edytuj-usługę (do task-0),200,OK,Thread Group 1-3,text,true,,34094,794,20,20,http://localhost:3000/strona_glowna/klienci/64443ca0e8d7561b2459650c,635,0,0
+1682193589177,635,(POST) Edytuj-usługę (do task-0)-0,302,Found,Thread Group 1-3,text,true,,332,579,20,20,http://localhost:3000/strona_glowna/klienci/64443ca0e8d7561b2459650c/64443ca1e8d7561b24596525/edytuj_usluge,635,0,0
+1682193589812,1627,(POST) Edytuj-usługę (do task-0)-1,200,OK,Thread Group 1-3,text,true,,33762,215,20,20,http://localhost:3000/strona_glowna/klienci/64443ca0e8d7561b2459650c,1627,0,0
+1682193589258,2291,(POST) Edytuj-usługę (do task-0),200,OK,Thread Group 1-5,text,true,,76496,794,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516,658,0,0
+1682193589258,658,(POST) Edytuj-usługę (do task-0)-0,302,Found,Thread Group 1-5,text,true,,332,579,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516/64443ca1e8d7561b24596538/edytuj_usluge,658,0,0
+1682193589916,1633,(POST) Edytuj-usługę (do task-0)-1,200,OK,Thread Group 1-5,text,true,,76164,215,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516,1633,0,0
+1682193590255,1328,(GET) Edytuj-usługę (do task-0),200,OK,Thread Group 1-12,text,true,,4347,201,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965a3/64443ca3e8d7561b245965c9/edytuj_usluge,1328,0,0
+1682193590389,1304,(GET) Edytuj-usługę (do task-0),200,OK,Thread Group 1-13,text,true,,4347,201,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965ba/64443ca4e8d7561b245965d7/edytuj_usluge,1304,0,0
+1682193588903,2908,(POST) Dodaj-powiązaną-usługę (do task-0),200,OK,Thread Group 1-18,text,true,,62348,821,20,20,http://localhost:3000/strona_glowna/klienci/64443ca4e8d7561b245965f4,1300,0,0
+1682193588903,1300,(POST) Dodaj-powiązaną-usługę (do task-0)-0,302,Found,Thread Group 1-18,text,true,,332,606,20,20,http://localhost:3000/strona_glowna/klienci/64443ca4e8d7561b245965f4/64443ca5e8d7561b24596629/dodaj_powiazana_usluge,1300,0,0
+1682193590203,1608,(POST) Dodaj-powiązaną-usługę (do task-0)-1,200,OK,Thread Group 1-18,text,true,,62016,215,20,20,http://localhost:3000/strona_glowna/klienci/64443ca4e8d7561b245965f4,1608,0,0
+1682193588938,2978,(POST) Dodaj-powiązaną-usługę (do task-0),200,OK,Thread Group 1-19,text,true,,62348,821,20,20,http://localhost:3000/strona_glowna/klienci/64443ca4e8d7561b245965f4,1323,0,0
+1682193588938,1323,(POST) Dodaj-powiązaną-usługę (do task-0)-0,302,Found,Thread Group 1-19,text,true,,332,606,20,20,http://localhost:3000/strona_glowna/klienci/64443ca4e8d7561b245965f4/64443ca5e8d7561b24596629/dodaj_powiazana_usluge,1323,0,0
+1682193590261,1655,(POST) Dodaj-powiązaną-usługę (do task-0)-1,200,OK,Thread Group 1-19,text,true,,62016,215,20,20,http://localhost:3000/strona_glowna/klienci/64443ca4e8d7561b245965f4,1654,0,0
+1682193588959,2977,(POST) Dodaj-powiązaną-usługę (do task-0),200,OK,Thread Group 1-16,text,true,,62348,821,20,20,http://localhost:3000/strona_glowna/klienci/64443ca4e8d7561b245965f4,1313,0,0
+1682193588959,1313,(POST) Dodaj-powiązaną-usługę (do task-0)-0,302,Found,Thread Group 1-16,text,true,,332,606,20,20,http://localhost:3000/strona_glowna/klienci/64443ca4e8d7561b245965f4/64443ca5e8d7561b24596629/dodaj_powiazana_usluge,1313,0,0
+1682193590272,1664,(POST) Dodaj-powiązaną-usługę (do task-0)-1,200,OK,Thread Group 1-16,text,true,,62016,215,20,20,http://localhost:3000/strona_glowna/klienci/64443ca4e8d7561b245965f4,1664,0,0
+1682193589013,2934,(POST) Dodaj-powiązaną-usługę (do task-0),200,OK,Thread Group 1-20,text,true,,62348,821,20,20,http://localhost:3000/strona_glowna/klienci/64443ca4e8d7561b245965f4,1274,0,0
+1682193589013,1274,(POST) Dodaj-powiązaną-usługę (do task-0)-0,302,Found,Thread Group 1-20,text,true,,332,606,20,20,http://localhost:3000/strona_glowna/klienci/64443ca4e8d7561b245965f4/64443ca5e8d7561b24596629/dodaj_powiazana_usluge,1274,0,0
+1682193590287,1660,(POST) Dodaj-powiązaną-usługę (do task-0)-1,200,OK,Thread Group 1-20,text,true,,62016,215,20,20,http://localhost:3000/strona_glowna/klienci/64443ca4e8d7561b245965f4,1660,0,0
+1682193589810,2258,(POST) Edytuj-usługę (do task-0),200,OK,Thread Group 1-7,text,true,,76496,794,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516,646,0,0
+1682193589810,646,(POST) Edytuj-usługę (do task-0)-0,302,Found,Thread Group 1-7,text,true,,332,579,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516/64443ca1e8d7561b24596538/edytuj_usluge,646,0,0
+1682193590456,1612,(POST) Edytuj-usługę (do task-0)-1,200,OK,Thread Group 1-7,text,true,,76164,215,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516,1612,0,0
+1682193589771,2335,(POST) Edytuj-usługę (do task-0),200,OK,Thread Group 1-6,text,true,,76496,794,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516,664,0,0
+1682193589771,664,(POST) Edytuj-usługę (do task-0)-0,302,Found,Thread Group 1-6,text,true,,332,579,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516/64443ca1e8d7561b24596538/edytuj_usluge,664,0,0
+1682193590435,1671,(POST) Edytuj-usługę (do task-0)-1,200,OK,Thread Group 1-6,text,true,,76164,215,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516,1671,0,0
+1682193590806,1315,(GET) Edytuj-usługę (do task-0),200,OK,Thread Group 1-14,text,true,,4347,201,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965ba/64443ca4e8d7561b245965d7/edytuj_usluge,1315,0,0
+1682193589924,2212,(POST) Edytuj-usługę (do task-0),200,OK,Thread Group 1-4,text,true,,76496,794,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516,635,0,0
+1682193589924,635,(POST) Edytuj-usługę (do task-0)-0,302,Found,Thread Group 1-4,text,true,,332,579,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516/64443ca1e8d7561b24596538/edytuj_usluge,635,0,0
+1682193590559,1577,(POST) Edytuj-usługę (do task-0)-1,200,OK,Thread Group 1-4,text,true,,76164,215,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516,1577,0,0
+1682193590857,1286,(GET) Edytuj-usługę (do task-0),200,OK,Thread Group 1-15,text,true,,4347,201,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965ba/64443ca4e8d7561b245965d7/edytuj_usluge,1286,0,0
+1682193589974,2282,(POST) Edytuj-usługę (do task-0),200,OK,Thread Group 1-8,text,true,,76496,794,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516,649,0,0
+1682193589974,649,(POST) Edytuj-usługę (do task-0)-0,302,Found,Thread Group 1-8,text,true,,332,579,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516/64443ca1e8d7561b24596538/edytuj_usluge,649,0,0
+1682193590623,1633,(POST) Edytuj-usługę (do task-0)-1,200,OK,Thread Group 1-8,text,true,,76164,215,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516,1633,0,0
+1682193591008,1270,(GET) Edytuj-pliki (do task-0),200,OK,Thread Group 1-2,text,true,,3107,200,20,20,http://localhost:3000/strona_glowna/klienci/64443ca0e8d7561b245964eb/64443ca0e8d7561b24596508/edytuj_pliki,1270,0,0
+1682193590982,1318,(GET) Edytuj-usługę (do task-0),200,OK,Thread Group 1-17,text,true,,4347,201,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965ba/64443ca4e8d7561b245965d7/edytuj_usluge,1318,0,0
+1682193591441,1274,(GET) Edytuj-pliki (do task-0),200,OK,Thread Group 1-3,text,true,,3107,200,20,20,http://localhost:3000/strona_glowna/klienci/64443ca0e8d7561b2459650c/64443ca1e8d7561b24596525/edytuj_pliki,1274,0,0
+1682193591424,1342,(GET) Edytuj-pliki (do task-0),200,OK,Thread Group 1-1,text,true,,3107,200,20,20,http://localhost:3000/strona_glowna/klienci/64443ca0e8d7561b2459650c/64443ca1e8d7561b24596525/edytuj_pliki,1342,0,0
+1682193591551,1253,(GET) Edytuj-pliki (do task-0),200,OK,Thread Group 1-5,text,true,,3107,200,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516/64443ca1e8d7561b24596538/edytuj_pliki,1253,0,0
+1682193591814,1298,(GET) Edytuj-usługę (do task-0),200,OK,Thread Group 1-18,text,true,,4347,201,20,20,http://localhost:3000/strona_glowna/klienci/64443ca4e8d7561b245965f4/64443ca5e8d7561b24596629/edytuj_usluge,1298,0,0
+1682193591043,2220,(POST) Edytuj-usługę (do task-0),200,OK,Thread Group 1-10,text,true,,34094,794,20,20,http://localhost:3000/strona_glowna/klienci/64443ca2e8d7561b24596585,618,0,0
+1682193591043,618,(POST) Edytuj-usługę (do task-0)-0,302,Found,Thread Group 1-10,text,true,,332,579,20,20,http://localhost:3000/strona_glowna/klienci/64443ca2e8d7561b24596585/64443ca3e8d7561b2459659b/edytuj_usluge,618,0,0
+1682193591662,1601,(POST) Edytuj-usługę (do task-0)-1,200,OK,Thread Group 1-10,text,true,,33762,215,20,20,http://localhost:3000/strona_glowna/klienci/64443ca2e8d7561b24596585,1601,0,0
+1682193591939,1352,(GET) Edytuj-usługę (do task-0),200,OK,Thread Group 1-16,text,true,,4347,201,20,20,http://localhost:3000/strona_glowna/klienci/64443ca4e8d7561b245965f4/64443ca5e8d7561b24596629/edytuj_usluge,1352,0,0
+1682193591918,1383,(GET) Edytuj-usługę (do task-0),200,OK,Thread Group 1-19,text,true,,4347,201,20,20,http://localhost:3000/strona_glowna/klienci/64443ca4e8d7561b245965f4/64443ca5e8d7561b24596629/edytuj_usluge,1383,0,0
+1682193591033,2283,(POST) Edytuj-usługę (do task-0),200,OK,Thread Group 1-11,text,true,,34094,794,20,20,http://localhost:3000/strona_glowna/klienci/64443ca2e8d7561b24596585,603,0,0
+1682193591033,603,(POST) Edytuj-usługę (do task-0)-0,302,Found,Thread Group 1-11,text,true,,332,579,20,20,http://localhost:3000/strona_glowna/klienci/64443ca2e8d7561b24596585/64443ca3e8d7561b2459659b/edytuj_usluge,603,0,0
+1682193591637,1679,(POST) Edytuj-usługę (do task-0)-1,200,OK,Thread Group 1-11,text,true,,33762,215,20,20,http://localhost:3000/strona_glowna/klienci/64443ca2e8d7561b24596585,1679,0,0
+1682193591949,1379,(GET) Edytuj-usługę (do task-0),200,OK,Thread Group 1-20,text,true,,4347,201,20,20,http://localhost:3000/strona_glowna/klienci/64443ca4e8d7561b245965f4/64443ca5e8d7561b24596629/edytuj_usluge,1379,0,0
+1682193592070,1268,(GET) Edytuj-pliki (do task-0),200,OK,Thread Group 1-7,text,true,,3107,200,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516/64443ca1e8d7561b24596538/edytuj_pliki,1268,0,0
+1682193592108,1295,(GET) Edytuj-pliki (do task-0),200,OK,Thread Group 1-6,text,true,,3107,200,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516/64443ca1e8d7561b24596538/edytuj_pliki,1295,0,0
+1682193591180,2267,(POST) Edytuj-usługę (do task-0),200,OK,Thread Group 1-9,text,true,,19966,794,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b24596595,645,0,0
+1682193591180,645,(POST) Edytuj-usługę (do task-0)-0,302,Found,Thread Group 1-9,text,true,,332,579,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b24596595/64443ca3e8d7561b245965ad/edytuj_usluge,645,0,0
+1682193591826,1621,(POST) Edytuj-usługę (do task-0)-1,200,OK,Thread Group 1-9,text,true,,19634,215,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b24596595,1620,0,0
+1682193592138,1368,(GET) Edytuj-pliki (do task-0),200,OK,Thread Group 1-4,text,true,,3107,200,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516/64443ca1e8d7561b24596538/edytuj_pliki,1368,0,0
+1682193592258,1264,(GET) Edytuj-pliki (do task-0),200,OK,Thread Group 1-8,text,true,,3107,200,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516/64443ca1e8d7561b24596538/edytuj_pliki,1264,0,0
+1682193591585,2234,(POST) Edytuj-usługę (do task-0),200,OK,Thread Group 1-12,text,true,,19966,794,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965a3,629,0,0
+1682193591585,629,(POST) Edytuj-usługę (do task-0)-0,302,Found,Thread Group 1-12,text,true,,332,579,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965a3/64443ca3e8d7561b245965c9/edytuj_usluge,629,0,0
+1682193592214,1605,(POST) Edytuj-usługę (do task-0)-1,200,OK,Thread Group 1-12,text,true,,19634,215,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965a3,1605,0,0
+1682193591695,2275,(POST) Edytuj-usługę (do task-0),200,OK,Thread Group 1-13,text,true,,62360,794,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965ba,638,0,0
+1682193591695,638,(POST) Edytuj-usługę (do task-0)-0,302,Found,Thread Group 1-13,text,true,,332,579,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965ba/64443ca4e8d7561b245965d7/edytuj_usluge,638,0,0
+1682193592334,1636,(POST) Edytuj-usługę (do task-0)-1,200,OK,Thread Group 1-13,text,true,,62028,215,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965ba,1636,0,0
+1682193592144,2419,(POST) Edytuj-usługę (do task-0),200,OK,Thread Group 1-15,text,true,,62360,794,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965ba,654,0,0
+1682193592144,654,(POST) Edytuj-usługę (do task-0)-0,302,Found,Thread Group 1-15,text,true,,332,579,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965ba/64443ca4e8d7561b245965d7/edytuj_usluge,654,0,0
+1682193592798,1765,(POST) Edytuj-usługę (do task-0)-1,200,OK,Thread Group 1-15,text,true,,62028,215,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965ba,1765,0,0
+1682193592123,2476,(POST) Edytuj-usługę (do task-0),200,OK,Thread Group 1-14,text,true,,62360,794,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965ba,648,0,0
+1682193592123,648,(POST) Edytuj-usługę (do task-0)-0,302,Found,Thread Group 1-14,text,true,,332,579,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965ba/64443ca4e8d7561b245965d7/edytuj_usluge,648,0,0
+1682193592772,1827,(POST) Edytuj-usługę (do task-0)-1,200,OK,Thread Group 1-14,text,true,,62028,215,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965ba,1827,0,0
+1682193593264,1358,(GET) Edytuj-pliki (do task-0),200,OK,Thread Group 1-10,text,true,,3107,200,20,20,http://localhost:3000/strona_glowna/klienci/64443ca2e8d7561b24596585/64443ca3e8d7561b2459659b/edytuj_pliki,1358,0,0
+1682193592302,2420,(POST) Edytuj-usługę (do task-0),200,OK,Thread Group 1-17,text,true,,62360,794,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965ba,662,0,0
+1682193592302,662,(POST) Edytuj-usługę (do task-0)-0,302,Found,Thread Group 1-17,text,true,,332,579,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965ba/64443ca4e8d7561b245965d7/edytuj_usluge,662,0,0
+1682193592965,1757,(POST) Edytuj-usługę (do task-0)-1,200,OK,Thread Group 1-17,text,true,,62028,215,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965ba,1757,0,0
+1682193593317,1435,(GET) Edytuj-pliki (do task-0),200,OK,Thread Group 1-11,text,true,,3107,200,20,20,http://localhost:3000/strona_glowna/klienci/64443ca2e8d7561b24596585/64443ca3e8d7561b2459659b/edytuj_pliki,1435,0,0
+1682193593447,1445,(GET) Edytuj-pliki (do task-0),200,OK,Thread Group 1-9,text,true,,3107,200,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b24596595/64443ca3e8d7561b245965ad/edytuj_pliki,1445,0,0
+1682193593820,1396,(GET) Edytuj-pliki (do task-0),200,OK,Thread Group 1-12,text,true,,3107,200,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965a3/64443ca3e8d7561b245965c9/edytuj_pliki,1396,0,0
+1682193593971,1383,(GET) Edytuj-pliki (do task-0),200,OK,Thread Group 1-13,text,true,,3107,200,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965ba/64443ca4e8d7561b245965d7/edytuj_pliki,1383,0,0
+1682193592280,3109,"(POST) Edytuj-pliki ""dodaj-pliki"" (do task-0)",200,OK,Thread Group 1-2,text,true,,6091,280101,20,20,http://localhost:3000/strona_glowna/klienci/64443ca0e8d7561b245964eb/64443ca0e8d7561b24596508/edytuj_pliki,1695,0,0
+1682193592280,1695,"(POST) Edytuj-pliki ""dodaj-pliki"" (do task-0)-0",302,Found,Thread Group 1-2,text,true,,409,279849,20,20,http://localhost:3000/strona_glowna/klienci/64443ca0e8d7561b245964eb/64443ca0e8d7561b24596508/edytuj_pliki,1695,0,0
+1682193593975,1414,"(POST) Edytuj-pliki ""dodaj-pliki"" (do task-0)-1",200,OK,Thread Group 1-2,text,true,,5682,252,20,20,http://localhost:3000/strona_glowna/klienci/64443ca0e8d7561b245964eb/64443ca0e8d7561b24596508/edytuj_pliki,1414,0,0
+1682193593113,2413,(POST) Edytuj-usługę (do task-0),200,OK,Thread Group 1-18,text,true,,62360,794,20,20,http://localhost:3000/strona_glowna/klienci/64443ca4e8d7561b245965f4,669,0,0
+1682193593113,669,(POST) Edytuj-usługę (do task-0)-0,302,Found,Thread Group 1-18,text,true,,332,579,20,20,http://localhost:3000/strona_glowna/klienci/64443ca4e8d7561b245965f4/64443ca5e8d7561b24596629/edytuj_usluge,669,0,0
+1682193593782,1744,(POST) Edytuj-usługę (do task-0)-1,200,OK,Thread Group 1-18,text,true,,62028,215,20,20,http://localhost:3000/strona_glowna/klienci/64443ca4e8d7561b245965f4,1743,0,0
+1682193593292,2345,(POST) Edytuj-usługę (do task-0),200,OK,Thread Group 1-16,text,true,,62360,794,20,20,http://localhost:3000/strona_glowna/klienci/64443ca4e8d7561b245965f4,656,0,0
+1682193593292,656,(POST) Edytuj-usługę (do task-0)-0,302,Found,Thread Group 1-16,text,true,,332,579,20,20,http://localhost:3000/strona_glowna/klienci/64443ca4e8d7561b245965f4/64443ca5e8d7561b24596629/edytuj_usluge,656,0,0
+1682193593948,1689,(POST) Edytuj-usługę (do task-0)-1,200,OK,Thread Group 1-16,text,true,,62028,215,20,20,http://localhost:3000/strona_glowna/klienci/64443ca4e8d7561b245965f4,1688,0,0
+1682193593329,2359,(POST) Edytuj-usługę (do task-0),200,OK,Thread Group 1-20,text,true,,62360,794,20,20,http://localhost:3000/strona_glowna/klienci/64443ca4e8d7561b245965f4,667,0,0
+1682193593329,667,(POST) Edytuj-usługę (do task-0)-0,302,Found,Thread Group 1-20,text,true,,332,579,20,20,http://localhost:3000/strona_glowna/klienci/64443ca4e8d7561b245965f4/64443ca5e8d7561b24596629/edytuj_usluge,667,0,0
+1682193593997,1691,(POST) Edytuj-usługę (do task-0)-1,200,OK,Thread Group 1-20,text,true,,62028,215,20,20,http://localhost:3000/strona_glowna/klienci/64443ca4e8d7561b245965f4,1691,0,0
+1682193593302,2417,(POST) Edytuj-usługę (do task-0),200,OK,Thread Group 1-19,text,true,,62360,794,20,20,http://localhost:3000/strona_glowna/klienci/64443ca4e8d7561b245965f4,679,0,0
+1682193593302,679,(POST) Edytuj-usługę (do task-0)-0,302,Found,Thread Group 1-19,text,true,,332,579,20,20,http://localhost:3000/strona_glowna/klienci/64443ca4e8d7561b245965f4/64443ca5e8d7561b24596629/edytuj_usluge,679,0,0
+1682193593981,1738,(POST) Edytuj-usługę (do task-0)-1,200,OK,Thread Group 1-19,text,true,,62028,215,20,20,http://localhost:3000/strona_glowna/klienci/64443ca4e8d7561b245965f4,1738,0,0
+1682193592717,3069,"(POST) Edytuj-pliki ""dodaj-pliki"" (do task-0)",200,OK,Thread Group 1-3,text,true,,8665,280045,20,20,http://localhost:3000/strona_glowna/klienci/64443ca0e8d7561b2459650c/64443ca1e8d7561b24596525/edytuj_pliki,1617,0,0
+1682193592717,1617,"(POST) Edytuj-pliki ""dodaj-pliki"" (do task-0)-0",302,Found,Thread Group 1-3,text,true,,409,279793,20,20,http://localhost:3000/strona_glowna/klienci/64443ca0e8d7561b2459650c/64443ca1e8d7561b24596525/edytuj_pliki,1617,0,0
+1682193594334,1452,"(POST) Edytuj-pliki ""dodaj-pliki"" (do task-0)-1",200,OK,Thread Group 1-3,text,true,,8256,252,20,20,http://localhost:3000/strona_glowna/klienci/64443ca0e8d7561b2459650c/64443ca1e8d7561b24596525/edytuj_pliki,1452,0,0
+1682193592805,3024,"(POST) Edytuj-pliki ""dodaj-pliki"" (do task-0)",200,OK,Thread Group 1-5,text,true,,16388,280077,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516/64443ca1e8d7561b24596538/edytuj_pliki,1737,0,0
+1682193592805,1737,"(POST) Edytuj-pliki ""dodaj-pliki"" (do task-0)-0",302,Found,Thread Group 1-5,text,true,,409,279825,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516/64443ca1e8d7561b24596538/edytuj_pliki,1737,0,0
+1682193594542,1287,"(POST) Edytuj-pliki ""dodaj-pliki"" (do task-0)-1",200,OK,Thread Group 1-5,text,true,,15979,252,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516/64443ca1e8d7561b24596538/edytuj_pliki,1287,0,0
+1682193594564,1328,(GET) Edytuj-pliki (do task-0),200,OK,Thread Group 1-15,text,true,,3107,200,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965ba/64443ca4e8d7561b245965d7/edytuj_pliki,1328,0,0
+1682193592768,3163,"(POST) Edytuj-pliki ""dodaj-pliki"" (do task-0)",200,OK,Thread Group 1-1,text,true,,8665,280117,20,20,http://localhost:3000/strona_glowna/klienci/64443ca0e8d7561b2459650c/64443ca1e8d7561b24596525/edytuj_pliki,1807,0,0
+1682193592768,1807,"(POST) Edytuj-pliki ""dodaj-pliki"" (do task-0)-0",302,Found,Thread Group 1-1,text,true,,409,279865,20,20,http://localhost:3000/strona_glowna/klienci/64443ca0e8d7561b2459650c/64443ca1e8d7561b24596525/edytuj_pliki,1807,0,0
+1682193594575,1356,"(POST) Edytuj-pliki ""dodaj-pliki"" (do task-0)-1",200,OK,Thread Group 1-1,text,true,,8256,252,20,20,http://localhost:3000/strona_glowna/klienci/64443ca0e8d7561b2459650c/64443ca1e8d7561b24596525/edytuj_pliki,1356,0,0
+1682193594602,1369,(GET) Edytuj-pliki (do task-0),200,OK,Thread Group 1-14,text,true,,3107,200,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965ba/64443ca4e8d7561b245965d7/edytuj_pliki,1369,0,0
+1682193594723,1292,(GET) Edytuj-pliki (do task-0),200,OK,Thread Group 1-17,text,true,,3107,200,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965ba/64443ca4e8d7561b245965d7/edytuj_pliki,1292,0,0
+1682193593339,3034,"(POST) Edytuj-pliki ""dodaj-pliki"" (do task-0)",200,OK,Thread Group 1-7,text,true,,16388,280093,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516/64443ca1e8d7561b24596538/edytuj_pliki,1725,0,0
+1682193593339,1726,"(POST) Edytuj-pliki ""dodaj-pliki"" (do task-0)-0",302,Found,Thread Group 1-7,text,true,,409,279841,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516/64443ca1e8d7561b24596538/edytuj_pliki,1725,0,0
+1682193595065,1308,"(POST) Edytuj-pliki ""dodaj-pliki"" (do task-0)-1",200,OK,Thread Group 1-7,text,true,,15979,252,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516/64443ca1e8d7561b24596538/edytuj_pliki,1308,0,0
+1682193595391,1000,(GET) Otwórz-plik-pdf-1 (do task-0),200,OK,Thread Group 1-2,text,true,,678,228,20,20,http://localhost:3000/strona_glowna/klienci/64443ca0e8d7561b245964eb/64443ca0e8d7561b24596508/2023-4-22-21-59-53-Przykladowy-pdf-1.pdf,1000,0,0
+1682193593523,2909,"(POST) Edytuj-pliki ""dodaj-pliki"" (do task-0)",200,OK,Thread Group 1-8,text,true,,16388,280045,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516/64443ca1e8d7561b24596538/edytuj_pliki,1629,0,0
+1682193593523,1629,"(POST) Edytuj-pliki ""dodaj-pliki"" (do task-0)-0",302,Found,Thread Group 1-8,text,true,,409,279793,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516/64443ca1e8d7561b24596538/edytuj_pliki,1629,0,0
+1682193595153,1279,"(POST) Edytuj-pliki ""dodaj-pliki"" (do task-0)-1",200,OK,Thread Group 1-8,text,true,,15979,252,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516/64443ca1e8d7561b24596538/edytuj_pliki,1279,0,0
+1682193593403,3078,"(POST) Edytuj-pliki ""dodaj-pliki"" (do task-0)",200,OK,Thread Group 1-6,text,true,,16388,280109,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516/64443ca1e8d7561b24596538/edytuj_pliki,1692,0,0
+1682193593403,1692,"(POST) Edytuj-pliki ""dodaj-pliki"" (do task-0)-0",302,Found,Thread Group 1-6,text,true,,409,279857,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516/64443ca1e8d7561b24596538/edytuj_pliki,1692,0,0
+1682193595096,1385,"(POST) Edytuj-pliki ""dodaj-pliki"" (do task-0)-1",200,OK,Thread Group 1-6,text,true,,15979,252,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516/64443ca1e8d7561b24596538/edytuj_pliki,1385,0,0
+1682193593507,3040,"(POST) Edytuj-pliki ""dodaj-pliki"" (do task-0)",200,OK,Thread Group 1-4,text,true,,16388,280053,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516/64443ca1e8d7561b24596538/edytuj_pliki,1690,0,0
+1682193593507,1690,"(POST) Edytuj-pliki ""dodaj-pliki"" (do task-0)-0",302,Found,Thread Group 1-4,text,true,,409,279801,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516/64443ca1e8d7561b24596538/edytuj_pliki,1690,0,0
+1682193595198,1349,"(POST) Edytuj-pliki ""dodaj-pliki"" (do task-0)-1",200,OK,Thread Group 1-4,text,true,,15979,252,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516/64443ca1e8d7561b24596538/edytuj_pliki,1349,0,0
+1682193595526,1275,(GET) Edytuj-pliki (do task-0),200,OK,Thread Group 1-18,text,true,,3107,200,20,20,http://localhost:3000/strona_glowna/klienci/64443ca4e8d7561b245965f4/64443ca5e8d7561b24596629/edytuj_pliki,1275,0,0
+1682193595830,991,(GET) Otwórz-plik-pdf-1 (do task-0),200,OK,Thread Group 1-5,text,true,,678,228,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516/64443ca1e8d7561b24596538/2023-4-22-21-59-53-Przykladowy-pdf-1.pdf,991,0,0
+1682193595789,1043,(GET) Otwórz-plik-pdf-1 (do task-0),200,OK,Thread Group 1-3,text,true,,678,228,20,20,http://localhost:3000/strona_glowna/klienci/64443ca0e8d7561b2459650c/64443ca1e8d7561b24596525/2023-4-22-21-59-53-Przykladowy-pdf-1.pdf,1043,0,0
+1682193595933,1181,(GET) Otwórz-plik-pdf-1 (do task-0),200,OK,Thread Group 1-1,text,true,,678,228,20,20,http://localhost:3000/strona_glowna/klienci/64443ca0e8d7561b2459650c/64443ca1e8d7561b24596525/2023-4-22-21-59-53-Przykladowy-pdf-1.pdf,1181,0,0
+1682193595689,1451,(GET) Edytuj-pliki (do task-0),200,OK,Thread Group 1-20,text,true,,3107,200,20,20,http://localhost:3000/strona_glowna/klienci/64443ca4e8d7561b245965f4/64443ca5e8d7561b24596629/edytuj_pliki,1450,0,0
+1682193595638,1511,(GET) Edytuj-pliki (do task-0),200,OK,Thread Group 1-16,text,true,,3107,200,20,20,http://localhost:3000/strona_glowna/klienci/64443ca4e8d7561b245965f4/64443ca5e8d7561b24596629/edytuj_pliki,1511,0,0
+1682193595720,1698,(GET) Edytuj-pliki (do task-0),200,OK,Thread Group 1-19,text,true,,3107,200,20,20,http://localhost:3000/strona_glowna/klienci/64443ca4e8d7561b245965f4/64443ca5e8d7561b24596629/edytuj_pliki,1697,0,0
+1682193596375,1651,(GET) Otwórz-plik-pdf-1 (do task-0),200,OK,Thread Group 1-7,text,true,,678,228,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516/64443ca1e8d7561b24596538/2023-4-22-21-59-53-Przykladowy-pdf-1.pdf,1651,0,0
+1682193596434,1597,(GET) Otwórz-plik-pdf-1 (do task-0),200,OK,Thread Group 1-8,text,true,,678,228,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516/64443ca1e8d7561b24596538/2023-4-22-21-59-53-Przykladowy-pdf-1.pdf,1597,0,0
+1682193596545,1900,(GET) Otwórz-plik-pdf-1 (do task-0),200,OK,Thread Group 1-4,text,true,,678,228,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516/64443ca1e8d7561b24596538/2023-4-22-21-59-53-Przykladowy-pdf-1.pdf,1900,0,0
+1682193594623,3836,"(POST) Edytuj-pliki ""dodaj-pliki"" (do task-0)",200,OK,Thread Group 1-10,text,true,,8665,280125,20,20,http://localhost:3000/strona_glowna/klienci/64443ca2e8d7561b24596585/64443ca3e8d7561b2459659b/edytuj_pliki,1643,0,0
+1682193594623,1643,"(POST) Edytuj-pliki ""dodaj-pliki"" (do task-0)-0",302,Found,Thread Group 1-10,text,true,,409,279873,20,20,http://localhost:3000/strona_glowna/klienci/64443ca2e8d7561b24596585/64443ca3e8d7561b2459659b/edytuj_pliki,1643,0,0
+1682193596266,2193,"(POST) Edytuj-pliki ""dodaj-pliki"" (do task-0)-1",200,OK,Thread Group 1-10,text,true,,8256,252,20,20,http://localhost:3000/strona_glowna/klienci/64443ca2e8d7561b24596585/64443ca3e8d7561b2459659b/edytuj_pliki,2192,0,0
+1682193596485,1981,(GET) Otwórz-plik-pdf-1 (do task-0),200,OK,Thread Group 1-6,text,true,,678,228,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516/64443ca1e8d7561b24596538/2023-4-22-21-59-53-Przykladowy-pdf-1.pdf,1981,0,0
+1682193596392,2252,"(DELETE) Edytuj-pliki ""usuń- plik"" [pdf4] (do task-0)",200,OK,Thread Group 1-2,text,true,,336,279456,20,20,http://localhost:3000/strona_glowna/klienci/64443ca0e8d7561b245964eb/64443ca0e8d7561b24596508/edytuj_pliki/2023-4-22-21-59-53-Przykladowy-pdf-4.pdf,2252,0,0
+1682193563857,34760,"Dawanie, Edytowanie Klientów i Zadań (zakładka klieńci)",200,"Number of samples in transaction : 18, number of failing samples : 0",Thread Group 1-2,,true,,141394,566030,20,20,null,19836,27,0
+1682193594752,3911,"(POST) Edytuj-pliki ""dodaj-pliki"" (do task-0)",200,OK,Thread Group 1-11,text,true,,8665,280077,20,20,http://localhost:3000/strona_glowna/klienci/64443ca2e8d7561b24596585/64443ca3e8d7561b2459659b/edytuj_pliki,1643,0,0
+1682193594752,1643,"(POST) Edytuj-pliki ""dodaj-pliki"" (do task-0)-0",302,Found,Thread Group 1-11,text,true,,409,279825,20,20,http://localhost:3000/strona_glowna/klienci/64443ca2e8d7561b24596585/64443ca3e8d7561b2459659b/edytuj_pliki,1643,0,0
+1682193596396,2267,"(POST) Edytuj-pliki ""dodaj-pliki"" (do task-0)-1",200,OK,Thread Group 1-11,text,true,,8256,252,20,20,http://localhost:3000/strona_glowna/klienci/64443ca2e8d7561b24596585/64443ca3e8d7561b2459659b/edytuj_pliki,2267,0,0
+1682193594892,3969,"(POST) Edytuj-pliki ""dodaj-pliki"" (do task-0)",200,OK,Thread Group 1-9,text,true,,6091,280085,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b24596595/64443ca3e8d7561b245965ad/edytuj_pliki,1703,0,0
+1682193594892,1703,"(POST) Edytuj-pliki ""dodaj-pliki"" (do task-0)-0",302,Found,Thread Group 1-9,text,true,,409,279833,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b24596595/64443ca3e8d7561b245965ad/edytuj_pliki,1703,0,0
+1682193596593,2268,"(POST) Edytuj-pliki ""dodaj-pliki"" (do task-0)-1",200,OK,Thread Group 1-9,text,true,,5682,252,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b24596595/64443ca3e8d7561b245965ad/edytuj_pliki,2268,0,0
+1682193596830,2214,"(DELETE) Edytuj-pliki ""usuń- plik"" [pdf4] (do task-0)",200,OK,Thread Group 1-3,text,true,,336,279468,20,20,http://localhost:3000/strona_glowna/klienci/64443ca0e8d7561b2459650c/64443ca1e8d7561b24596525/edytuj_pliki/2023-4-22-21-59-53-Przykladowy-pdf-2.pdf,2214,0,0
+1682193564553,34469,"Dawanie, Edytowanie Klientów i Zadań (zakładka klieńci)",200,"Number of samples in transaction : 18, number of failing samples : 0",Thread Group 1-3,,true,,196924,565986,20,20,null,19925,26,0
+1682193596819,2229,"(DELETE) Edytuj-pliki ""usuń- plik"" [pdf4] (do task-0)",200,OK,Thread Group 1-5,text,true,,336,279444,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516/64443ca1e8d7561b24596538/edytuj_pliki/2023-4-22-21-59-54-Przykladowy-pdf-2.pdf,2229,0,0
+1682193564678,34349,"Dawanie, Edytowanie Klientów i Zadań (zakładka klieńci)",200,"Number of samples in transaction : 18, number of failing samples : 0",Thread Group 1-5,,true,,363559,565994,20,20,null,19537,24,0
+1682193595217,3852,"(POST) Edytuj-pliki ""dodaj-pliki"" (do task-0)",200,OK,Thread Group 1-12,text,true,,6091,280053,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965a3/64443ca3e8d7561b245965c9/edytuj_pliki,1595,0,0
+1682193595217,1595,"(POST) Edytuj-pliki ""dodaj-pliki"" (do task-0)-0",302,Found,Thread Group 1-12,text,true,,409,279801,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965a3/64443ca3e8d7561b245965c9/edytuj_pliki,1595,0,0
+1682193596809,2260,"(POST) Edytuj-pliki ""dodaj-pliki"" (do task-0)-1",200,OK,Thread Group 1-12,text,true,,5682,252,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965a3/64443ca3e8d7561b245965c9/edytuj_pliki,2260,0,0
+1682193595355,3906,"(POST) Edytuj-pliki ""dodaj-pliki"" (do task-0)",200,OK,Thread Group 1-13,text,true,,13814,280117,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965ba/64443ca4e8d7561b245965d7/edytuj_pliki,1770,0,0
+1682193595355,1770,"(POST) Edytuj-pliki ""dodaj-pliki"" (do task-0)-0",302,Found,Thread Group 1-13,text,true,,409,279865,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965ba/64443ca4e8d7561b245965d7/edytuj_pliki,1770,0,0
+1682193597123,2138,"(POST) Edytuj-pliki ""dodaj-pliki"" (do task-0)-1",200,OK,Thread Group 1-13,text,true,,13405,252,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965ba/64443ca4e8d7561b245965d7/edytuj_pliki,2138,0,0
+1682193597112,2162,"(DELETE) Edytuj-pliki ""usuń- plik"" [pdf4] (do task-0)",200,OK,Thread Group 1-1,text,true,,336,279456,20,20,http://localhost:3000/strona_glowna/klienci/64443ca0e8d7561b2459650c/64443ca1e8d7561b24596525/edytuj_pliki/2023-4-22-21-59-53-Przykladowy-pdf-2.pdf,2162,0,0
+1682193564328,34923,"Dawanie, Edytowanie Klientów i Zadań (zakładka klieńci)",200,"Number of samples in transaction : 18, number of failing samples : 0",Thread Group 1-1,,true,,196924,566046,20,20,null,20356,27,0
+1682193598024,1487,"(DELETE) Edytuj-pliki ""usuń- plik"" [pdf4] (do task-0)",200,OK,Thread Group 1-7,text,true,,336,279450,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516/64443ca1e8d7561b24596538/edytuj_pliki/2023-4-22-21-59-54-Przykladowy-pdf-2.pdf,1487,0,0
+1682193565157,34334,"Dawanie, Edytowanie Klientów i Zadań (zakładka klieńci)",200,"Number of samples in transaction : 18, number of failing samples : 0",Thread Group 1-7,,true,,363559,566016,20,20,null,19532,24,0
+1682193598028,1515,"(DELETE) Edytuj-pliki ""usuń- plik"" [pdf4] (do task-0)",200,OK,Thread Group 1-8,text,true,,336,279450,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516/64443ca1e8d7561b24596538/edytuj_pliki/2023-4-22-21-59-54-Przykladowy-pdf-2.pdf,1515,0,0
+1682193565381,34146,"Dawanie, Edytowanie Klientów i Zadań (zakładka klieńci)",200,"Number of samples in transaction : 18, number of failing samples : 0",Thread Group 1-8,,true,,363557,565968,20,20,null,19555,20,0
+1682193598464,1406,"(DELETE) Edytuj-pliki ""usuń- plik"" [pdf4] (do task-0)",200,OK,Thread Group 1-6,text,true,,336,279492,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516/64443ca1e8d7561b24596538/edytuj_pliki/2023-4-22-21-59-54-Przykladowy-pdf-2.pdf,1406,0,0
+1682193565147,34701,"Dawanie, Edytowanie Klientów i Zadań (zakładka klieńci)",200,"Number of samples in transaction : 18, number of failing samples : 0",Thread Group 1-6,,true,,363559,566074,20,20,null,20003,26,0
+1682193598446,1444,"(DELETE) Edytuj-pliki ""usuń- plik"" [pdf4] (do task-0)",200,OK,Thread Group 1-4,text,true,,336,279444,20,20,http://localhost:3000/strona_glowna/klienci/64443ca1e8d7561b24596516/64443ca1e8d7561b24596538/edytuj_pliki/2023-4-22-21-59-54-Przykladowy-pdf-2.pdf,1444,0,0
+1682193564440,35411,"Dawanie, Edytowanie Klientów i Zadań (zakładka klieńci)",200,"Number of samples in transaction : 18, number of failing samples : 0",Thread Group 1-4,,true,,363557,565970,20,20,null,20102,43,0
+1682193598457,1446,(GET) Otwórz-plik-pdf-1 (do task-0),200,OK,Thread Group 1-10,text,true,,678,228,20,20,http://localhost:3000/strona_glowna/klienci/64443ca2e8d7561b24596585/64443ca3e8d7561b2459659b/2023-4-22-21-59-55-Przykladowy-pdf-1.pdf,1446,0,0
+1682193595893,4424,"(POST) Edytuj-pliki ""dodaj-pliki"" (do task-0)",200,OK,Thread Group 1-15,text,true,,13814,280109,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965ba/64443ca4e8d7561b245965d7/edytuj_pliki,2147,0,0
+1682193595893,2147,"(POST) Edytuj-pliki ""dodaj-pliki"" (do task-0)-0",302,Found,Thread Group 1-15,text,true,,409,279857,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965ba/64443ca4e8d7561b245965d7/edytuj_pliki,2147,0,0
+1682193598037,2280,"(POST) Edytuj-pliki ""dodaj-pliki"" (do task-0)-1",200,OK,Thread Group 1-15,text,true,,13405,252,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965ba/64443ca4e8d7561b245965d7/edytuj_pliki,2280,0,0
+1682193598662,1672,(GET) Otwórz-plik-pdf-1 (do task-0),200,OK,Thread Group 1-11,text,true,,678,228,20,20,http://localhost:3000/strona_glowna/klienci/64443ca2e8d7561b24596585/64443ca3e8d7561b2459659b/2023-4-22-21-59-55-Przykladowy-pdf-1.pdf,1672,0,0
+1682193598862,1639,(GET) Otwórz-plik-pdf-1 (do task-0),200,OK,Thread Group 1-9,text,true,,678,228,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b24596595/64443ca3e8d7561b245965ad/2023-4-22-21-59-55-Przykladowy-pdf-1.pdf,1639,0,0
+1682193596016,4496,"(POST) Edytuj-pliki ""dodaj-pliki"" (do task-0)",200,OK,Thread Group 1-17,text,true,,13814,280053,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965ba/64443ca4e8d7561b245965d7/edytuj_pliki,2426,0,0
+1682193596016,2426,"(POST) Edytuj-pliki ""dodaj-pliki"" (do task-0)-0",302,Found,Thread Group 1-17,text,true,,409,279801,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965ba/64443ca4e8d7561b245965d7/edytuj_pliki,2426,0,0
+1682193598439,2073,"(POST) Edytuj-pliki ""dodaj-pliki"" (do task-0)-1",200,OK,Thread Group 1-17,text,true,,13405,252,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965ba/64443ca4e8d7561b245965d7/edytuj_pliki,2073,0,0
+1682193595972,4552,"(POST) Edytuj-pliki ""dodaj-pliki"" (do task-0)",200,OK,Thread Group 1-14,text,true,,13814,280093,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965ba/64443ca4e8d7561b245965d7/edytuj_pliki,2461,0,0
+1682193595972,2461,"(POST) Edytuj-pliki ""dodaj-pliki"" (do task-0)-0",302,Found,Thread Group 1-14,text,true,,409,279841,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965ba/64443ca4e8d7561b245965d7/edytuj_pliki,2461,0,0
+1682193598430,2094,"(POST) Edytuj-pliki ""dodaj-pliki"" (do task-0)-1",200,OK,Thread Group 1-14,text,true,,13405,252,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965ba/64443ca4e8d7561b245965d7/edytuj_pliki,2093,0,0
+1682193598642,2085,(GET) Strona-główna (czy istnieją zadania),200,OK,Thread Group 1-2,text,true,,149128,182,20,20,http://localhost:3000/strona_glowna,2084,0,0
+1682193599071,1701,(GET) Otwórz-plik-pdf-1 (do task-0),200,OK,Thread Group 1-12,text,true,,678,228,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965a3/64443ca3e8d7561b245965c9/2023-4-22-21-59-56-Przykladowy-pdf-1.pdf,1701,0,0
+1682193599263,1653,(GET) Otwórz-plik-pdf-1 (do task-0),200,OK,Thread Group 1-13,text,true,,678,228,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965ba/64443ca4e8d7561b245965d7/2023-4-22-21-59-56-Przykladowy-pdf-1.pdf,1653,0,0
+1682193599048,2003,(GET) Strona-główna (czy istnieją zadania),200,OK,Thread Group 1-5,text,true,,149128,182,20,20,http://localhost:3000/strona_glowna,2002,0,0
+1682193599045,2044,(GET) Strona-główna (czy istnieją zadania),200,OK,Thread Group 1-3,text,true,,149128,182,20,20,http://localhost:3000/strona_glowna,2043,0,0
+1682193599276,1932,(GET) Strona-główna (czy istnieją zadania),200,OK,Thread Group 1-1,text,true,,149128,182,20,20,http://localhost:3000/strona_glowna,1932,0,0
+1682193599512,1856,(GET) Strona-główna (czy istnieją zadania),200,OK,Thread Group 1-7,text,true,,149128,182,20,20,http://localhost:3000/strona_glowna,1856,0,0
+1682193599544,1859,(GET) Strona-główna (czy istnieją zadania),200,OK,Thread Group 1-8,text,true,,149128,182,20,20,http://localhost:3000/strona_glowna,1859,0,0
+1682193600327,1086,(GET) Otwórz-plik-pdf-1 (do task-0),200,OK,Thread Group 1-15,text,true,,678,228,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965ba/64443ca4e8d7561b245965d7/2023-4-22-21-59-56-Przykladowy-pdf-1.pdf,1086,0,0
+1682193596799,4637,"(POST) Edytuj-pliki ""dodaj-pliki"" (do task-0)",200,OK,Thread Group 1-18,text,true,,13814,280069,20,20,http://localhost:3000/strona_glowna/klienci/64443ca4e8d7561b245965f4/64443ca5e8d7561b24596629/edytuj_pliki,2708,0,0
+1682193596799,2708,"(POST) Edytuj-pliki ""dodaj-pliki"" (do task-0)-0",302,Found,Thread Group 1-18,text,true,,409,279817,20,20,http://localhost:3000/strona_glowna/klienci/64443ca4e8d7561b245965f4/64443ca5e8d7561b24596629/edytuj_pliki,2708,0,0
+1682193599507,1929,"(POST) Edytuj-pliki ""dodaj-pliki"" (do task-0)-1",200,OK,Thread Group 1-18,text,true,,13405,252,20,20,http://localhost:3000/strona_glowna/klienci/64443ca4e8d7561b245965f4/64443ca5e8d7561b24596629/edytuj_pliki,1929,0,0
+1682193597148,4353,"(POST) Edytuj-pliki ""dodaj-pliki"" (do task-0)",200,OK,Thread Group 1-16,text,true,,13814,280109,20,20,http://localhost:3000/strona_glowna/klienci/64443ca4e8d7561b245965f4/64443ca5e8d7561b24596629/edytuj_pliki,2716,0,0
+1682193597148,2716,"(POST) Edytuj-pliki ""dodaj-pliki"" (do task-0)-0",302,Found,Thread Group 1-16,text,true,,409,279857,20,20,http://localhost:3000/strona_glowna/klienci/64443ca4e8d7561b245965f4/64443ca5e8d7561b24596629/edytuj_pliki,2716,0,0
+1682193599864,1637,"(POST) Edytuj-pliki ""dodaj-pliki"" (do task-0)-1",200,OK,Thread Group 1-16,text,true,,13405,252,20,20,http://localhost:3000/strona_glowna/klienci/64443ca4e8d7561b245965f4/64443ca5e8d7561b24596629/edytuj_pliki,1637,0,0
+1682193597137,4437,"(POST) Edytuj-pliki ""dodaj-pliki"" (do task-0)",200,OK,Thread Group 1-20,text,true,,13814,280061,20,20,http://localhost:3000/strona_glowna/klienci/64443ca4e8d7561b245965f4/64443ca5e8d7561b24596629/edytuj_pliki,2740,0,0
+1682193597137,2740,"(POST) Edytuj-pliki ""dodaj-pliki"" (do task-0)-0",302,Found,Thread Group 1-20,text,true,,409,279809,20,20,http://localhost:3000/strona_glowna/klienci/64443ca4e8d7561b245965f4/64443ca5e8d7561b24596629/edytuj_pliki,2740,0,0
+1682193599877,1697,"(POST) Edytuj-pliki ""dodaj-pliki"" (do task-0)-1",200,OK,Thread Group 1-20,text,true,,13405,252,20,20,http://localhost:3000/strona_glowna/klienci/64443ca4e8d7561b245965f4/64443ca5e8d7561b24596629/edytuj_pliki,1697,0,0
+1682193599871,1740,(GET) Strona-główna (czy istnieją zadania),200,OK,Thread Group 1-6,text,true,,149128,182,20,20,http://localhost:3000/strona_glowna,1739,0,0
+1682193599904,1713,"(DELETE) Edytuj-pliki ""usuń- plik"" [pdf4] (do task-0)",200,OK,Thread Group 1-10,text,true,,336,279486,20,20,http://localhost:3000/strona_glowna/klienci/64443ca2e8d7561b24596585/64443ca3e8d7561b2459659b/edytuj_pliki/2023-4-22-21-59-55-Przykladowy-pdf-2.pdf,1713,0,0
+1682193566516,35083,"Dawanie, Edytowanie Klientów i Zadań (zakładka klieńci)",200,"Number of samples in transaction : 18, number of failing samples : 0",Thread Group 1-10,,true,,203244,566084,20,20,null,18812,20,0
+1682193599891,1766,(GET) Strona-główna (czy istnieją zadania),200,OK,Thread Group 1-4,text,true,,149128,182,20,20,http://localhost:3000/strona_glowna,1766,0,0
+1682193600525,1135,(GET) Otwórz-plik-pdf-1 (do task-0),200,OK,Thread Group 1-14,text,true,,678,228,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965ba/64443ca4e8d7561b245965d7/2023-4-22-21-59-56-Przykladowy-pdf-1.pdf,1135,0,0
+1682193600514,1153,(GET) Otwórz-plik-pdf-1 (do task-0),200,OK,Thread Group 1-17,text,true,,678,228,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965ba/64443ca4e8d7561b245965d7/2023-4-22-21-59-56-Przykladowy-pdf-1.pdf,1153,0,0
+1682193597415,4271,"(POST) Edytuj-pliki ""dodaj-pliki"" (do task-0)",200,OK,Thread Group 1-19,text,true,,13814,280101,20,20,http://localhost:3000/strona_glowna/klienci/64443ca4e8d7561b245965f4/64443ca5e8d7561b24596629/edytuj_pliki,2877,0,0
+1682193597415,2877,"(POST) Edytuj-pliki ""dodaj-pliki"" (do task-0)-0",302,Found,Thread Group 1-19,text,true,,409,279849,20,20,http://localhost:3000/strona_glowna/klienci/64443ca4e8d7561b245965f4/64443ca5e8d7561b24596629/edytuj_pliki,2877,0,0
+1682193600293,1393,"(POST) Edytuj-pliki ""dodaj-pliki"" (do task-0)-1",200,OK,Thread Group 1-19,text,true,,13405,252,20,20,http://localhost:3000/strona_glowna/klienci/64443ca4e8d7561b245965f4/64443ca5e8d7561b24596629/edytuj_pliki,1393,0,0
+1682193600335,1472,"(DELETE) Edytuj-pliki ""usuń- plik"" [pdf4] (do task-0)",200,OK,Thread Group 1-11,text,true,,336,279480,20,20,http://localhost:3000/strona_glowna/klienci/64443ca2e8d7561b24596585/64443ca3e8d7561b2459659b/edytuj_pliki/2023-4-22-21-59-55-Przykladowy-pdf-2.pdf,1472,0,0
+1682193566663,35123,"Dawanie, Edytowanie Klientów i Zadań (zakładka klieńci)",200,"Number of samples in transaction : 18, number of failing samples : 0",Thread Group 1-11,,true,,204824,566030,20,20,null,18836,23,0
+1682193600501,1379,"(DELETE) Edytuj-pliki ""usuń- plik"" [pdf4] (do task-0)",200,OK,Thread Group 1-9,text,true,,336,279474,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b24596595/64443ca3e8d7561b245965ad/edytuj_pliki/2023-4-22-21-59-56-Przykladowy-pdf-4.pdf,1379,0,0
+1682193566503,35359,"Dawanie, Edytowanie Klientów i Zadań (zakładka klieńci)",200,"Number of samples in transaction : 18, number of failing samples : 0",Thread Group 1-9,,true,,147714,566032,20,20,null,19060,20,0
+1682193600916,1295,"(DELETE) Edytuj-pliki ""usuń- plik"" [pdf4] (do task-0)",200,OK,Thread Group 1-13,text,true,,336,279450,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965ba/64443ca4e8d7561b245965d7/edytuj_pliki/2023-4-22-21-59-56-Przykladowy-pdf-2.pdf,1295,0,0
+1682193567368,34817,"Dawanie, Edytowanie Klientów i Zadań (zakładka klieńci)",200,"Number of samples in transaction : 18, number of failing samples : 0",Thread Group 1-13,,true,,320647,566040,20,20,null,18534,28,0
+1682193600772,1444,"(DELETE) Edytuj-pliki ""usuń- plik"" [pdf4] (do task-0)",200,OK,Thread Group 1-12,text,true,,336,279468,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965a3/64443ca3e8d7561b245965c9/edytuj_pliki/2023-4-22-21-59-56-Przykladowy-pdf-4.pdf,1444,0,0
+1682193567124,35073,"Dawanie, Edytowanie Klientów i Zadań (zakładka klieńci)",200,"Number of samples in transaction : 18, number of failing samples : 0",Thread Group 1-12,,true,,154034,565994,20,20,null,18672,21,0
+1682193601413,1042,"(DELETE) Edytuj-pliki ""usuń- plik"" [pdf4] (do task-0)",200,OK,Thread Group 1-15,text,true,,336,279504,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965ba/64443ca4e8d7561b245965d7/edytuj_pliki/2023-4-22-21-59-56-Przykladowy-pdf-2.pdf,1042,0,0
+1682193568389,34036,"Dawanie, Edytowanie Klientów i Zadań (zakładka klieńci)",200,"Number of samples in transaction : 18, number of failing samples : 0",Thread Group 1-15,,true,,322227,566086,20,20,null,18115,33,0
+1682193601436,1137,(GET) Otwórz-plik-pdf-1 (do task-0),200,OK,Thread Group 1-18,text,true,,678,228,20,20,http://localhost:3000/strona_glowna/klienci/64443ca4e8d7561b245965f4/64443ca5e8d7561b24596629/2023-4-22-21-59-58-Przykladowy-pdf-1.pdf,1137,0,0
+1682193601502,1099,(GET) Otwórz-plik-pdf-1 (do task-0),200,OK,Thread Group 1-16,text,true,,678,228,20,20,http://localhost:3000/strona_glowna/klienci/64443ca4e8d7561b245965f4/64443ca5e8d7561b24596629/2023-4-22-21-59-58-Przykladowy-pdf-1.pdf,1099,0,0
+1682193601579,1039,(GET) Otwórz-plik-pdf-1 (do task-0),200,OK,Thread Group 1-20,text,true,,678,228,20,20,http://localhost:3000/strona_glowna/klienci/64443ca4e8d7561b245965f4/64443ca5e8d7561b24596629/2023-4-22-21-59-58-Przykladowy-pdf-1.pdf,1039,0,0
+1682193601664,1080,"(DELETE) Edytuj-pliki ""usuń- plik"" [pdf4] (do task-0)",200,OK,Thread Group 1-14,text,true,,336,279474,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965ba/64443ca4e8d7561b245965d7/edytuj_pliki/2023-4-22-21-59-56-Przykladowy-pdf-2.pdf,1080,0,0
+1682193567890,34829,"Dawanie, Edytowanie Klientów i Zadań (zakładka klieńci)",200,"Number of samples in transaction : 18, number of failing samples : 0",Thread Group 1-14,,true,,320647,566040,20,20,null,18552,24,0
+1682193601670,1090,"(DELETE) Edytuj-pliki ""usuń- plik"" [pdf4] (do task-0)",200,OK,Thread Group 1-17,text,true,,336,279480,20,20,http://localhost:3000/strona_glowna/klienci/64443ca3e8d7561b245965ba/64443ca4e8d7561b245965d7/edytuj_pliki/2023-4-22-21-59-56-Przykladowy-pdf-2.pdf,1090,0,0
+1682193568400,34327,"Dawanie, Edytowanie Klientów i Zadań (zakładka klieńci)",200,"Number of samples in transaction : 18, number of failing samples : 0",Thread Group 1-17,,true,,322227,566006,20,20,null,18443,32,0
+1682193601690,1073,(GET) Otwórz-plik-pdf-1 (do task-0),200,OK,Thread Group 1-19,text,true,,678,228,20,20,http://localhost:3000/strona_glowna/klienci/64443ca4e8d7561b245965f4/64443ca5e8d7561b24596629/2023-4-22-21-59-58-Przykladowy-pdf-1.pdf,1073,0,0
+1682193600730,2444,(GET) Serwis (czy istnieją zadania),200,OK,Thread Group 1-2,text,true,,901130,136,20,20,http://localhost:3000/strona_glowna/serwis,2440,0,0
+1682193601620,1588,(GET) Strona-główna (czy istnieją zadania),200,OK,Thread Group 1-10,text,true,,149128,182,20,20,http://localhost:3000/strona_glowna,1588,0,0
+1682193601811,1453,(GET) Strona-główna (czy istnieją zadania),200,OK,Thread Group 1-11,text,true,,149128,182,20,20,http://localhost:3000/strona_glowna,1453,0,0
+1682193601053,2319,(GET) Serwis (czy istnieją zadania),200,OK,Thread Group 1-5,text,true,,898960,136,20,20,http://localhost:3000/strona_glowna/serwis,2315,0,0
+1682193601883,1517,(GET) Strona-główna (czy istnieją zadania),200,OK,Thread Group 1-9,text,true,,149128,182,20,20,http://localhost:3000/strona_glowna,1517,0,0
+1682193601091,2406,(GET) Serwis (czy istnieją zadania),200,OK,Thread Group 1-3,text,true,,898960,136,20,20,http://localhost:3000/strona_glowna/serwis,2402,0,0
+1682193601370,2263,(GET) Serwis (czy istnieją zadania),200,OK,Thread Group 1-7,text,true,,897332,136,20,20,http://localhost:3000/strona_glowna/serwis,2260,0,0
+1682193601210,2510,(GET) Serwis (czy istnieją zadania),200,OK,Thread Group 1-1,text,true,,897332,136,20,20,http://localhost:3000/strona_glowna/serwis,2505,0,0
+1682193601405,2433,(GET) Serwis (czy istnieją zadania),200,OK,Thread Group 1-8,text,true,,897332,136,20,20,http://localhost:3000/strona_glowna/serwis,2429,0,0
+1682193602214,1644,(GET) Strona-główna (czy istnieją zadania),200,OK,Thread Group 1-13,text,true,,149128,182,20,20,http://localhost:3000/strona_glowna,1643,0,0
+1682193602219,1656,(GET) Strona-główna (czy istnieją zadania),200,OK,Thread Group 1-12,text,true,,149128,182,20,20,http://localhost:3000/strona_glowna,1656,0,0
+1682193602459,1636,(GET) Strona-główna (czy istnieją zadania),200,OK,Thread Group 1-15,text,true,,149128,182,20,20,http://localhost:3000/strona_glowna,1636,0,0
+1682193601616,2469,(GET) Serwis (czy istnieją zadania),200,OK,Thread Group 1-6,text,true,,897332,136,20,20,http://localhost:3000/strona_glowna/serwis,2465,0,0
+1682193601662,2533,(GET) Serwis (czy istnieją zadania),200,OK,Thread Group 1-4,text,true,,897332,136,20,20,http://localhost:3000/strona_glowna/serwis,2528,0,0
+1682193602577,1956,"(DELETE) Edytuj-pliki ""usuń- plik"" [pdf4] (do task-0)",200,OK,Thread Group 1-18,text,true,,336,279486,20,20,http://localhost:3000/strona_glowna/klienci/64443ca4e8d7561b245965f4/64443ca5e8d7561b24596629/edytuj_pliki/2023-4-22-21-59-58-Przykladowy-pdf-2.pdf,1956,0,0
+1682193569073,35438,"Dawanie, Edytowanie Klientów i Zadań (zakładka klieńci)",200,"Number of samples in transaction : 18, number of failing samples : 0",Thread Group 1-18,,true,,326967,566028,20,20,null,19732,22,0
+1682193602604,1933,"(DELETE) Edytuj-pliki ""usuń- plik"" [pdf4] (do task-0)",200,OK,Thread Group 1-16,text,true,,336,279492,20,20,http://localhost:3000/strona_glowna/klienci/64443ca4e8d7561b245965f4/64443ca5e8d7561b24596629/edytuj_pliki/2023-4-22-21-59-58-Przykladowy-pdf-2.pdf,1933,0,0
+1682193569081,35436,"Dawanie, Edytowanie Klientów i Zadań (zakładka klieńci)",200,"Number of samples in transaction : 18, number of failing samples : 0",Thread Group 1-16,,true,,326967,566074,20,20,null,19918,19,0
+1682193602618,1926,"(DELETE) Edytuj-pliki ""usuń- plik"" [pdf4] (do task-0)",200,OK,Thread Group 1-20,text,true,,336,279468,20,20,http://localhost:3000/strona_glowna/klienci/64443ca4e8d7561b245965f4/64443ca5e8d7561b24596629/edytuj_pliki/2023-4-22-21-59-58-Przykladowy-pdf-2.pdf,1926,0,0
+1682193569537,34986,"Dawanie, Edytowanie Klientów i Zadań (zakładka klieńci)",200,"Number of samples in transaction : 18, number of failing samples : 0",Thread Group 1-20,,true,,328547,566002,20,20,null,19913,20,0
+1682193602760,1852,(GET) Strona-główna (czy istnieją zadania),200,OK,Thread Group 1-17,text,true,,149128,182,20,20,http://localhost:3000/strona_glowna,1851,0,0
+1682193602745,1890,(GET) Strona-główna (czy istnieją zadania),200,OK,Thread Group 1-14,text,true,,149128,182,20,20,http://localhost:3000/strona_glowna,1890,0,0
+1682193602764,2040,"(DELETE) Edytuj-pliki ""usuń- plik"" [pdf4] (do task-0)",200,OK,Thread Group 1-19,text,true,,336,279486,20,20,http://localhost:3000/strona_glowna/klienci/64443ca4e8d7561b245965f4/64443ca5e8d7561b24596629/edytuj_pliki/2023-4-22-21-59-58-Przykladowy-pdf-2.pdf,2040,0,0
+1682193569384,35401,"Dawanie, Edytowanie Klientów i Zadań (zakładka klieńci)",200,"Number of samples in transaction : 18, number of failing samples : 0",Thread Group 1-19,,true,,326967,566060,20,20,null,20520,19,0
+1682193603207,2606,(GET) Główne usługi (czy istnieją zadania),200,OK,Thread Group 1-2,text,true,,592508,153,20,20,http://localhost:3000/strona_glowna/serwis/powiazane_uslugi,2603,0,0
+1682193603209,2711,(GET) Serwis (czy istnieją zadania),200,OK,Thread Group 1-10,text,true,,894074,136,20,20,http://localhost:3000/strona_glowna/serwis,2707,0,0
+1682193603392,2792,(GET) Główne usługi (czy istnieją zadania),200,OK,Thread Group 1-5,text,true,,592508,153,20,20,http://localhost:3000/strona_glowna/serwis/powiazane_uslugi,2788,0,0
+1682193603402,2873,(GET) Serwis (czy istnieją zadania),200,OK,Thread Group 1-9,text,true,,894074,136,20,20,http://localhost:3000/strona_glowna/serwis,2868,0,0
+1682193604534,1841,(GET) Strona-główna (czy istnieją zadania),200,OK,Thread Group 1-18,text,true,,149128,182,20,20,http://localhost:3000/strona_glowna,1841,0,0
+1682193603266,3092,(GET) Serwis (czy istnieją zadania),200,OK,Thread Group 1-11,text,true,,894074,136,20,20,http://localhost:3000/strona_glowna/serwis,3088,0,0
+1682193604538,1850,(GET) Strona-główna (czy istnieją zadania),200,OK,Thread Group 1-16,text,true,,149128,182,20,20,http://localhost:3000/strona_glowna,1850,0,0
+1682193603520,2948,(GET) Główne usługi (czy istnieją zadania),200,OK,Thread Group 1-3,text,true,,592508,153,20,20,http://localhost:3000/strona_glowna/serwis/powiazane_uslugi,2945,0,0
+1682193603858,2674,(GET) Główne usługi (czy istnieją zadania),200,OK,Thread Group 1-8,text,true,,592508,153,20,20,http://localhost:3000/strona_glowna/serwis/powiazane_uslugi,2670,0,0
+1682193603652,2942,(GET) Główne usługi (czy istnieją zadania),200,OK,Thread Group 1-7,text,true,,592508,153,20,20,http://localhost:3000/strona_glowna/serwis/powiazane_uslugi,2937,0,0
+1682193604545,2073,(GET) Strona-główna (czy istnieją zadania),200,OK,Thread Group 1-20,text,true,,149128,182,20,20,http://localhost:3000/strona_glowna,2068,0,0
+1682193603876,2823,(GET) Serwis (czy istnieją zadania),200,OK,Thread Group 1-12,text,true,,894074,136,20,20,http://localhost:3000/strona_glowna/serwis,2821,0,0
+1682193603859,2929,(GET) Serwis (czy istnieją zadania),200,OK,Thread Group 1-13,text,true,,894074,136,20,20,http://localhost:3000/strona_glowna/serwis,2926,0,0
+1682193603743,3110,(GET) Główne usługi (czy istnieją zadania),200,OK,Thread Group 1-1,text,true,,592508,153,20,20,http://localhost:3000/strona_glowna/serwis/powiazane_uslugi,3109,0,0
+1682193604805,2091,(GET) Strona-główna (czy istnieją zadania),200,OK,Thread Group 1-19,text,true,,149128,182,20,20,http://localhost:3000/strona_glowna,2090,0,0
+1682193604214,2876,(GET) Główne usługi (czy istnieją zadania),200,OK,Thread Group 1-4,text,true,,592508,153,20,20,http://localhost:3000/strona_glowna/serwis/powiazane_uslugi,2875,0,0
+1682193604096,3080,(GET) Serwis (czy istnieją zadania),200,OK,Thread Group 1-15,text,true,,894074,136,20,20,http://localhost:3000/strona_glowna/serwis,3078,0,0
+1682193604613,2653,(GET) Serwis (czy istnieją zadania),200,OK,Thread Group 1-17,text,true,,894074,136,20,20,http://localhost:3000/strona_glowna/serwis,2650,0,0
+1682193604097,3224,(GET) Główne usługi (czy istnieją zadania),200,OK,Thread Group 1-6,text,true,,592508,153,20,20,http://localhost:3000/strona_glowna/serwis/powiazane_uslugi,3222,0,0
+1682193604636,2779,(GET) Serwis (czy istnieją zadania),200,OK,Thread Group 1-14,text,true,,894074,136,20,20,http://localhost:3000/strona_glowna/serwis,2775,0,0
+1682193605937,2576,(GET) Główne usługi (czy istnieją zadania),200,OK,Thread Group 1-10,text,true,,592508,153,20,20,http://localhost:3000/strona_glowna/serwis/powiazane_uslugi,2574,0,0
+1682193605822,3137,(GET) Powiązene zadania (czy istnieją zadania),200,OK,Thread Group 1-2,text,true,,26622,178,20,20,http://localhost:3000/strona_glowna/serwis/powiazane_uslugi/64443ca0e8d7561b24596508,3137,0,0
+1682193606389,2669,(GET) Serwis (czy istnieją zadania),200,OK,Thread Group 1-16,text,true,,894074,136,20,20,http://localhost:3000/strona_glowna/serwis,2667,0,0
+1682193606377,2734,(GET) Główne usługi (czy istnieją zadania),200,OK,Thread Group 1-11,text,true,,592508,153,20,20,http://localhost:3000/strona_glowna/serwis/powiazane_uslugi,2732,0,0
+1682193606618,2588,(GET) Serwis (czy istnieją zadania),200,OK,Thread Group 1-20,text,true,,894074,136,20,20,http://localhost:3000/strona_glowna/serwis,2584,0,0
+1682193606707,2550,(GET) Główne usługi (czy istnieją zadania),200,OK,Thread Group 1-12,text,true,,592508,153,20,20,http://localhost:3000/strona_glowna/serwis/powiazane_uslugi,2548,0,0
+1682193606289,3032,(GET) Główne usługi (czy istnieją zadania),200,OK,Thread Group 1-9,text,true,,592508,153,20,20,http://localhost:3000/strona_glowna/serwis/powiazane_uslugi,3028,0,0
+1682193606376,3036,(GET) Serwis (czy istnieją zadania),200,OK,Thread Group 1-18,text,true,,894074,136,20,20,http://localhost:3000/strona_glowna/serwis,3032,0,0
+1682193606799,2668,(GET) Główne usługi (czy istnieją zadania),200,OK,Thread Group 1-13,text,true,,592508,153,20,20,http://localhost:3000/strona_glowna/serwis/powiazane_uslugi,2664,0,0
+1682193606545,2954,(GET) Powiązene zadania (czy istnieją zadania),200,OK,Thread Group 1-8,text,true,,46024,178,20,20,http://localhost:3000/strona_glowna/serwis/powiazane_uslugi/64443ca1e8d7561b24596538,2954,0,0
+1682193606481,3123,(GET) Powiązene zadania (czy istnieją zadania),200,OK,Thread Group 1-3,text,true,,31351,178,20,20,http://localhost:3000/strona_glowna/serwis/powiazane_uslugi/64443ca1e8d7561b24596525,3123,0,0
+1682193606896,2693,(GET) Serwis (czy istnieją zadania),200,OK,Thread Group 1-19,text,true,,894074,136,20,20,http://localhost:3000/strona_glowna/serwis,2689,0,0
+1682193607183,2480,(GET) Główne usługi (czy istnieją zadania),200,OK,Thread Group 1-15,text,true,,592508,153,20,20,http://localhost:3000/strona_glowna/serwis/powiazane_uslugi,2475,0,0
+1682193606194,3483,(GET) Powiązene zadania (czy istnieją zadania),200,OK,Thread Group 1-5,text,true,,46024,178,20,20,http://localhost:3000/strona_glowna/serwis/powiazane_uslugi/64443ca1e8d7561b24596538,3483,0,0
+1682193607277,2440,(GET) Główne usługi (czy istnieją zadania),200,OK,Thread Group 1-17,text,true,,592508,153,20,20,http://localhost:3000/strona_glowna/serwis/powiazane_uslugi,2438,0,0
+1682193606859,2893,(GET) Powiązene zadania (czy istnieją zadania),200,OK,Thread Group 1-1,text,true,,31351,178,20,20,http://localhost:3000/strona_glowna/serwis/powiazane_uslugi/64443ca1e8d7561b24596525,2893,0,0
+1682193606606,3163,(GET) Powiązene zadania (czy istnieją zadania),200,OK,Thread Group 1-7,text,true,,46024,178,20,20,http://localhost:3000/strona_glowna/serwis/powiazane_uslugi/64443ca1e8d7561b24596538,3163,0,0
+1682193607430,2447,(GET) Główne usługi (czy istnieją zadania),200,OK,Thread Group 1-14,text,true,,592508,153,20,20,http://localhost:3000/strona_glowna/serwis/powiazane_uslugi,2444,0,0
+1682193607096,2947,(GET) Powiązene zadania (czy istnieją zadania),200,OK,Thread Group 1-4,text,true,,46024,178,20,20,http://localhost:3000/strona_glowna/serwis/powiazane_uslugi/64443ca1e8d7561b24596538,2946,0,0
+1682193607329,2824,(GET) Powiązene zadania (czy istnieją zadania),200,OK,Thread Group 1-6,text,true,,46024,178,20,20,http://localhost:3000/strona_glowna/serwis/powiazane_uslugi/64443ca1e8d7561b24596538,2824,0,0
+1682193608518,2666,(GET) Powiązene zadania (czy istnieją zadania),200,OK,Thread Group 1-10,text,true,,31351,178,20,20,http://localhost:3000/strona_glowna/serwis/powiazane_uslugi/64443ca3e8d7561b2459659b,2666,0,0
+1682193609066,2320,(GET) Główne usługi (czy istnieją zadania),200,OK,Thread Group 1-16,text,true,,592508,153,20,20,http://localhost:3000/strona_glowna/serwis/powiazane_uslugi,2316,0,0
+1682193608959,2504,(GET) Wszystkie usługi (czy istnieją zadania),200,OK,Thread Group 1-2,text,true,,661162,153,20,20,http://localhost:3000/strona_glowna/serwis/wszystkie_uslugi,2500,0,0
+1682193609219,2322,(GET) Główne usługi (czy istnieją zadania),200,OK,Thread Group 1-20,text,true,,592508,153,20,20,http://localhost:3000/strona_glowna/serwis/powiazane_uslugi,2318,0,0
+1682193609429,2356,(GET) Główne usługi (czy istnieją zadania),200,OK,Thread Group 1-18,text,true,,592508,153,20,20,http://localhost:3000/strona_glowna/serwis/powiazane_uslugi,2352,0,0
+1682193609499,2360,(GET) Wszystkie usługi (czy istnieją zadania),200,OK,Thread Group 1-8,text,true,,661162,153,20,20,http://localhost:3000/strona_glowna/serwis/wszystkie_uslugi,2357,0,0
+1682193609118,2767,(GET) Powiązene zadania (czy istnieją zadania),200,OK,Thread Group 1-11,text,true,,31351,178,20,20,http://localhost:3000/strona_glowna/serwis/powiazane_uslugi/64443ca3e8d7561b2459659b,2767,0,0
+1682193609752,2255,(GET) Wszystkie usługi (czy istnieją zadania),200,OK,Thread Group 1-1,text,true,,661162,153,20,20,http://localhost:3000/strona_glowna/serwis/wszystkie_uslugi,2252,0,0
+1682193609611,2485,(GET) Główne usługi (czy istnieją zadania),200,OK,Thread Group 1-19,text,true,,592508,153,20,20,http://localhost:3000/strona_glowna/serwis/powiazane_uslugi,2484,0,0
+1682193609265,2861,(GET) Powiązene zadania (czy istnieją zadania),200,OK,Thread Group 1-12,text,true,,26622,178,20,20,http://localhost:3000/strona_glowna/serwis/powiazane_uslugi/64443ca3e8d7561b245965c9,2861,0,0
+1682193609336,2870,(GET) Powiązene zadania (czy istnieją zadania),200,OK,Thread Group 1-9,text,true,,26622,178,20,20,http://localhost:3000/strona_glowna/serwis/powiazane_uslugi/64443ca3e8d7561b245965ad,2870,0,0
+1682193609480,2773,(GET) Powiązene zadania (czy istnieją zadania),200,OK,Thread Group 1-13,text,true,,41777,178,20,20,http://localhost:3000/strona_glowna/serwis/powiazane_uslugi/64443ca4e8d7561b245965d7,2773,0,0
+1682193609675,2760,(GET) Powiązene zadania (czy istnieją zadania),200,OK,Thread Group 1-15,text,true,,41777,178,20,20,http://localhost:3000/strona_glowna/serwis/powiazane_uslugi/64443ca4e8d7561b245965d7,2760,0,0
+1682193609677,2983,(GET) Wszystkie usługi (czy istnieją zadania),200,OK,Thread Group 1-5,text,true,,661162,153,20,20,http://localhost:3000/strona_glowna/serwis/wszystkie_uslugi,2982,0,0
+1682193609890,2781,(GET) Powiązene zadania (czy istnieją zadania),200,OK,Thread Group 1-14,text,true,,41777,178,20,20,http://localhost:3000/strona_glowna/serwis/powiazane_uslugi/64443ca4e8d7561b245965d7,2781,0,0
+1682193610154,2607,(GET) Wszystkie usługi (czy istnieją zadania),200,OK,Thread Group 1-6,text,true,,661162,153,20,20,http://localhost:3000/strona_glowna/serwis/wszystkie_uslugi,2605,0,0
+1682193610044,2788,(GET) Wszystkie usługi (czy istnieją zadania),200,OK,Thread Group 1-4,text,true,,661162,153,20,20,http://localhost:3000/strona_glowna/serwis/wszystkie_uslugi,2786,0,0
+1682193609725,3118,(GET) Powiązene zadania (czy istnieją zadania),200,OK,Thread Group 1-17,text,true,,41777,178,20,20,http://localhost:3000/strona_glowna/serwis/powiazane_uslugi/64443ca4e8d7561b245965d7,3118,0,0
+1682193609769,3156,(GET) Wszystkie usługi (czy istnieją zadania),200,OK,Thread Group 1-7,text,true,,661162,153,20,20,http://localhost:3000/strona_glowna/serwis/wszystkie_uslugi,3154,0,0
+1682193609604,3388,(GET) Wszystkie usługi (czy istnieją zadania),200,OK,Thread Group 1-3,text,true,,661162,153,20,20,http://localhost:3000/strona_glowna/serwis/wszystkie_uslugi,3387,0,0
+1682193611185,2557,(GET) Wszystkie usługi (czy istnieją zadania),200,OK,Thread Group 1-10,text,true,,661162,153,20,20,http://localhost:3000/strona_glowna/serwis/wszystkie_uslugi,2556,0,0
+1682193611874,2240,(GET) Kalendarz,200,OK,Thread Group 1-8,text,true,,5182,146,20,20,http://localhost:3000/strona_glowna/serwis/kalendarz,2240,0,0
+1682193611886,2337,(GET) Wszystkie usługi (czy istnieją zadania),200,OK,Thread Group 1-11,text,true,,661162,153,20,20,http://localhost:3000/strona_glowna/serwis/wszystkie_uslugi,2334,0,0
+1682193611480,2768,(GET) Kalendarz,200,OK,Thread Group 1-2,text,true,,5182,146,20,20,http://localhost:3000/strona_glowna/serwis/kalendarz,2768,0,0
+1682193612127,2246,(GET) Wszystkie usługi (czy istnieją zadania),200,OK,Thread Group 1-12,text,true,,661162,153,20,20,http://localhost:3000/strona_glowna/serwis/wszystkie_uslugi,2245,0,0
+1682193612023,2377,(GET) Kalendarz,200,OK,Thread Group 1-1,text,true,,5182,146,20,20,http://localhost:3000/strona_glowna/serwis/kalendarz,2377,0,0
+1682193611399,3010,(GET) Powiązene zadania (czy istnieją zadania),200,OK,Thread Group 1-16,text,true,,41294,178,20,20,http://localhost:3000/strona_glowna/serwis/powiazane_uslugi/64443ca5e8d7561b24596629,3010,0,0
+1682193612208,2278,(GET) Wszystkie usługi (czy istnieją zadania),200,OK,Thread Group 1-9,text,true,,661162,153,20,20,http://localhost:3000/strona_glowna/serwis/wszystkie_uslugi,2277,0,0
+1682193612255,2312,(GET) Wszystkie usługi (czy istnieją zadania),200,OK,Thread Group 1-13,text,true,,661162,153,20,20,http://localhost:3000/strona_glowna/serwis/wszystkie_uslugi,2311,0,0
+1682193611797,2789,(GET) Powiązene zadania (czy istnieją zadania),200,OK,Thread Group 1-18,text,true,,41294,178,20,20,http://localhost:3000/strona_glowna/serwis/powiazane_uslugi/64443ca5e8d7561b24596629,2789,0,0
+1682193611555,3043,(GET) Powiązene zadania (czy istnieją zadania),200,OK,Thread Group 1-20,text,true,,41294,178,20,20,http://localhost:3000/strona_glowna/serwis/powiazane_uslugi/64443ca5e8d7561b24596629,3043,0,0
+1682193612437,2276,(GET) Wszystkie usługi (czy istnieją zadania),200,OK,Thread Group 1-15,text,true,,661162,153,20,20,http://localhost:3000/strona_glowna/serwis/wszystkie_uslugi,2273,0,0
+1682193612104,2662,(GET) Powiązene zadania (czy istnieją zadania),200,OK,Thread Group 1-19,text,true,,41294,178,20,20,http://localhost:3000/strona_glowna/serwis/powiazane_uslugi/64443ca5e8d7561b24596629,2662,0,0
+1682193612668,2297,(GET) Kalendarz,200,OK,Thread Group 1-5,text,true,,5182,146,20,20,http://localhost:3000/strona_glowna/serwis/kalendarz,2297,0,0
+1682193612769,2339,(GET) Kalendarz,200,OK,Thread Group 1-6,text,true,,5182,146,20,20,http://localhost:3000/strona_glowna/serwis/kalendarz,2339,0,0
+1682193612841,2303,(GET) Kalendarz,200,OK,Thread Group 1-4,text,true,,5182,146,20,20,http://localhost:3000/strona_glowna/serwis/kalendarz,2303,0,0
+1682193612672,2542,(GET) Wszystkie usługi (czy istnieją zadania),200,OK,Thread Group 1-14,text,true,,661162,153,20,20,http://localhost:3000/strona_glowna/serwis/wszystkie_uslugi,2540,0,0
+1682193612933,2306,(GET) Kalendarz,200,OK,Thread Group 1-7,text,true,,5182,146,20,20,http://localhost:3000/strona_glowna/serwis/kalendarz,2306,0,0
+1682193613000,2265,(GET) Kalendarz,200,OK,Thread Group 1-3,text,true,,5182,146,20,20,http://localhost:3000/strona_glowna/serwis/kalendarz,2265,0,0
+1682193612845,2491,(GET) Wszystkie usługi (czy istnieją zadania),200,OK,Thread Group 1-17,text,true,,661162,153,20,20,http://localhost:3000/strona_glowna/serwis/wszystkie_uslugi,2488,0,0
+1682193613751,2221,(GET) Kalendarz,200,OK,Thread Group 1-10,text,true,,5182,146,20,20,http://localhost:3000/strona_glowna/serwis/kalendarz,2221,0,0
+1682193614115,2207,(GET) Kalendarz-Dzień (czy istnieją zadania),200,OK,Thread Group 1-8,text,true,,147082,157,20,20,http://localhost:3000/strona_glowna/serwis/kalendarz/2023-04-22,2206,0,0
+1682193599544,16727,"Wyświetlanie Zadań (strona główna, serwis)",200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-8,,true,,2498418,1105,20,20,null,16715,49,0
+1682193563194,53055,Test,200,"Number of samples in transaction : 29, number of failing samples : 0",Thread Group 1-8,,true,,2913410,567622,20,20,null,37066,74,2
+1682193614230,2161,(GET) Kalendarz,200,OK,Thread Group 1-11,text,true,,5182,146,19,19,http://localhost:3000/strona_glowna/serwis/kalendarz,2161,0,0
+1682193614250,2321,(GET) Kalendarz-Dzień (czy istnieją zadania),200,OK,Thread Group 1-2,text,true,,147082,157,19,19,http://localhost:3000/strona_glowna/serwis/kalendarz/2023-04-22,2320,0,0
+1682193598642,17865,"Wyświetlanie Zadań (strona główna, serwis)",200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-2,,true,,2482814,1105,19,19,null,17852,62,0
+1682193561701,54777,Test,200,"Number of samples in transaction : 29, number of failing samples : 0",Thread Group 1-2,,true,,2675643,567684,19,19,null,38452,94,1
+1682193614400,2192,(GET) Kalendarz-Dzień (czy istnieją zadania),200,OK,Thread Group 1-1,text,true,,147082,157,18,18,http://localhost:3000/strona_glowna/serwis/kalendarz/2023-04-22,2192,0,0
+1682193599275,17269,"Wyświetlanie Zadań (strona główna, serwis)",200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-1,,true,,2483745,1105,18,18,null,17260,46,0
+1682193561407,54934,Test,200,"Number of samples in transaction : 29, number of failing samples : 0",Thread Group 1-1,,true,,2732104,567700,18,18,null,38695,241,25
+1682193614380,2236,(GET) Kalendarz,200,OK,Thread Group 1-12,text,true,,5182,146,17,17,http://localhost:3000/strona_glowna/serwis/kalendarz,2236,0,0
+1682193614411,2302,(GET) Wszystkie usługi (czy istnieją zadania),200,OK,Thread Group 1-16,text,true,,661162,153,17,17,http://localhost:3000/strona_glowna/serwis/wszystkie_uslugi,2300,0,0
+1682193614493,2250,(GET) Kalendarz,200,OK,Thread Group 1-9,text,true,,5182,146,17,17,http://localhost:3000/strona_glowna/serwis/kalendarz,2250,0,0
+1682193614599,2279,(GET) Wszystkie usługi (czy istnieją zadania),200,OK,Thread Group 1-20,text,true,,661162,153,17,17,http://localhost:3000/strona_glowna/serwis/wszystkie_uslugi,2275,0,0
+1682193614587,2364,(GET) Wszystkie usługi (czy istnieją zadania),200,OK,Thread Group 1-18,text,true,,661162,153,17,17,http://localhost:3000/strona_glowna/serwis/wszystkie_uslugi,2361,0,0
+1682193614577,2396,(GET) Kalendarz,200,OK,Thread Group 1-13,text,true,,5182,146,17,17,http://localhost:3000/strona_glowna/serwis/kalendarz,2396,0,0
+1682193614720,2275,(GET) Kalendarz,200,OK,Thread Group 1-15,text,true,,5182,146,17,17,http://localhost:3000/strona_glowna/serwis/kalendarz,2275,0,0
+1682193614767,2304,(GET) Wszystkie usługi (czy istnieją zadania),200,OK,Thread Group 1-19,text,true,,661162,153,17,17,http://localhost:3000/strona_glowna/serwis/wszystkie_uslugi,2301,0,0
+1682193615109,2147,(GET) Kalendarz-Dzień (czy istnieją zadania),200,OK,Thread Group 1-6,text,true,,147082,157,17,17,http://localhost:3000/strona_glowna/serwis/kalendarz/2023-04-22,2147,0,0
+1682193599871,17350,"Wyświetlanie Zadań (strona główna, serwis)",200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-6,,true,,2498418,1105,17,17,null,17341,34,0
+1682193562663,54532,Test,200,"Number of samples in transaction : 29, number of failing samples : 0",Thread Group 1-6,,true,,2913412,567728,17,17,null,38512,63,1
+1682193614966,2315,(GET) Kalendarz-Dzień (czy istnieją zadania),200,OK,Thread Group 1-5,text,true,,147082,157,16,16,http://localhost:3000/strona_glowna/serwis/kalendarz/2023-04-22,2315,0,0
+1682193599048,18192,"Wyświetlanie Zadań (strona główna, serwis)",200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-5,,true,,2500046,1105,16,16,null,18182,39,0
+1682193562445,54770,Test,200,"Number of samples in transaction : 29, number of failing samples : 0",Thread Group 1-5,,true,,2915040,567648,16,16,null,38588,68,2
+1682193615346,1959,(GET) Kalendarz,200,OK,Thread Group 1-17,text,true,,5182,146,15,15,http://localhost:3000/strona_glowna/serwis/kalendarz,1959,0,0
+1682193615145,2180,(GET) Kalendarz-Dzień (czy istnieją zadania),200,OK,Thread Group 1-4,text,true,,147082,157,15,15,http://localhost:3000/strona_glowna/serwis/kalendarz/2023-04-22,2179,0,0
+1682193599891,17393,"Wyświetlanie Zadań (strona główna, serwis)",200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-4,,true,,2498418,1105,15,15,null,17383,39,0
+1682193562190,55051,Test,200,"Number of samples in transaction : 29, number of failing samples : 0",Thread Group 1-4,,true,,2913410,567624,15,15,null,38426,85,1
+1682193615265,2091,(GET) Kalendarz-Dzień (czy istnieją zadania),200,OK,Thread Group 1-3,text,true,,147082,157,14,14,http://localhost:3000/strona_glowna/serwis/kalendarz/2023-04-22,2091,0,0
+1682193599045,18265,"Wyświetlanie Zadań (strona główna, serwis)",200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-3,,true,,2485373,1105,14,14,null,18256,44,0
+1682193561947,55337,Test,200,"Number of samples in transaction : 29, number of failing samples : 0",Thread Group 1-3,,true,,2733732,567640,14,14,null,39359,73,0
+1682193615225,2263,(GET) Kalendarz,200,OK,Thread Group 1-14,text,true,,5182,146,13,13,http://localhost:3000/strona_glowna/serwis/kalendarz,2263,0,0
+1682193615239,2282,(GET) Kalendarz-Dzień (czy istnieją zadania),200,OK,Thread Group 1-7,text,true,,147082,157,13,13,http://localhost:3000/strona_glowna/serwis/kalendarz/2023-04-22,2282,0,0
+1682193599512,17968,"Wyświetlanie Zadań (strona główna, serwis)",200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-7,,true,,2498418,1105,13,13,null,17958,39,0
+1682193562966,54490,Test,200,"Number of samples in transaction : 29, number of failing samples : 0",Thread Group 1-7,,true,,2913412,567670,13,13,null,38419,66,1
+1682193615973,1742,(GET) Kalendarz-Dzień (czy istnieją zadania),200,OK,Thread Group 1-10,text,true,,147082,157,12,12,http://localhost:3000/strona_glowna/serwis/kalendarz/2023-04-22,1742,0,0
+1682193601620,16061,"Wyświetlanie Zadań (strona główna, serwis)",200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-10,,true,,2480487,1105,12,12,null,16054,35,0
+1682193563725,53932,Test,200,"Number of samples in transaction : 29, number of failing samples : 0",Thread Group 1-10,,true,,2735166,567738,12,12,null,35882,59,1
+1682193616392,1705,(GET) Kalendarz-Dzień (czy istnieją zadania),200,OK,Thread Group 1-11,text,true,,147082,157,11,11,http://localhost:3000/strona_glowna/serwis/kalendarz/2023-04-22,1705,0,0
+1682193601810,16249,"Wyświetlanie Zadań (strona główna, serwis)",200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-11,,true,,2480487,1105,11,11,null,16240,39,0
+1682193563962,54071,Test,200,"Number of samples in transaction : 29, number of failing samples : 0",Thread Group 1-11,,true,,2736746,567684,11,11,null,36061,65,2
+1682193616616,1550,(GET) Kalendarz-Dzień (czy istnieją zadania),200,OK,Thread Group 1-12,text,true,,147082,157,10,10,http://localhost:3000/strona_glowna/serwis/kalendarz/2023-04-22,1550,0,0
+1682193602219,15922,"Wyświetlanie Zadań (strona główna, serwis)",200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-12,,true,,2475758,1105,10,10,null,15917,26,0
+1682193564195,53919,Test,200,"Number of samples in transaction : 29, number of failing samples : 0",Thread Group 1-12,,true,,2681227,567648,10,10,null,35797,53,1
+1682193616744,1462,(GET) Kalendarz-Dzień (czy istnieją zadania),200,OK,Thread Group 1-9,text,true,,147082,157,9,9,http://localhost:3000/strona_glowna/serwis/kalendarz/2023-04-22,1462,0,0
+1682193601883,16282,"Wyświetlanie Zadań (strona główna, serwis)",200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-9,,true,,2475758,1105,9,9,null,16272,42,0
+1682193563459,54683,Test,200,"Number of samples in transaction : 29, number of failing samples : 0",Thread Group 1-9,,true,,2674907,567686,9,9,null,36609,65,1
+1682193616726,1526,(GET) Kalendarz,200,OK,Thread Group 1-16,text,true,,5182,146,8,8,http://localhost:3000/strona_glowna/serwis/kalendarz,1526,0,0
+1682193616892,1390,(GET) Kalendarz,200,OK,Thread Group 1-20,text,true,,5182,146,8,8,http://localhost:3000/strona_glowna/serwis/kalendarz,1390,0,0
+1682193616964,1406,(GET) Kalendarz,200,OK,Thread Group 1-18,text,true,,5182,146,8,8,http://localhost:3000/strona_glowna/serwis/kalendarz,1406,0,0
+1682193617085,1317,(GET) Kalendarz,200,OK,Thread Group 1-19,text,true,,5182,146,8,8,http://localhost:3000/strona_glowna/serwis/kalendarz,1317,0,0
+1682193616973,1448,(GET) Kalendarz-Dzień (czy istnieją zadania),200,OK,Thread Group 1-13,text,true,,147082,157,8,8,http://localhost:3000/strona_glowna/serwis/kalendarz/2023-04-22,1448,0,0
+1682193602214,16170,"Wyświetlanie Zadań (strona główna, serwis)",200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-13,,true,,2490913,1105,8,8,null,16161,38,0
+1682193564449,53904,Test,200,"Number of samples in transaction : 29, number of failing samples : 0",Thread Group 1-13,,true,,2862995,567694,8,8,null,35833,69,1
+1682193616996,1447,(GET) Kalendarz-Dzień (czy istnieją zadania),200,OK,Thread Group 1-15,text,true,,147082,157,7,7,http://localhost:3000/strona_glowna/serwis/kalendarz/2023-04-22,1446,0,0
+1682193602459,15954,"Wyświetlanie Zadań (strona główna, serwis)",200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-15,,true,,2490913,1105,7,7,null,15943,31,0
+1682193564946,53431,Test,200,"Number of samples in transaction : 29, number of failing samples : 0",Thread Group 1-15,,true,,2864575,567740,7,7,null,35591,67,1
+1682193617305,1251,(GET) Kalendarz-Dzień (czy istnieją zadania),200,OK,Thread Group 1-17,text,true,,147082,157,6,6,http://localhost:3000/strona_glowna/serwis/kalendarz/2023-04-22,1251,0,0
+1682193602760,15764,"Wyświetlanie Zadań (strona główna, serwis)",200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-17,,true,,2490913,1105,6,6,null,15755,34,0
+1682193565440,53047,Test,200,"Number of samples in transaction : 29, number of failing samples : 0",Thread Group 1-17,,true,,2864575,567660,6,6,null,35401,71,2
+1682193617488,1185,(GET) Kalendarz-Dzień (czy istnieją zadania),200,OK,Thread Group 1-14,text,true,,147082,157,5,5,http://localhost:3000/strona_glowna/serwis/kalendarz/2023-04-22,1185,0,0
+1682193602744,15887,"Wyświetlanie Zadań (strona główna, serwis)",200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-14,,true,,2490913,1105,5,5,null,15878,43,0
+1682193564723,53881,Test,200,"Number of samples in transaction : 29, number of failing samples : 0",Thread Group 1-14,,true,,2862995,567694,5,5,null,35532,70,1
+1682193618252,1300,(GET) Kalendarz-Dzień (czy istnieją zadania),200,OK,Thread Group 1-16,text,true,,147082,157,4,4,http://localhost:3000/strona_glowna/serwis/kalendarz/2023-04-22,1300,0,0
+1682193604537,14977,"Wyświetlanie Zadań (strona główna, serwis)",200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-16,,true,,2490430,1105,4,4,null,14969,40,0
+1682193565202,54289,Test,200,"Number of samples in transaction : 29, number of failing samples : 0",Thread Group 1-16,,true,,2868832,567728,4,4,null,36584,63,1
+1682193618283,1286,(GET) Kalendarz-Dzień (czy istnieją zadania),200,OK,Thread Group 1-20,text,true,,147082,157,3,3,http://localhost:3000/strona_glowna/serwis/kalendarz/2023-04-22,1286,0,0
+1682193604545,14981,"Wyświetlanie Zadań (strona główna, serwis)",200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-20,,true,,2490430,1105,3,3,null,14964,45,0
+1682193566178,53324,Test,200,"Number of samples in transaction : 29, number of failing samples : 0",Thread Group 1-20,,true,,2870412,567656,3,3,null,36239,69,1
+1682193618370,1497,(GET) Kalendarz-Dzień (czy istnieją zadania),200,OK,Thread Group 1-18,text,true,,147082,157,2,2,http://localhost:3000/strona_glowna/serwis/kalendarz/2023-04-22,1497,0,0
+1682193604534,15289,"Wyświetlanie Zadań (strona główna, serwis)",200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-18,,true,,2490430,1105,2,2,null,15278,46,0
+1682193565698,54097,Test,200,"Number of samples in transaction : 29, number of failing samples : 0",Thread Group 1-18,,true,,2868832,567682,2,2,null,36210,74,2
+1682193618403,1495,(GET) Kalendarz-Dzień (czy istnieją zadania),200,OK,Thread Group 1-19,text,true,,147082,157,1,1,http://localhost:3000/strona_glowna/serwis/kalendarz/2023-04-22,1491,0,0
+1682193604805,15047,"Wyświetlanie Zadań (strona główna, serwis)",200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-19,,true,,2490430,1105,1,1,null,15034,47,0
+1682193565933,53897,Test,200,"Number of samples in transaction : 29, number of failing samples : 0",Thread Group 1-19,,true,,2868832,567714,1,1,null,36948,69,1
