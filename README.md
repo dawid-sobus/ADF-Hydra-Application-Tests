@@ -15,10 +15,19 @@
   npx mocha --no-timeouts 'test/automaticTestsAdf-Hydra.js'
   - aby testy uruchomiły się poprawnie należy wcześniej pobrać i zainstalować chromedriver na swoim komputerze
   
+  Otwarcie raporu z wynikami testów:
+  - należy pobrać raport, a następnie kliknąć dwa razy na plik: mochawesome.html
+  - uruchomi się przeglądarka z wynikami testów
+  
 3. 3-Testy-wydajnosciowe-Jmeter-ADF-Hydra
 
   Znajdują się tutaj testy wydajnościowe stworzone w programie Jmeter i zapisane w pliku pod nazwą: ADF-Hydra-Test.jmx, jak i raporty z testów dla opowiednio 1, 20 i 50 samplesów.
   
+  Uruchomienie testów wydajnościowych:
   - aby uruchomić te testy należy również w pierwszej kolejności pobrać i uruchomić aplikację ADF-Hydra, wpisując w terminalu otwartej aplikacji polecenie:
   node app.js,
-  następnie uruchomić testy w Jmeter.
+  - następnie uruchomić testy w Jmeter
+  
+  Otwarcie raporów z wynikami testów:
+  - należy pobrać raporty, a następnie kliknąć dwa razy na plik: index.html
+  - uruchomi się przeglądarka z wynikami testów
