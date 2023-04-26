@@ -2,7 +2,7 @@
 
 1. 1-Testy-manualne-ADF-Hydra-plan-testów-TestLink
 
-  W tym folderze znajdują się testy manualne, plan testów oraz wykonane przydpadki testowe aplikacji ADF-Hydra. Raporty te zostały stworzone w progamie TestLink i wygenerowane w formacie PDF.
+  W tym folderze znajdują się testy manualne, plan testów oraz wykonane przypadki testowe aplikacji ADF-Hydra. Raporty te zostały stworzone w progamie TestLink i wygenerowane w formacie PDF.
   
 2. 2-Testy-automatyczne-Selenium-ADF-Hydra
 
