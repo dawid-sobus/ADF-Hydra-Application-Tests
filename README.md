@@ -11,14 +11,20 @@ This folder contains automated tests written for the ADF-Hydra application in Ja
 # Running Automated Tests:
 
 To run the automated tests, you need to download, open, and run the ADF-Hydra application by typing the following command in the terminal:
-node app.js
+- node app.js
+
 The application runs on: localhost:3000
+
 Then, open a new window and navigate to the automated tests located in this folder. In the terminal, type:
-npx mocha --no-timeouts 'test/automaticTestsAdf-Hydra.js'
+
+- npx mocha --no-timeouts 'test/automaticTestsAdf-Hydra.js'
+
 In order for the tests to run correctly, you must first download and install the chromedriver on your computer.
 
-Opening the Test Results Report:
+# Opening the Test Results Report:
+
 You need to download the report, then double-click on the file: mochawesome.html.
+
 A browser will open with the test results.
 
 # 3. Performance Tests - JMeter - ADF-Hydra
@@ -28,11 +34,15 @@ This folder contains performance tests created in JMeter and saved in the file n
 # Running Performance Tests:
 
 To run these tests, you also need to first download and start the ADF-Hydra application by typing the following command in the terminal of the open application:
-node app.js
+
+- node app.js
+
 The application runs on: localhost:3000
-Then, start the tests in JMeter.
+
+- Then, start the tests in JMeter.
 
 # Opening the Performance Test Reports:
 
 You need to download the reports, then double-click on the file: index.html.
+
 A browser will open with the test results.
